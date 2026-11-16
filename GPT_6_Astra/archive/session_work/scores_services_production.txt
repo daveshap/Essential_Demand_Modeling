@@ -1,0 +1,276 @@
+29-1011|10|25|45|Pain relief and mobility outcomes generate derived demand. A named practitioner's hands-on care, human encounter and personal responsibility support a substantial but uncertain human premium.
+29-1021|5|15|30|Patients primarily buy oral health and successful procedures. Some demand attaches to a continuing human dentist relationship and a practitioner personally answerable for treatment.
+29-1022|3|10|20|Surgical safety and restored function dominate. A personally accountable surgeon and human preoperative reassurance retain a smaller essential component than the technical operation.
+29-1023|3|10|25|Tooth alignment is the principal purchase. Long-term relationships with patients and families, plus a named clinician standing behind care, support limited essential demand.
+29-1024|2|8|20|Functional and cosmetic dental restoration dominates. Some patients additionally value the responsible human specialist and personal consultation, rather than fabrication itself.
+29-1029|3|10|25|Specialist dental outcomes are chiefly instrumental. Patient relationships and personal responsibility vary across the specialties collected here, creating a wider upper bound.
+29-1031|5|15|35|Nutritional plans and health improvements are outputs. An ongoing relationship with a real human coach can itself command a premium, especially in personal counseling.
+29-1041|3|10|25|Accurate vision correction and eye-health management dominate. A continuing relationship with a personally responsible human clinician supports a limited essential share.
+29-1051|1|5|15|Correct dispensing, interaction checking and medication advice are instrumental. Some demand is for a known human pharmacist who assumes responsibility and provides personal counsel.
+29-1071|5|15|30|Diagnosis and treatment are chiefly derived demand. Patient relationships and having a real clinician personally responsible for care contribute a smaller essential component.
+29-1081|3|10|25|Foot treatment and mobility improvement are outputs. Repeat patient relationships and personal clinical accountability support some demand for a human practitioner.
+29-1122|10|25|45|Functional rehabilitation is instrumental. Sustained interaction with a real human therapist, encouragement and a specific therapeutic relationship can be separately valued.
+29-1123|5|20|40|Restoring movement is the main output. A real human therapeutic relationship and hands-on personal care create mixed demand beyond exercise prescription or mechanical assistance.
+29-1124|0|3|10|Radiation delivery is predominantly a technical treatment service. Some patients value human accompaniment during repeated cancer treatment, distinct from the radiation procedure.
+29-1125|15|35|60|Rehabilitation outcomes remain instrumental, but shared recreation with a real person and a particular therapeutic relationship can be central to the purchased experience.
+29-1126|1|5|15|Breathing support and monitoring dominate. Human bedside reassurance and a personally responsible clinician add a limited essential component in some care settings.
+29-1127|10|25|45|Communication improvement is the functional goal. Repeated interpersonal practice with a real human and an established therapist relationship support a meaningful essential component.
+29-1128|3|12|30|Physiological assessment and exercise benefits are outputs. Some clients pay for an ongoing human coaching relationship and personal responsibility for their program.
+29-1129|5|20|45|This residual spans therapeutic modalities with different interpersonal content. Functional treatment dominates some cases, while real human participation and relationships matter strongly in others.
+29-1131|2|8|20|Animal health is the desired outcome. Owners may also value a known human veterinarian's counsel and personal responsibility, especially during difficult care decisions.
+29-1141|10|25|45|Medication, monitoring and procedures are instrumental. Real human bedside presence, continuity and end-of-life companionship support essential demand within a technically diverse occupation.
+29-1151|1|5|15|Safe anesthesia is overwhelmingly an outcome purchase. A personally accountable clinician and brief human reassurance contribute a smaller essential component.
+29-1161|20|45|70|Safe childbirth is instrumental, while many clients additionally seek a real human companion, a particular midwife and personal responsibility through an intimate life event.
+29-1171|8|20|40|Diagnosis and treatment generate derived demand. Continuing patient relationships and a personally answerable human practitioner sustain an additional essential share.
+29-1181|3|10|25|Hearing assessment and rehabilitation primarily deliver functional results. Some demand attaches to repeated human counseling and an accountable personal practitioner.
+29-1211|2|7|18|Anesthesia safety and pain control dominate. Patients may separately want a human decision-maker personally answerable for care, with little demand for human technical execution itself.
+29-1212|3|10|25|Cardiac diagnosis and treatment are instrumental. A named physician's responsibility and continuing patient relationship preserve a minority essential component.
+29-1213|3|10|25|Skin treatment and appearance outcomes dominate. Personal clinician reputation, responsibility and repeat relationships can support a human premium in selected practices.
+29-1214|2|8|20|Emergency stabilization is chiefly an outcome purchase. Human reassurance and a person answerable for consequential decisions retain a smaller essential component.
+29-1215|10|25|45|Medical outcomes remain instrumental. Long-standing relationships with a particular family doctor and personally accountable care can carry substantial value beyond the diagnosis.
+29-1216|8|20|40|Disease management primarily supplies health outcomes. Continuing relationships and a human physician who stands behind consequential care support a mixed demand profile.
+29-1217|5|15|30|Neurological diagnosis and treatment dominate. Longitudinal counseling and a personally responsible human doctor add value for some patients and families.
+29-1218|10|25|45|Reproductive health outcomes are instrumental. Intimate care, childbirth relationships and a personally accountable human clinician can command a separate premium.
+29-1221|10|25|45|Children's health is the principal output. Families may also value a particular human pediatrician's relationship with the child and personal responsibility for care.
+29-1222|0|2|8|Tissue analysis and accurate diagnosis dominate, generally without a patient-facing relationship. The upper bound allows some demand for personally accountable human interpretation.
+29-1223|15|35|60|Diagnosis and medication management are instrumental. Therapy and an enduring relationship with an actual human psychiatrist support substantial essential demand in part of the occupation.
+29-1224|0|3|10|Image interpretation is predominantly an output purchase. A minority share reflects demand for a personally responsible human specialist, especially in interventional or patient-facing work.
+29-1229|5|15|35|Unspecified physician specialties mix technical and relationship-based care. Named human responsibility and sustained patient relationships support some demand, with substantial composition uncertainty.
+29-1241|3|10|25|Restored vision and eye treatment dominate. Personal responsibility for surgery and a continuing human patient relationship support a smaller essential component.
+29-1242|3|10|25|Successful surgery and restored mobility are instrumental. A human surgeon's personal commitment and reputation can be valued separately from technical surgical performance.
+29-1243|5|15|30|Surgical outcomes for children dominate. Families may especially value a known human surgeon's personal responsibility and presence during consequential decisions.
+29-1249|3|10|25|Operations are principally purchased for health outcomes. A named person standing behind the intervention and communicating with patients supports a minority essential share.
+29-1291|10|30|55|Symptom relief is an instrumental goal. A real human practitioner's touch, personal encounter and identity may also be central to what clients purchase.
+29-1292|2|10|25|Clean teeth and preventive care dominate. Repeated human interaction and comfort with a particular hygienist support a limited personal-service premium.
+29-1299|5|20|45|The residual includes varied diagnosing and treating practices. Some are technical, while others sell a particular human relationship or hands-on encounter, widening the range.
+29-2010|0|0|2|Patients and clinicians buy accurate laboratory results. A small upper allowance covers individually accountable specialist oversight, not routine human sample processing.
+29-2031|0|3|10|Cardiac testing and procedure support mainly deliver technical outputs. Some human reassurance during uncomfortable or consequential examinations adds limited essential demand.
+29-2032|1|5|15|Diagnostic images are instrumental. Human interaction during examinations, including emotionally significant prenatal imaging, can be independently valued by some patients.
+29-2033|0|2|8|Safe tracer administration and accurate imaging dominate. A modest upper bound allows demand for human reassurance during the procedure.
+29-2034|0|2|8|The principal purchase is accurate diagnostic imaging. Some patients separately value a real human's reassurance and assistance during an examination.
+29-2035|0|3|10|MRI images and safe operation are instrumental. Real human reassurance for anxious or claustrophobic patients supports a small essential component.
+29-2036|0|0|3|Radiation dose planning is purchased for technical accuracy. Only a small upper allowance is assigned to demand for personally answerable human plan approval.
+29-2042|1|5|15|Emergency stabilization and transport support are instrumental. Human comfort during distress can itself be valued, while rescue capability does not require human execution.
+29-2043|2|8|20|Advanced emergency treatment chiefly supplies health outcomes. Human reassurance and personal responsibility for immediate decisions add a limited essential component.
+29-2051|0|3|10|Diet preparation and nutritional assistance are mainly instrumental. Some settings include valued ongoing interaction with a real human nutrition-support worker.
+29-2052|0|0|3|Medication preparation, inventory and processing are functional services. Limited human-service preference may exist at counters, but the pharmacist generally owns clinical accountability.
+29-2053|10|25|45|Monitoring and treatment support are instrumental. Real human companionship and relationships in psychiatric care can themselves be part of the valued service.
+29-2055|0|0|3|Operating-room preparation and technical assistance serve surgical outcomes. Human identity or presence is rarely the purchase, with a small upper allowance for team-specific preference.
+29-2056|0|3|10|Animal treatment support is primarily instrumental. Some owners value continuity with a particular human technician and personal counsel during difficult episodes.
+29-2057|0|2|8|Eye testing and treatment assistance are functional services. Human reassurance and continuity add a limited personal component in some practices.
+29-2061|10|25|45|Routine treatment and monitoring are instrumental. Sustained bedside care, elder-care relationships and real human comfort create a meaningful essential component.
+29-2072|0|0|0|Accurate coding and organized medical records are the outputs purchased. Human identity, presence or provenance contributes no material essential demand to routine records work.
+29-2081|2|8|20|Correctly fitted eyewear is the principal output. Some customers pay for a particular human stylist's relationship and personal responsibility for fitting.
+29-2091|3|12|30|Functional orthoses and prostheses dominate. Close ongoing relationships and a named practitioner standing behind individualized rehabilitation support some essential demand.
+29-2092|3|10|25|Better hearing and device fitting are instrumental. Repeated human counseling and a trusted individual responsible for follow-up add a minority essential share.
+29-2099|0|5|20|This residual combines technical roles and patient-facing services. Most demand concerns health outputs, but some roles include independently valued human interaction and responsibility.
+29-9021|0|0|2|Health information systems and registries are purchased for accuracy and usability. Limited personally accountable oversight may matter, but human data handling itself is instrumental.
+29-9091|5|15|35|Injury prevention and rehabilitation are outcomes. Athletes may separately value a particular human trainer, personal reassurance and an accountable ongoing relationship.
+29-9092|15|35|60|Risk interpretation is instrumental. Real human support through reproductive and family decisions and an established counseling relationship create substantial mixed demand.
+29-9093|0|2|8|Operative assistance primarily supplies successful surgery. Some demand may attach to a particular accountable human team member, with little value in human execution alone.
+29-9099|2|10|30|The residual spans clinical and technical work. Human patient relationships and personal responsibility may matter, but the uncertain mix warrants wide judgment bounds.
+31-1120|15|35|60|Help with daily activities and monitoring is instrumental. Real human companionship, continuity and hospice presence can themselves be a substantial part of the service purchased.
+31-1131|10|25|45|Hygiene, mobility and routine care are functional outputs. Real human bedside comfort and sustained relationships with residents support a significant essential component.
+31-1132|0|3|10|Moving patients and maintaining care areas are mainly instrumental. Some vulnerable patients value a real human accompanying them, creating a small essential share.
+31-1133|10|25|45|Supervision and daily living support are instrumental. Actual human companionship and familiar care relationships can be separately valued in psychiatric settings.
+31-2011|8|20|40|Functional rehabilitation dominates, while repeated practice with an actual human and an established support relationship add meaningful essential demand.
+31-2012|0|5|15|Equipment preparation and routine assistance are mostly instrumental. Some direct patient interaction is valued for real human accompaniment rather than therapeutic output alone.
+31-2021|5|15|35|Physical recovery is the central output. Sustained human encouragement and a particular therapist-assistant relationship support a minority essential component.
+31-2022|0|3|10|Preparing treatment areas and assisting movement mostly supply functional support. Brief human reassurance creates limited essential demand in patient-facing settings.
+31-9011|15|40|70|Relaxation and pain relief are instrumental. Many clients also seek actual human touch or a particular practitioner's presence, making the human component substantial but uncertain.
+31-9091|2|8|20|Chairside assistance and administration are mainly instrumental. Familiar human reassurance during anxious dental visits contributes a smaller essential component.
+31-9092|2|8|20|Scheduling, measurements and clinical support are functional services. Some demand reflects continuity with a real person and human comfort in medical encounters.
+31-9093|0|0|0|Sterile and properly prepared medical equipment is the required output. Human execution has no material independent value in this role.
+31-9094|0|0|0|Accurate medical text is the desired output. The identity or humanity of the transcriber is not a material part of the service purchased.
+31-9095|0|0|2|Stocking and clerical pharmacy support are instrumental. Only a small upper allowance covers independently valued familiar human service at the counter.
+31-9096|0|3|10|Animal welfare and laboratory support dominate. Owners may additionally value a familiar human caregiver, but animal-directed care is not automatically demand for humans.
+31-9097|0|3|10|Safe blood collection is the principal output. Some patients separately value real human reassurance and comfort during an anxiety-provoking procedure.
+31-9099|2|10|25|The residual mixes functional support with direct care. Real human companionship may matter in some included roles, with uncertain occupational composition.
+33-1011|10|25|45|Prison operations are instrumental. A human supervisor answerable for coercive decisions and treatment of prisoners supplies a meaningful accountability component.
+33-1012|20|40|65|Effective policing is instrumental. Demand for a human authority who can be removed or sanctioned is substantial, consistent with the user's police-chief example.
+33-1021|10|25|45|Fire response coordination is instrumental. A human chief personally answerable for decisions retains value even if machines perform dangerous frontline rescue.
+33-1091|5|15|30|Protection and staff coordination are outputs. Clients may additionally want an identifiable human supervisor responsible for surveillance and coercive actions.
+33-1099|5|20|40|The residual mixes protective functions. Personally answerable human authority supports essential demand, while technical coordination remains instrumental and the mix is uncertain.
+33-2011|0|2|8|Fire suppression and rescue are instrumental, as in the user's robot-firefighter example. A small share allows human reassurance or personal responsibility distinct from rescue execution.
+33-2021|2|8|20|Finding hazards and causes is instrumental. A human investigator personally answerable for consequential findings and enforcement decisions contributes a limited essential component.
+33-2022|0|3|10|Preventing forest fires and identifying hazards are functional outcomes. Some demand may remain for a human official personally responsible for consequential restrictions.
+33-3011|5|15|30|Courtroom order is instrumental. Human officers exercising accountable coercive authority and participating in the court's public process support a minority essential share.
+33-3012|3|10|25|Secure custody is chiefly an outcome purchase. Demand for humane interaction and personally accountable use of coercion creates an essential component without making all guarding essential.
+33-3021|5|15|35|Solving cases and gathering evidence are instrumental. Personally answerable investigators and human relationships with victims or witnesses support some essential demand.
+33-3031|3|10|25|Conservation and enforcement outcomes dominate. An identifiable human exercising sanctionable public authority adds a smaller accountability component.
+33-3041|0|2|8|Parking compliance is the principal outcome. A limited share reflects preference for a personally accountable human exercising enforcement discretion.
+33-3051|5|15|35|Safety and crime response are instrumental. Human accountability for coercion and relationships with actual community members support a minority essential share.
+33-3052|3|10|25|Transit safety and law enforcement chiefly supply outcomes. Personally answerable human discretion and interaction with travelers add limited essential demand.
+33-9011|0|3|12|Safe animal handling and nuisance resolution are functional services. Some demand attaches to human responsibility and personal engagement with distressed owners.
+33-9021|2|8|20|Useful evidence and information dominate. A particular investigator's discretion, personal commitment and responsibility may separately command a premium.
+33-9031|0|2|8|Detecting cheating and monitoring gambling are instrumental. A small component may require a personally accountable human investigator making consequential accusations.
+33-9032|0|5|15|Protection, deterrence and access control dominate. Human reassurance and personally accountable discretion create some demand, but human patrol execution is chiefly instrumental.
+33-9091|0|2|8|Safe crossings and traffic control are the outputs. Familiar human interaction may add value at schools, while roadwork signaling is almost wholly instrumental.
+33-9092|0|3|12|Preventing injury and rescuing people are instrumental. Real human reassurance and personal engagement within recreation settings support a small essential component.
+33-9093|0|0|5|Detecting prohibited items and ensuring transport safety dominate. The upper bound allows demand for personally accountable human discretion during searches or disputes.
+33-9094|5|15|30|Safe and orderly transport is instrumental. A familiar real adult accompanying and comforting children contributes a separate human-presence component.
+33-9099|0|8|25|This residual includes diverse protective tasks. Most demand concerns safety outputs, while some roles involve valued human presence or personally accountable authority.
+35-1011|10|25|45|Food quality and kitchen coordination are instrumental. A particular chef's authorship, handmade provenance and personal reputation can themselves attract paying customers.
+35-1012|1|5|15|Coordinating food preparation and service is mostly instrumental. Some customers value a personally responsible human host or supervisor in independent and premium venues.
+35-2011|0|0|2|Customers mainly buy standardized meals quickly and cheaply. Human cooking provenance has little independent value, with only a small allowance for niche preferences.
+35-2012|0|0|3|Institutional meals are purchased for nourishment and reliable delivery. A small upper allowance covers settings that separately value a familiar human cook.
+35-2013|5|20|40|Prepared meals are instrumental. Some households pay for a particular cook, personal continuity or real human culinary authorship beyond the meal's functional quality.
+35-2014|0|5|15|Most demand concerns the finished meal. Human-made culinary provenance and recognizable individual craft contribute a minority share, especially in artisan or open-kitchen dining.
+35-2015|0|1|5|Promptly prepared meals dominate. Some diner customers value a familiar human cook or witnessed preparation, but this is a small component.
+35-2019|0|3|12|This residual mixes cooking settings. Functional meal provision dominates, with uncertain niches for particular cooks and explicitly human-made food.
+35-2021|0|0|3|Ingredient preparation is primarily an input to finished meals. The upper bound allows limited visible hand-preparation provenance in specialized food experiences.
+35-3011|10|30|55|Preparing and delivering drinks is instrumental. Conversation with an actual bartender, a particular person's following and live human performance can be central purchases.
+35-3023|0|2|8|Taking orders and delivering food mostly supply convenience. Some customers value a familiar real person, but human interaction is usually incidental to the transaction.
+35-3031|5|15|35|Meal delivery and order handling are instrumental. Personal hospitality, a familiar server and premium human attention sustain a mixed essential component.
+35-3041|2|8|20|Delivering meals outside restaurants is chiefly instrumental. Human companionship and personal attention in care or hospitality settings add a minority essential share.
+35-9011|0|2|8|Clearing tables and supporting service are functional inputs. Limited customer-facing human hospitality supports a small essential component in some venues.
+35-9021|0|0|0|Clean dishes are the required output. The dishwasher's humanity, identity or personal presence does not materially contribute to the service purchased.
+35-9031|5|15|35|Seating and reservations are functional tasks. Real human welcome, personal recognition and premium hospitality can themselves form part of the dining experience.
+35-9099|0|3|15|The residual combines varied food-service tasks. Most are functional, while some include valued human hosting or culinary provenance; composition is uncertain.
+37-1011|0|3|10|Reliable cleaning and coordination are outputs. A human supervisor or small operator who personally stands behind the service can command a limited accountability premium.
+37-1012|0|5|15|Groundskeeping coordination is instrumental. Some demand attaches to an identifiable human operator personally responsible for results and property damage.
+37-2011|0|0|2|Clean and usable buildings are the principal purchase. A narrow upper allowance covers personal continuity, while trust in competent cleaning alone is instrumental.
+37-2012|0|2|8|A clean household or room is the main output. Some households also value a familiar human's continuity and personally assumed responsibility for service.
+37-2019|0|0|3|Specialized cleaning primarily supplies cleanliness. The broad residual leaves a small allowance for independently valued human continuity or personal accountability.
+37-2021|0|2|8|Pest removal and prevention are instrumental. A named operator personally standing behind safety and results may command a small accountability premium.
+37-3011|0|2|8|Maintained grounds are the main output. A minority of buyers value personally authored garden craft or a human operator standing behind the work.
+37-3012|0|0|2|Effective, safe vegetation treatment is instrumental. Some personally accountable operator demand may remain, but human spraying itself adds no material value.
+37-3013|0|2|8|Safe pruning and tree removal are functional outcomes. A named arborist personally accepting responsibility can add limited essential demand beyond execution.
+37-3019|0|1|5|The residual mostly supplies maintained grounds. Small niches may value human garden craft or a personally accountable operator, with uncertain composition.
+39-1013|3|10|25|Gambling operations and dispute handling are partly functional. A personally accountable human floor authority and familiar host can add independent value.
+39-1014|3|10|25|Coordinating recreation is instrumental. A real human host or personally responsible leader can be part of the entertainment experience in some settings.
+39-1022|5|15|35|Service coordination is instrumental. Clients may seek a particular human proprietor, personal continuity and someone who stands behind intimate personal services.
+39-2011|5|15|35|Animal behavior outcomes are instrumental. Owners may pay for a particular trainer's identity and personal commitment, while live human-animal performance adds another niche.
+39-2021|0|5|15|Animal welfare, feeding and grooming chiefly supply outputs. Some owners value a particular human caregiver and their personal commitment, not simply competent handling.
+39-3011|15|40|65|Dealing mechanics are instrumental. Live interaction with a real human dealer, social ritual and personal recognition can be substantial parts of gambling demand.
+39-3012|0|3|10|Recording bets and payments is primarily functional. A small social-service component may attach to a familiar human bookmaker or runner.
+39-3019|3|12|30|This residual mixes functional gambling support and social hosting. Real human interaction can be valued, but the composition is less clear than for dealers.
+39-3021|0|0|2|Reliable film display is the purchased output. A very small niche may value a live human projectionist as part of a historic exhibition.
+39-3031|0|3|10|Ticket checking and directing patrons are instrumental. Real human welcome and personal assistance can add a small hospitality premium.
+39-3091|1|5|15|Operating attractions and assisting visitors are mainly functional. Some experiences additionally sell interaction with real human attendants or hosts.
+39-3092|0|2|8|Costume readiness and backstage assistance serve performance outputs. Human craft or particular working relationships add only a limited essential component.
+39-3093|0|3|10|Storage and garment assistance are functional. Premium human attention and personally familiar service can command a small separate premium.
+39-3099|2|10|30|The residual contains varied entertainment support. Functional assistance dominates some jobs, while others sell actual human hosting and interaction, creating a wide range.
+39-4011|0|3|10|Preservation and presentation of remains are functional outputs. Some families place separate value on human stewardship and ritual handling of the deceased.
+39-4012|0|1|5|Cremation primarily supplies respectful disposition of remains. A small share allows demand for an actual human custodian participating in the ritual.
+39-4021|10|25|45|Funeral logistics are instrumental. Real human presence, compassionate participation and assistance during mourning can themselves be valued by families.
+39-4031|15|35|60|Arrangements and disposition are functional services. Families may separately value a particular human guide, shared mourning and personally answerable stewardship of the funeral.
+39-5011|15|35|60|Haircut results are instrumental. A particular barber, conversation and real human personal attention can be major independent reasons for patronage.
+39-5012|15|35|60|Appearance results generate derived demand. A particular stylist's identity, personal relationship and live human attention support a substantial essential component.
+39-5091|5|15|35|A performer's required appearance is mostly an output. Named human artistry, creative provenance and personal relationships support some separate demand.
+39-5092|10|25|50|Nail appearance and care are functional. Actual human touch, conversation and continuity with a particular practitioner can independently command a premium.
+39-5093|5|15|35|Clean hair and treatment preparation are instrumental. Human touch and personal pampering can themselves be valued in salon experiences.
+39-5094|10|25|50|Skin appearance and treatment outcomes are instrumental. A real human practitioner's touch, personal relationship and pampering create mixed demand.
+39-6011|0|5|15|Moving luggage is predominantly functional. Premium human hospitality, personal recognition and ceremonious service can add a smaller essential component.
+39-6012|5|20|40|Reservations and useful local information are instrumental. A particular human host's personal attention, social connection and responsibility can independently command a premium.
+39-7010|10|30|55|Navigation and information are functional. Travelers may also purchase companionship, a particular guide's lived experience and authentic interaction with a real human host.
+39-9011|30|60|85|Supervision and practical care are instrumental. The user's real-human childcare example supports strong demand for actual human care, attachment and shared human experience.
+39-9031|10|30|55|Fitness outcomes and program design are instrumental. A particular trainer, real human group leadership and personal companionship can be substantial parts of the purchase.
+39-9032|15|35|60|Activity organization is functional. Shared participation with real human leaders and social companionship can themselves be central to recreation services.
+39-9041|10|25|45|Housing supervision and rule administration are instrumental. Actual human mentorship, community relationships and an answerable adult authority add a meaningful essential component.
+39-9099|5|20|50|This residual spans diverse personal services. Some mainly deliver outputs, while others center on human companionship or a particular person, making the range especially uncertain.
+51-1011|0|2|8|Production coordination and quality are functional outputs. A limited share reflects demand for an identifiable human supervisor personally responsible for factory operations.
+51-2011|0|0|0|Aircraft assembly is purchased for reliable airframes and systems. The assembler's humanity or identity adds no material independent value to the functional product.
+51-2021|0|0|0|Working coils and electrical components are the required products. Human winding and finishing are inputs to those results rather than independent objects of demand.
+51-2028|0|0|0|Buyers want functional electrical and electronic assemblies. Human assembly itself has no material separate value in the ordinary production market.
+51-2031|0|0|0|Reliable engines and machinery are the outputs purchased. Their assembly labor is derived from product demand, with no material human-specific component.
+51-2041|0|0|1|Structural fit and strength dominate. A very small upper allowance covers named artisan metalwork, rather than ordinary industrial fabrication.
+51-2051|0|0|1|Fiberglass products are purchased for their performance and shape. A small niche allowance covers personally authored custom craft, not routine lamination.
+51-2061|0|1|5|Accurate timing devices dominate. A narrow luxury-watch niche may value identifiable human assembly and adjustment as provenance beyond timekeeping quality.
+51-2090|0|0|2|Miscellaneous assembly primarily supplies functional manufactured goods. A small upper allowance covers uncommon human-crafted products within this broad residual.
+51-3011|2|10|25|Bread and baked goods mainly satisfy food demand. Artisan human provenance, a particular baker and personally created celebration products support a minority essential component.
+51-3021|0|2|8|Prepared meat is the principal output. A small share reflects a particular butcher's personal service, human craft or individually assumed responsibility.
+51-3022|0|0|0|Cut and trimmed meat, poultry and fish are the required outputs. The worker's humanity is not a material independent part of the purchase.
+51-3023|0|0|0|Processed meat is the functional output. Human slaughtering and packing are instrumental inputs, even where buyers care strongly about humane treatment of animals.
+51-3091|0|0|2|Processed food and tobacco characteristics dominate. A small upper allowance covers specialty products whose buyers explicitly value identifiable human roasting or baking craft.
+51-3092|0|1|5|Food batches are primarily bought for taste and consistency. Small artisanal niches may value actual human making and a named maker's provenance.
+51-3093|0|0|0|Cooked food with the specified quality and volume is the output. Human machine tending carries no material separate demand.
+51-3099|0|1|5|The residual mostly supplies processed food. Uncertain small artisanal niches may attach independent value to a human maker and traditional provenance.
+51-4021|0|0|0|Extruded or drawn metal and plastic are functional intermediate goods. Human machine operation is an instrumental production input.
+51-4022|0|0|1|Forged components chiefly serve functional requirements. A very small upper allowance covers explicitly human-crafted specialty items within this machine-oriented occupation.
+51-4023|0|0|0|Rolled metal and plastic are purchased for dimensions and properties. The operator's humanity is not a material component of demand.
+51-4031|0|0|0|Cut and pressed components are functional industrial outputs. Demand does not materially depend on a real human operating the machinery.
+51-4032|0|0|0|Drilled and bored parts are purchased for accuracy and specification. Human execution is an input to the desired result.
+51-4033|0|0|0|Required surfaces and tolerances are the products purchased. Machine-setting and tending labor is derived from those technical requirements.
+51-4034|0|0|0|Turned components are valued for their geometry and function. Human machine operation has no material independent demand.
+51-4035|0|0|0|Milled and planed parts are purchased for fit and performance. Human machine tending is a means of producing those outcomes.
+51-4041|0|1|4|Precision parts are primarily functional goods. A small custom-craft niche may value a named human machinist's provenance or personal commitment.
+51-4051|0|0|0|Refined metal with the required properties is the output. Human furnace operation is entirely instrumental to that production goal.
+51-4052|0|0|1|Metal castings primarily serve product specifications. A very small upper allowance covers human-authored artistic casting within an otherwise industrial occupation.
+51-4061|0|0|3|Models chiefly support product design and manufacturing. A small niche may value a particular human model maker's collectible or artistic work.
+51-4062|0|0|0|Patterns are manufacturing inputs purchased for dimensional accuracy. Their makers' humanity does not materially add to the functional value.
+51-4071|0|0|0|Foundry molds and cores serve casting specifications. Human fabrication is an instrumental input to a usable casting.
+51-4072|0|0|0|Molded and cast components are purchased for their properties and consistency. Human equipment operation carries no material independent demand.
+51-4081|0|0|0|Machined parts are the desired outputs. Operating multiple machine tools remains an intermediate production activity rather than a human-centered purchase.
+51-4111|0|0|2|Tools and dies are purchased for manufacturing performance. A small upper allowance covers a named craftsperson personally standing behind bespoke tooling.
+51-4121|0|1|5|Sound joins and fabricated structures dominate. Human-authored decorative metalwork and a particular independent craftsperson's commitment support a small niche component.
+51-4122|0|0|0|Reliable machine-made joins are the purchased output. Human operation of welding or soldering equipment has no material separate value.
+51-4191|0|0|0|Specified material properties are the output. Human heat-treatment operation is an instrumental production input.
+51-4192|0|0|0|Correct layouts and fabrication marks serve manufacturing accuracy. The humanity of the layout worker has no material independent demand.
+51-4193|0|0|0|Plated surfaces are purchased for protection and appearance. Human plating-machine operation is a means of producing those characteristics.
+51-4194|0|0|2|Sharp, correctly shaped tools are the main output. A small upper allowance covers customers seeking a particular human craftsperson's personal sharpening service.
+51-4199|0|1|5|Most residual metal and plastic work serves functional manufacturing. Small artistic or named-craft niches may value actual human provenance, with uncertain composition.
+51-5111|0|0|0|Print-ready files and plates are functional production inputs. Buyers do not materially value human prepress execution for its own sake.
+51-5112|0|0|3|Printed material is the principal output. A niche for human-operated letterpress or traditional print craft supports a small upper bound.
+51-5113|0|1|5|Finished and bound printed products are mainly functional. Hand-bound collectible books and named artisan provenance create a small essential niche.
+51-6011|0|0|2|Clean garments and textiles are the desired outcomes. Only a small upper allowance covers a particular human operator personally standing behind delicate-item care.
+51-6021|0|0|0|Pressed garments and textiles are the outputs purchased. Human pressing itself has no material independent value.
+51-6031|0|0|3|Sewn products are chiefly purchased for fit, appearance and durability. A small upper allowance covers buyers explicitly valuing actual human-made provenance.
+51-6041|2|8|20|Usable or repaired leather goods are functional outputs. Bespoke human craft, identifiable maker provenance and personal service support a minority essential component.
+51-6042|0|0|0|Manufactured footwear and components are the desired products. Human machine tending has no material independent demand.
+51-6051|5|15|35|Sewn products have functional value, while actual handwork, human effort and identifiable craft provenance can separately command a premium in this occupation.
+51-6052|5|20|40|Fit and garment appearance are instrumental. A particular tailor's personal relationship and actual human craftsmanship can be meaningful independent reasons for purchase.
+51-6061|0|0|1|Fabric color and finish are the functional outputs. A very small niche may value human-directed artisanal dyeing rather than ordinary machine processing.
+51-6062|0|0|0|Accurately cut textiles are the purchased production input. Human machine operation is not itself materially valued.
+51-6063|0|0|2|Knitted and woven fabrics are mainly functional goods. Limited artisan markets may value genuine human-guided making despite the machine-oriented occupational definition.
+51-6064|0|0|0|Prepared textile fibers and yarns are production inputs. The humanity of the machine operator contributes no material independent demand.
+51-6091|0|0|0|Synthetic and glass fibers are purchased for technical properties and volume. Human equipment operation is instrumental to their production.
+51-6092|0|1|5|Patterns chiefly supply garment fit and manufacturability. A small designer-craft niche may value a particular human's authorship rather than pattern function alone.
+51-6093|1|5|15|Restored or upholstered furniture is primarily functional. Bespoke handwork and a named human craftsperson's personal commitment support a modest essential niche.
+51-6099|0|3|12|The residual combines varied textile and furnishing work. Functional production dominates, while handmade or named-artisan provenance may matter in some niches.
+51-7011|2|8|20|Usable cabinetry and furniture are the main outputs. Bespoke human making, identifiable craft and personally commissioned work support a minority essential component.
+51-7021|1|5|15|Furniture appearance and protection are functional results. Human restoration craft and a particular finisher's provenance may separately matter for valued objects.
+51-7031|0|2|8|Wooden models chiefly support designs and production. A small artistic or collectible niche may value a particular human maker's work.
+51-7032|0|0|2|Wooden patterns serve manufacturing accuracy. A small upper allowance covers individually crafted heritage work whose human provenance is explicitly valued.
+51-7041|0|0|0|Cut lumber and components are functional outputs. Human saw operation has no material independent demand.
+51-7042|0|0|2|Shaped wooden components are mainly purchased for specification. A small upper allowance covers products marketed for actual human craft participation.
+51-7099|1|5|20|The residual contains varied woodworking. Most is functional, while handcrafted decorative and bespoke work can attract a separate human-provenance premium.
+51-8011|0|2|8|Reliable, safe nuclear generation is instrumental. Some demand remains for a human operator personally answerable for consequential operating decisions.
+51-8012|0|1|5|Reliable power delivery is the principal output. A small share allows demand for personally accountable human authority over consequential dispatch decisions.
+51-8013|0|0|3|Electricity production is an instrumental service. A limited upper bound covers personal operational accountability, not human performance of routine plant tasks.
+51-8021|0|0|2|Heat, steam and functioning building systems are the outputs. A small upper allowance recognizes individually assumed operating responsibility in some settings.
+51-8031|0|1|5|Safe water and wastewater treatment are instrumental outcomes. Limited demand may remain for a personally answerable human operator overseeing public-health consequences.
+51-8091|0|0|3|Chemical process output and safe operation dominate. A small upper allowance covers personally accountable human operating authority.
+51-8092|0|0|2|Processed gas and reliable operation are functional outputs. A narrow upper allowance covers personal responsibility, not human operation as an end.
+51-8093|0|0|3|Refined products and accurate transfers are instrumental outputs. Some personally accountable operating authority may be valued independently of technical execution.
+51-8099|0|1|5|Residual plant roles primarily deliver process outputs. Limited human accountability may matter in consequential operations, with uncertainty from the broad grouping.
+51-9011|0|0|0|Chemical processing results are the products purchased. Human equipment tending adds no material independent value.
+51-9012|0|0|0|Separated and purified materials are functional intermediate products. Human machine tending is derived from those production needs.
+51-9021|0|0|0|Materials with required size and finish are the outputs. The machine operator's humanity is not a material component of demand.
+51-9022|0|1|5|Specified surface finishes are mainly functional. Hand finishing of artisanal objects can carry a small human-craft provenance premium.
+51-9023|0|0|0|Correctly mixed materials are the required output. Human operation of blending equipment is an instrumental input.
+51-9031|0|0|2|Correctly cut materials are primarily functional inputs. A small niche may value human handwork within specialized crafted products.
+51-9032|0|0|0|Sliced and cut products are purchased for specification and throughput. Human machine operation has no material independent demand.
+51-9041|0|0|0|Formed and compacted products are functional outputs. Human equipment operation is a means to achieve those outputs.
+51-9051|0|0|2|Heat-processed products dominate. A small upper allowance covers artisanal kiln or oven work where actual human making is separately valued.
+51-9061|0|1|5|Verified quality and accurate measurement are instrumental. A limited share may attach to a named human certifier personally standing behind consequential judgments.
+51-9071|10|30|55|Jewelry has appearance and material value. Actual human craftsmanship, named-maker provenance and sentimental commissions can independently drive a substantial share of demand.
+51-9081|0|0|3|Accurate dental appliances and restorations are functional products. A small upper allowance covers identifiable human craft or personal responsibility in bespoke work.
+51-9082|0|1|5|Working medical appliances dominate. Limited demand may attach to a particular human craftsperson personally responsible for an individual's custom device.
+51-9083|0|0|0|Correct optical lenses and devices are the purchased outputs. Human laboratory fabrication does not materially add independent value.
+51-9111|0|0|0|Correctly packaged and filled products are functional outputs. Human machine operation carries no material separate demand.
+51-9123|1|5|20|Most coating supplies appearance or protection. Human decorative authorship, hand painting and named craft can independently matter in a minority of this mixed occupation.
+51-9124|0|0|1|Coated and painted surfaces are chiefly functional products. Only a very small specialty niche may value human-operated finishing provenance.
+51-9141|0|0|0|Reliable semiconductor devices are the required outputs. Human processing labor is derived from demand for electronic functionality.
+51-9151|0|1|5|Processed photographs are usually valued for the image. Analog darkroom craft and a particular human printer's contribution can support a small essential niche.
+51-9161|0|0|0|Machined parts are purchased for dimensional and performance requirements. Human CNC operation has no material independent demand.
+51-9162|0|0|0|Correct tool paths and productive machining are the outputs. The programmer's human identity or presence is not a material part of the purchase.
+51-9191|0|0|0|Bonded materials and products are the functional outputs. Human adhesive-machine operation is an instrumental production input.
+51-9192|0|0|0|Cleaned or treated materials are the desired outputs. Human equipment tending has no material independent value.
+51-9193|0|0|0|Properly cooled or frozen products are the purchased outcomes. Human equipment operation is instrumental to those outcomes.
+51-9194|5|20|40|Legible markings and decoration are functional outputs. Hand engraving, named human artistry and sentimental commissions can also command a distinct provenance premium.
+51-9195|1|8|25|Most molding supplies usable products. Human-made ceramic or decorative work can carry independent provenance value, with uncertainty from the occupation's varied materials.
+51-9196|0|0|0|Paper goods are purchased for use, appearance and cost. Human machine operation has no material independent demand.
+51-9197|0|0|0|Safe and durable tires are the required products. Human production labor is derived from demand for tire performance.
+51-9198|0|0|1|Production assistance chiefly supports manufactured outputs. A very small upper allowance covers participation in explicitly human-crafted artisanal production.
+51-9199|0|1|8|This residual spans diverse production activities. Most demand is functional, while uncertain small craft niches may value actual human making or named provenance.

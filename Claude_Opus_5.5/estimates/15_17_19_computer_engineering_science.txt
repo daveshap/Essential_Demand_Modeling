@@ -1,0 +1,106 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+15-1211|0|0|1|None|Systems that work are the point. Pure derived demand.
+15-1212|0|0.5|2|Accountability|Security is a functional outcome. A sliver for the accountable human who decides how to respond to an incident and answers for it.
+15-1221|0|0|2|None|Research output is the point. Derived.
+15-1231|0|0|1|None|Networks that work are the point. Derived.
+15-1232|0|0.5|2|Presence|Help-desk users want the problem fixed. A thin segment of less confident users want a human to talk them through it even if a machine fixes it as well.
+15-1241|0|0|1|None|Network design is instrumental. Derived.
+15-1242|0|0|1|None|Database administration is instrumental. Derived.
+15-1243|0|0|1|None|Database design is instrumental. Derived.
+15-1244|0|0|1|None|Systems administration is instrumental. Derived.
+15-1251|0|0|1|None|Code is an input to software. Derived.
+15-1252|0|0|1|None|Software is bought for what it does, not for who wrote it. Pure derived demand.
+15-1253|0|0|1|None|Testing is instrumental. Derived.
+15-1254|0|0|1|None|Websites are bought for what they do. Derived.
+15-1255|0|0.5|2|Provenance|Interfaces are bought for what they do. A sliver of clients pay for a particular designer's eye.
+15-1299|0|0|1|None|Miscellaneous computing roles; instrumental.
+15-2011|0|1|3|Accountability|Actuarial modeling is instrumental. Credentialed actuaries sign statements of actuarial opinion and answer for reserves; the review time is small.
+15-2021|0|0.5|2|Provenance|Mathematical results are valued for being true. A sliver for human authorship of mathematics.
+15-2031|0|0|1|None|Optimization is instrumental. Derived.
+15-2041|0|0|1|None|Statistical analysis is instrumental. Derived.
+15-2051|0|0|1|None|Models and insights are instrumental. Derived.
+15-2099|0|0|1|None|Miscellaneous mathematical work; instrumental.
+17-1011|3|8|18|Provenance; Affinity; Accountability|Most architectural work is producing drawings for buildings (derived). Some clients hire a particular architect's vision, and a licensed architect stamps and answers for the design.
+17-1012|2|5|12|Provenance; Affinity|Landscape design is mostly instrumental site planning. Some clients want a particular designer's eye for gardens and public spaces.
+17-1021|0|0|1|None|Maps are instrumental. Derived.
+17-1022|0|1|3|Accountability|Surveys are instrumental. Licensed surveyors certify boundaries and answer for them in disputes; small share of hours.
+17-2011|0|0.5|2|Accountability|Aircraft design is instrumental. A sliver for accountable sign-off on safety-critical decisions.
+17-2021|0|0|1|None|Instrumental engineering. Derived.
+17-2031|0|0|1|None|Instrumental engineering. Derived.
+17-2041|0|0|1|None|Instrumental engineering. Derived.
+17-2051|0|2|5|Accountability|Designs are instrumental. The public relies on a licensed engineer stamping and answering for public works; meaningful review is a small share of hours.
+17-2061|0|0|1|None|Instrumental engineering. Derived.
+17-2071|0|0.5|2|Accountability|Instrumental engineering, with a sliver of stamped sign-off.
+17-2072|0|0|1|None|Instrumental engineering. Derived.
+17-2081|0|1|3|Accountability|Instrumental engineering, with some stamped sign-off on public permits.
+17-2111|0|1|3|Accountability|Safety analysis is instrumental. A sliver for the accountable person who signs off on safety.
+17-2112|0|0|1|None|Process improvement is instrumental. Derived.
+17-2121|0|0.5|2|Accountability|Instrumental engineering, with a sliver of accountable sign-off.
+17-2131|0|0|1|None|Instrumental engineering. Derived.
+17-2141|0|0.5|2|Accountability|Instrumental engineering, with a sliver of stamped sign-off.
+17-2151|0|0.5|2|Accountability|Instrumental engineering; a sliver of accountable safety sign-off.
+17-2161|0|1|3|Accountability|Instrumental engineering. Nuclear safety rules require accountable human sign-off; small share of hours.
+17-2171|0|0|1|None|Instrumental engineering. Derived.
+17-2199|0|0|2|None|Miscellaneous engineering; instrumental.
+17-3011|0|0|0.5|None|Drawings are inputs. Derived.
+17-3012|0|0|0.5|None|Drawings are inputs. Derived.
+17-3013|0|0|0.5|None|Drawings are inputs. Derived.
+17-3019|0|0|0.5|None|Drawings are inputs. Derived.
+17-3021|0|0|0.5|None|Technical support work. Derived.
+17-3022|0|0|0.5|None|Technical support work. Derived.
+17-3023|0|0|0.5|None|Technical support work. Derived.
+17-3024|0|0|0.5|None|Technical support work. Derived.
+17-3025|0|0|0.5|None|Technical support work. Derived.
+17-3026|0|0|0.5|None|Technical support work. Derived.
+17-3027|0|0|0.5|None|Technical support work. Derived.
+17-3028|0|0|0.5|None|Calibration is instrumental. Derived.
+17-3029|0|0|0.5|None|Technical support work. Derived.
+17-3031|0|0|0.5|None|Survey fieldwork is instrumental. Derived.
+19-1011|0|0|1|None|Research is instrumental. Derived.
+19-1012|0|0|1|None|Product development is instrumental. Derived.
+19-1013|0|0|1|None|Research is instrumental. Derived.
+19-1021|0|0|1|None|Research is instrumental. Derived.
+19-1022|0|0|1|None|Research is instrumental. Derived.
+19-1023|0|0.5|2|Presence|Fieldwork and research are instrumental. A sliver of public education and interpretation work.
+19-1029|0|0|1|None|Research is instrumental. Derived.
+19-1031|0|1|3|Presence|Land and resource management is instrumental. A sliver of public-facing work with landowners and visitors.
+19-1032|0|0|2|None|Forest management is instrumental. Derived.
+19-1041|0|1|3|Accountability|Surveillance and analysis are instrumental. A sliver for public health officials who answer to the public for recommendations.
+19-1042|0|0|2|None|Research is instrumental. Derived.
+19-1099|0|0|1|None|Research is instrumental. Derived.
+19-2011|0|1|3|Provenance|Observation and analysis are instrumental. A sliver for public outreach and human authorship of discovery.
+19-2012|0|0|2|None|Research is instrumental. Derived.
+19-2021|0|1|4|Affinity|Forecasts are instrumental. Broadcast meteorologists sit elsewhere; a sliver for public-facing forecasters people trust.
+19-2031|0|0|1|None|Lab analysis is instrumental. Derived.
+19-2032|0|0|1|None|Research is instrumental. Derived.
+19-2041|0|0|2|None|Environmental assessment is instrumental. Derived.
+19-2042|0|0|1|None|Exploration and analysis are instrumental. Derived.
+19-2043|0|0|1|None|Analysis is instrumental. Derived.
+19-2099|0|0|1|None|Research is instrumental. Derived.
+19-3011|0|1|3|Accountability|Economic analysis is instrumental. A sliver for public economists who answer for policy advice.
+19-3022|0|0|1|None|Survey design and analysis are instrumental. Derived.
+19-3032|3|10|25|Affinity; Presence|Mostly consulting analysis (derived). The 80% self-employed include executive coaches and facilitators whose clients want that particular person in the room.
+19-3033|35|55|75|Presence; Affinity|The therapeutic relationship is the treatment for many clients, who want a human who understands them; that session time is most of the job. Testing, scoring, notes and billing are derived.
+19-3034|15|30|50|Presence; Accountability|Psychological testing and report writing are derived. Counseling students and sitting with families to decide a child's services carry a strong human requirement.
+19-3039|30|50|70|Presence; Affinity|Largely private-practice psychologists (67% self-employed) doing therapy and assessment. Session time with clients who want a human is mostly essential; assessment and paperwork are derived.
+19-3041|0|0|3|None|Research is instrumental. Derived.
+19-3051|2|5|12|Accountability; Presence|Plan-making is instrumental. Communities expect accountable human planners at public hearings and negotiating with residents.
+19-3091|1|3|8|Provenance; Presence|Excavation and analysis are instrumental. Some public archaeology and cultural work relies on human interpreters.
+19-3092|0|0|1|None|Research is instrumental. Derived.
+19-3093|1|5|12|Provenance; Presence|Archival research is instrumental. Readers and museum visitors value history told by a human historian, and public interpretation is a small share.
+19-3094|0|0|3|None|Research is instrumental. Derived.
+19-3099|0|0|3|None|Miscellaneous social science research; instrumental.
+19-4012|0|0|0.5|None|Technical support work. Derived.
+19-4013|0|0|0.5|None|Technical support work. Derived.
+19-4021|0|0|0.5|None|Technical support work. Derived.
+19-4031|0|0|0.5|None|Technical support work. Derived.
+19-4042|0|0|0.5|None|Technical support work. Derived.
+19-4043|0|0|0.5|None|Technical support work. Derived.
+19-4044|0|0|0.5|None|Technical support work. Derived.
+19-4051|0|0.5|1|Accountability|Plant monitoring is instrumental; small accountable-operator requirement.
+19-4061|0|0|1|None|Research support is instrumental. Derived.
+19-4071|0|0.5|2|Presence|Fieldwork is instrumental; a sliver of visitor-facing work.
+19-4092|1|4|10|Accountability|Lab analysis is instrumental. Courts require a human witness who testifies and answers under cross-examination for the evidence.
+19-4099|0|0|1|None|Technical support work. Derived.
+19-5011|0|2|5|Accountability|Inspections are instrumental. Regulation expects an accountable human inspector who can order work stopped and answer for it.
+19-5012|0|0|3|None|Monitoring is instrumental. Derived.

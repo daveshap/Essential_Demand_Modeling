@@ -1,0 +1,60 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+35-1011|6|15|30|Provenance; Affinity|Running a kitchen is derived. Chef-driven restaurants sell a named person's cooking and menus, and diners pay for that authorship.
+35-1012|0|1.5|5|Presence|Supervising shifts is instrumental. A sliver of hospitality and handling unhappy guests in person.
+35-2011|0|0|1|None|Fast food is bought for speed and price. Derived.
+35-2012|0|0|2|None|Institutional meals are bought as meals. Derived.
+35-2013|20|38|58|Affinity; Presence; Provenance|Personal chefs (80% self-employed) are hired for a relationship and personal service as much as for the food.
+35-2014|0.5|3|8|Provenance|Diners want the dish. A thin segment pays for food cooked by human hands (open kitchens, handmade pasta, a known cook).
+35-2015|0|1|4|Presence|Short-order cooking is instrumental. A sliver for the diner counter where the cook is part of the place.
+35-2019|0|0|3|None|Specialty cooking is mostly instrumental.
+35-2021|0|0|1|None|Prep work is instrumental. Derived.
+35-3011|12|28|48|Presence; Affinity; Provenance|Many patrons go to a bar partly for the bartender: conversation, hospitality, the regular's relationship, cocktail craft. High-volume stadium, banquet and hotel service is derived.
+35-3023|0.3|1.5|4|Presence; Affinity|Almost all fast-food and counter buyers want speed and price. A thin segment at independent coffee shops wants a known barista and the craft.
+35-3031|6|18|34|Presence; Affinity|Diners want the meal; side work is derived. Offered a cheaper robot or tablet alternative, most upscale and special-occasion diners and a minority of casual diners would still pay for human service (the tip is partly that payment): roughly a quarter of covers, and about three-quarters of a server's time is that service.
+35-3041|1|5|12|Presence|Room service, banquet and hospital tray service are mostly derived. Weddings and catered events want human servers for the occasion.
+35-9011|0|0|3|None|Clearing tables is instrumental. Derived.
+35-9021|0|0|0.5|None|Dishwashing is instrumental. Derived.
+35-9031|1|5|12|Presence|Seating is logistics. A small share is the human welcome that is part of hospitality.
+35-9099|0|0|3|None|Miscellaneous food service; instrumental.
+37-1011|0|1|3|Accountability|Supervising cleaning is instrumental. A sliver for owner-operators whom households trust in their homes.
+37-1012|0|1|3|Accountability|Supervising grounds work is instrumental. A sliver for owner-operators clients deal with directly.
+37-2011|0|0|1|None|Clean buildings are the point. Derived.
+37-2012|0|1|3|Affinity|Clean rooms are the point. A sliver of households want their known, trusted cleaner even if a machine cleaned as well.
+37-2019|0|0|1|None|Cleaning is instrumental. Derived.
+37-2021|0|0|1|None|Pest removal is instrumental. Derived.
+37-3011|0|0.5|2|Provenance|Maintained grounds are the point. A sliver of estate gardening where the gardener's craft is valued.
+37-3012|0|0|0.5|None|Spraying is instrumental. Derived.
+37-3013|0|0|1|None|Tree work is instrumental. Derived.
+37-3019|0|0|2|None|Grounds work is instrumental. Derived.
+39-1013|3|8|18|Presence; Affinity|Supervising tables is mostly instrumental. Some is human contact with regular players who value it.
+39-1014|5|12|25|Presence|Scheduling and supervision are derived. Some is leading camps and programs in person.
+39-1022|5|12|25|Presence; Affinity|Managing salons and spas is derived. Many supervisors also serve their own clients.
+39-2011|8|18|35|Presence; Affinity|The animal doesn't care who trains it. Dog trainers largely coach owners, and riding instructors teach riders; that teaching is person to person.
+39-2021|1|3|8|Affinity|Feeding, grooming and walking are instrumental. A sliver of owners trust a particular person with their pet.
+39-3011|15|30|50|Presence|Casinos already offer electronic tables, yet many players choose live dealers at higher minimums for the atmosphere and human play. That revealed premium is real.
+39-3012|0|0|3|None|Writing bets and running tickets is instrumental. Derived.
+39-3019|1|4|10|Presence|Mixed gaming services; mostly instrumental, with some guest-facing presence.
+39-3021|0|0|1|None|Projection is automated. Derived.
+39-3031|0|2|6|Presence|Ticket taking is instrumental. A sliver of hospitality at theatres and venues.
+39-3091|0|2|6|Presence|Ride and game operation is instrumental. A sliver of character and guest interaction.
+39-3092|0|1|4|Affinity|Costume handling is instrumental. A sliver for performers who want a trusted dresser with them backstage.
+39-3093|0|2|6|Presence|Attendant work is instrumental; a sliver of personal service at upscale clubs.
+39-3099|0|2|6|Presence|Mixed attendant work; mostly instrumental.
+39-4011|3|10|25|Provenance; Presence|Preparing a body is technical work, but many families would object to learning a machine had cared for their mother's body; dignity and ritual favor human hands.
+39-4012|0|2|6|Presence|Cremation is instrumental. A sliver for families who witness it.
+39-4021|5|12|25|Presence|Ushering, pallbearing and hearse driving at funerals are part of a human ritual; logistics are derived.
+39-4031|25|42|60|Presence; Affinity|Families want a person to guide them through arrangements and the funeral itself; paperwork and logistics are derived.
+39-5011|30|50|70|Affinity; Presence|Clients keep going to their own barber; conversation, touch and the shop as a social place are much of what is bought (80% self-employed). A robot with an equal cut would win only part of the market.
+39-5012|25|42|62|Affinity; Presence; Provenance|Clients follow a particular stylist; touch, conversation and creative collaboration are a large share. Budget chains, where a standard cut is the point, are the derived share.
+39-5091|5|15|30|Affinity; Presence|Theatrical makeup is mostly bought for the look (derived). Performers often want a trusted artist with them.
+39-5092|15|30|50|Presence; Affinity|Nail art is increasingly machine-printable. The pampering, touch and the relationship with a regular manicurist are a large share of what clients pay for.
+39-5093|15|30|50|Presence|Shampooing is part of the salon's pampering experience, which is human touch.
+39-5094|20|38|58|Presence; Affinity|Facials and spa treatments are bought for touch, attention and relaxation from a person, as much as for skin results.
+39-6011|1|5|12|Presence|Carrying bags is instrumental. A small premium for personal service at luxury hotels.
+39-6012|8|20|38|Presence; Affinity|Recommendations and bookings are derived. Guests and residents value a person who knows them and takes care of them.
+39-7010|25|45|65|Presence; Affinity|Audio guides and apps already exist; people still pay for a human guide's stories, personality and local knowledge. Logistics are derived.
+39-9011|30|50|72|Presence; Affinity|Parents want people caring for their children, above all infants and toddlers, and the caregiver relationship is developmental. Cleaning, meal prep and paperwork are derived.
+39-9031|30|50|70|Presence; Affinity; Accountability|Programs are derived. Clients pay for someone who expects them, watches them and motivates them, and follow particular instructors (even on screens).
+39-9032|15|32|52|Presence|Camp counselors and activity leaders at parks and senior centers lead people in person; children and elders want human leaders. Planning and admin are derived.
+39-9041|12|28|48|Presence; Accountability|Living with and supervising students, youth or people with disabilities; a responsible person present is much of the job.
+39-9099|10|25|45|Presence; Affinity|Mixed personal services (companions, coaches, personal shoppers, 30% self-employed); much is personal attention.

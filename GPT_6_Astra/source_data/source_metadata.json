@@ -1,0 +1,211 @@
+{
+  "retrieval_date": "2026-11-16",
+  "base_year": 2025,
+  "projection_year": 2035,
+  "published_date": "2026-08-27",
+  "source_title": "BLS Table 1.2 Occupational projections, 2025–35, and worker characteristics, 2025",
+  "table_url": "https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm",
+  "xlsx_url": "https://www.bls.gov/emp/ind-occ-matrix/occupation.xlsx",
+  "retrieval_method": "Fresh official HTML table retrieved through web connector in overlapping line ranges; complete source text preserved in official_table_web_retrieval.json and retrieval_tail.txt. Direct shell HTTP XLSX download was denied by BLS; no newly downloaded XLSX is claimed.",
+  "raw_data_first_line": 166,
+  "raw_data_last_line": 1277,
+  "total_table_rows": 1112,
+  "detail_rows": 831,
+  "major_groups": 22,
+  "detail_employment_2025": 170267200,
+  "published_total_employment_2025": 170280800,
+  "reconciliation_gap_jobs": 13600,
+  "coverage_percent": 99.99201319232702,
+  "employment_units_original": "Thousands of jobs, one decimal place",
+  "employment_units_prepared": "Jobs, obtained by multiplying source by 1000; thus source precision is 100 jobs",
+  "universe": "National Employment Matrix: nonfarm wage-and-salary jobs, self-employed workers, agricultural workers, and private-household workers. It is an employment/job measure, not unique people.",
+  "definitions_url": "https://www.bls.gov/emp/documentation/definitions.htm",
+  "methodology_url": "https://www.bls.gov/emp/documentation/projections-methods.htm",
+  "release_url": "https://www.bls.gov/news.release/ecopro.htm",
+  "notes": [
+    "Use only rows explicitly classified Line item in totals. Summary rows overlap their component occupations.",
+    "Source note states employment subcategories do not necessarily add to higher categories due to rounding and excluded occupational data.",
+    "Legislators (11-1031) are absent as a published line item. Do not infer a measured employment count from residual or substitute CPS counts.",
+    "The 13,600-job gap is 0.00799% of the published total; the 831 scored line items cover 99.99201%.",
+    "This is latest available base-year occupational employment (2025), not a November 2026 real-time census.",
+    "Compared solely with existing local BLS source workbook (not model estimates): identical 831 line-item codes and all 2025 employment values. Its prior download is not used as the primary new data retrieval."
+  ],
+  "groups": [
+    {
+      "code": "11-0000",
+      "title": "Management occupations",
+      "published_employment_2025": 13683400,
+      "detail_employment_2025": 13670000,
+      "detail_count": 37,
+      "difference_jobs": 13400
+    },
+    {
+      "code": "13-0000",
+      "title": "Business and financial operations occupations",
+      "published_employment_2025": 11368500,
+      "detail_employment_2025": 11368500,
+      "detail_count": 32,
+      "difference_jobs": 0
+    },
+    {
+      "code": "15-0000",
+      "title": "Computer and mathematical occupations",
+      "published_employment_2025": 5493600,
+      "detail_employment_2025": 5493800,
+      "detail_count": 21,
+      "difference_jobs": -200
+    },
+    {
+      "code": "17-0000",
+      "title": "Architecture and engineering occupations",
+      "published_employment_2025": 2690000,
+      "detail_employment_2025": 2690200,
+      "detail_count": 36,
+      "difference_jobs": -200
+    },
+    {
+      "code": "19-0000",
+      "title": "Life, physical, and social science occupations",
+      "published_employment_2025": 1628700,
+      "detail_employment_2025": 1628500,
+      "detail_count": 48,
+      "difference_jobs": 200
+    },
+    {
+      "code": "21-0000",
+      "title": "Community and social service occupations",
+      "published_employment_2025": 3270100,
+      "detail_employment_2025": 3270100,
+      "detail_count": 17,
+      "difference_jobs": 0
+    },
+    {
+      "code": "23-0000",
+      "title": "Legal occupations",
+      "published_employment_2025": 1445700,
+      "detail_employment_2025": 1445800,
+      "detail_count": 8,
+      "difference_jobs": -100
+    },
+    {
+      "code": "25-0000",
+      "title": "Educational instruction and library occupations",
+      "published_employment_2025": 9907400,
+      "detail_employment_2025": 9907300,
+      "detail_count": 64,
+      "difference_jobs": 100
+    },
+    {
+      "code": "27-0000",
+      "title": "Arts, design, entertainment, sports, and media occupations",
+      "published_employment_2025": 2986000,
+      "detail_employment_2025": 2985900,
+      "detail_count": 41,
+      "difference_jobs": 100
+    },
+    {
+      "code": "29-0000",
+      "title": "Healthcare practitioners and technical occupations",
+      "published_employment_2025": 10232800,
+      "detail_employment_2025": 10232800,
+      "detail_count": 71,
+      "difference_jobs": 0
+    },
+    {
+      "code": "31-0000",
+      "title": "Healthcare support occupations",
+      "published_employment_2025": 8421500,
+      "detail_employment_2025": 8421300,
+      "detail_count": 17,
+      "difference_jobs": 200
+    },
+    {
+      "code": "33-0000",
+      "title": "Protective service occupations",
+      "published_employment_2025": 3871000,
+      "detail_employment_2025": 3871400,
+      "detail_count": 24,
+      "difference_jobs": -400
+    },
+    {
+      "code": "35-0000",
+      "title": "Food preparation and serving related occupations",
+      "published_employment_2025": 13826500,
+      "detail_employment_2025": 13826500,
+      "detail_count": 17,
+      "difference_jobs": 0
+    },
+    {
+      "code": "37-0000",
+      "title": "Building and grounds cleaning and maintenance occupations",
+      "published_employment_2025": 5699600,
+      "detail_employment_2025": 5699600,
+      "detail_count": 10,
+      "difference_jobs": 0
+    },
+    {
+      "code": "39-0000",
+      "title": "Personal care and service occupations",
+      "published_employment_2025": 4487300,
+      "detail_employment_2025": 4487400,
+      "detail_count": 32,
+      "difference_jobs": -100
+    },
+    {
+      "code": "41-0000",
+      "title": "Sales and related occupations",
+      "published_employment_2025": 14533200,
+      "detail_employment_2025": 14533100,
+      "detail_count": 22,
+      "difference_jobs": 100
+    },
+    {
+      "code": "43-0000",
+      "title": "Office and administrative support occupations",
+      "published_employment_2025": 18792700,
+      "detail_employment_2025": 18792500,
+      "detail_count": 54,
+      "difference_jobs": 200
+    },
+    {
+      "code": "45-0000",
+      "title": "Farming, fishing, and forestry occupations",
+      "published_employment_2025": 1036000,
+      "detail_employment_2025": 1036100,
+      "detail_count": 14,
+      "difference_jobs": -100
+    },
+    {
+      "code": "47-0000",
+      "title": "Construction and extraction occupations",
+      "published_employment_2025": 7492900,
+      "detail_employment_2025": 7492900,
+      "detail_count": 60,
+      "difference_jobs": 0
+    },
+    {
+      "code": "49-0000",
+      "title": "Installation, maintenance, and repair occupations",
+      "published_employment_2025": 6494400,
+      "detail_employment_2025": 6494100,
+      "detail_count": 51,
+      "difference_jobs": 300
+    },
+    {
+      "code": "51-0000",
+      "title": "Production occupations",
+      "published_employment_2025": 8780500,
+      "detail_employment_2025": 8780200,
+      "detail_count": 105,
+      "difference_jobs": 300
+    },
+    {
+      "code": "53-0000",
+      "title": "Transportation and material moving occupations",
+      "published_employment_2025": 14139000,
+      "detail_employment_2025": 14139200,
+      "detail_count": 50,
+      "difference_jobs": -200
+    }
+  ]
+}

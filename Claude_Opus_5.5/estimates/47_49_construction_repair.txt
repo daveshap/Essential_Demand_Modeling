@@ -1,0 +1,112 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+47-1011|0|1|3|Accountability|Buildings are the point (Marshall's house). A sliver for a foreman who answers for site safety and the work.
+47-2011|0|0|0|None|Boilers are bought for heat and pressure. Pure derived demand.
+47-2021|0|0.5|2|Provenance|Walls are the point. A sliver of clients value hand-laid masonry.
+47-2022|0.5|3|8|Provenance|Most stonework is structural or decorative and bought for the result. Dry-stone walls, historic restoration and artisan stonework carry real provenance for some clients.
+47-2031|0|1|3|Provenance|Framing and finish carpentry are bought for the result. A sliver of timber framing and custom woodwork sold as handmade.
+47-2041|0|0|0.5|None|Installed carpet is the point. Derived.
+47-2042|0|0|0.5|None|Installed floors are the point. Derived.
+47-2043|0|0|0.5|None|Finished floors are the point. Derived.
+47-2044|0|1|3|Provenance|Tile work is bought for the result. A sliver of artisan tile and mosaic work.
+47-2051|0|0|0.5|None|Concrete work is bought for the result. Derived.
+47-2053|0|0.5|2|Provenance|Terrazzo is bought for the floor. A sliver of artisan terrazzo.
+47-2061|0|0|0|None|Construction labor is a means to a building. Pure derived demand.
+47-2071|0|0|0|None|Roads are the point. Pure derived demand.
+47-2072|0|0|0|None|Foundations are the point. Pure derived demand.
+47-2073|0|0|0|None|Earthmoving is a means to construction. Pure derived demand.
+47-2081|0|0|0|None|Walls are the point. Pure derived demand.
+47-2082|0|0|0|None|Finished walls are the point. Pure derived demand.
+47-2111|0|0.5|2|Accountability|Safe wiring is the point. A sliver for a licensed electrician who answers for the work.
+47-2121|0|0|0.5|None|Installed glass is the point. Derived.
+47-2131|0|0|0|None|Insulation is the point. Pure derived demand.
+47-2132|0|0|0|None|Insulated systems are the point. Pure derived demand.
+47-2141|0|0.5|2|Provenance|Painted surfaces are the point. A sliver of decorative and mural work.
+47-2142|0|0.5|2|Provenance|Papered walls are the point. A sliver of decorative craft.
+47-2151|0|0|0|None|Pipelines are the point. Pure derived demand.
+47-2152|0|0.5|2|Accountability|Working plumbing is the point; even an emergency plumber is derived demand. A sliver for the licensed plumber who answers for the work.
+47-2161|0|1|3|Provenance|Plastering is bought for the finish. A sliver of ornamental and restoration plasterwork valued as craft.
+47-2171|0|0|0|None|Reinforcement is a means to structures. Pure derived demand.
+47-2181|0|0|0|None|Roofs are the point. Pure derived demand.
+47-2211|0|0|0|None|Ductwork and metalwork are the point. Pure derived demand.
+47-2221|0|0|0|None|Steel structures are the point. Pure derived demand.
+47-2231|0|0|0|None|Solar arrays are the point. Pure derived demand.
+47-3011|0|0|0|None|Helping masons is instrumental. Pure derived demand.
+47-3012|0|0|0|None|Helping carpenters is instrumental. Pure derived demand.
+47-3013|0|0|0|None|Helping electricians is instrumental. Pure derived demand.
+47-3014|0|0|0|None|Helping painters and plasterers is instrumental. Pure derived demand.
+47-3015|0|0|0|None|Helping plumbers is instrumental. Pure derived demand.
+47-3016|0|0|0|None|Helping roofers is instrumental. Pure derived demand.
+47-3019|0|0|0|None|Construction helping is instrumental. Pure derived demand.
+47-4011|0.5|2|6|Accountability|Inspection is a means to safe buildings. The public relies on an accountable inspector who can refuse occupancy and answer for it; the judgment share is small.
+47-4021|0|0|0.5|None|Working elevators are the point. Derived.
+47-4031|0|0|1|None|Fences are the point. The accountable contractor sits with construction managers; the crew is derived.
+47-4041|0|0|0|None|Abatement is instrumental. Pure derived demand.
+47-4051|0|0|0|None|Road maintenance is instrumental. Pure derived demand.
+47-4061|0|0|0|None|Track maintenance is instrumental. Pure derived demand.
+47-4071|0|0|0|None|Septic service is instrumental. Pure derived demand.
+47-4090|0|0|0.5|None|Miscellaneous construction work is instrumental. Derived.
+47-5011|0|0|0|None|Drilling is a means to oil and gas. Pure derived demand.
+47-5012|0|0|0|None|Drilling is a means to oil and gas. Pure derived demand.
+47-5013|0|0|0|None|Well servicing is instrumental. Pure derived demand.
+47-5022|0|0|0|None|Mining equipment work is instrumental. Pure derived demand.
+47-5023|0|0|0|None|Drilling is instrumental. Pure derived demand.
+47-5032|0|0|0.5|Accountability|Blasting is instrumental. A sliver for accountable control of explosives.
+47-5041|0|0|0|None|Mining is instrumental. Pure derived demand.
+47-5043|0|0|0|None|Roof support in mines is instrumental. Pure derived demand.
+47-5044|0|0|0|None|Underground haulage is instrumental. Pure derived demand.
+47-5049|0|0|0|None|Mining equipment work is instrumental. Pure derived demand.
+47-5051|0|0|0|None|Quarrying is instrumental. Pure derived demand.
+47-5071|0|0|0|None|Oilfield labor is instrumental. Pure derived demand.
+47-5081|0|0|0|None|Helping in extraction is instrumental. Pure derived demand.
+47-5099|0|0|0|None|Extraction work is instrumental. Pure derived demand.
+49-1011|0|0.5|2|Accountability|Supervising repair work is instrumental. A sliver of accountable sign-off.
+49-2011|0|0|0.5|None|Working machines are the point. Derived.
+49-2021|0|0|0|None|Working towers and radios are the point. Pure derived demand.
+49-2022|0|0|0.5|None|Working telecom equipment is the point. Derived.
+49-2091|0|0|0.5|None|Working avionics are the point. Derived.
+49-2092|0|0|0.5|None|Repaired tools are the point. Derived.
+49-2093|0|0|0|None|Working vehicle electronics are the point. Pure derived demand.
+49-2094|0|0|0|None|Working equipment is the point. Pure derived demand.
+49-2095|0|0|0|None|Working substations are the point. Pure derived demand.
+49-2096|0|0|0|None|Installed vehicle electronics are the point. Pure derived demand.
+49-2097|0|0|0.5|None|Working AV systems are the point. Derived.
+49-2098|0|0|0.5|None|Working alarm systems are the point. Derived.
+49-3011|0|0.5|2|Accountability|Airworthy aircraft are the point. A sliver for the certificated mechanic who signs for the work.
+49-3021|0|0.5|2|Provenance|Repaired vehicles are the point. A sliver of custom and restoration bodywork.
+49-3022|0|0|0.5|None|Replaced glass is the point. Derived.
+49-3023|0|1|3|Affinity|A working car is the point. A sliver of owners stay loyal to a mechanic they know, plus classic-car restoration valued as craft.
+49-3031|0|0|0.5|None|Working fleets are the point. Derived.
+49-3041|0|0|0.5|None|Working farm equipment is the point. Derived.
+49-3042|0|0|0.5|None|Working heavy equipment is the point. Derived.
+49-3043|0|0|0|None|Working rail cars are the point. Pure derived demand.
+49-3051|0|0|1|None|Working boats are the point. Derived.
+49-3052|0|0.5|2|Provenance|Working motorcycles are the point. A sliver of custom builds.
+49-3053|0|0|0.5|None|Working small engines are the point. Derived.
+49-3091|0|1|4|Affinity; Presence|Working bikes are the point. A sliver for the local bike shop as a community place.
+49-3092|0|0|0.5|None|Working RVs are the point. Derived.
+49-3093|0|0|0|None|Tire service is instrumental. Pure derived demand.
+49-9011|0|0|0|None|Working doors are the point. Pure derived demand.
+49-9012|0|0|0|None|Working controls are the point. Pure derived demand.
+49-9021|0|0|1|None|Heating and cooling that works is the point. Derived.
+49-9031|0|0|1|None|Working appliances are the point. Derived.
+49-9041|0|0|0|None|Working machinery is the point. Pure derived demand.
+49-9043|0|0|0|None|Working machinery is the point. Pure derived demand.
+49-9044|0|0|0|None|Installed machinery is the point. Pure derived demand.
+49-9045|0|0|0|None|Repaired furnaces are the point. Pure derived demand.
+49-9051|0|0|0|None|Power delivery is the point. Pure derived demand.
+49-9052|0|0|0|None|Working lines are the point. Pure derived demand.
+49-9061|0|0|1|None|Working cameras are the point. Derived.
+49-9062|0|0|0.5|None|Working medical equipment is the point. Derived.
+49-9063|3|8|18|Provenance; Affinity|Tuning and repair are functional, but piano technicians and luthiers practice a craft musicians seek out by name, and the feel they give an instrument is partly authorship.
+49-9064|2|6|15|Provenance|Accurate timekeeping is cheap; servicing heirloom and luxury watches by a human watchmaker is heritage craft that owners value.
+49-9069|0|0|1|None|Working instruments are the point. Derived.
+49-9071|0|0.3|1|Presence|Maintained buildings are the point. A sliver for the building super whom residents know.
+49-9081|0|0|0|None|Working turbines are the point. Pure derived demand.
+49-9091|0|0|0|None|Working machines are the point. Pure derived demand.
+49-9092|0|0|0|None|Underwater work is instrumental. Pure derived demand.
+49-9094|0|0|1|None|Working locks are the point. Derived.
+49-9095|0|0|0|None|Installed homes are the point. Pure derived demand.
+49-9096|0|0|0|None|Rigging is instrumental. Pure derived demand.
+49-9097|0|0|0|None|Working signals are the point. Pure derived demand.
+49-9098|0|0|0|None|Helping repairers is instrumental. Pure derived demand.
+49-9099|0|0|0.5|None|Miscellaneous repair work is instrumental. Derived.

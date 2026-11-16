@@ -1,0 +1,395 @@
+{
+  "package_root": "C:\\Users\\daves\\Documents\\Codex\\2026-11-16\\okay-i-want-to-repeat-some\\work\\package\\GPT_6_Astra",
+  "validated_at_utc": "2026-11-16T13:44:08.144662+00:00",
+  "validator": "scripts/validate.py (Python standard library)",
+  "scope": "Source identity; exact record coverage; individual scores; CSV; saved workbook data, formulas and cached results; weighted summaries; attribution.",
+  "limitation": "Saved formula text and cached values are checked independently. This script does not recalculate in Excel or prove future native-application behavior.",
+  "recomputed_summary": {
+    "occupation_count": 831,
+    "covered_jobs": 170267200,
+    "published_jobs": 170280800,
+    "unallocated_source_difference_jobs": 13600,
+    "coverage_share": 0.9999201319232702,
+    "essential_equivalents": {
+      "low": 4273247.0,
+      "median": 12633969.0,
+      "high": 27569286.0
+    },
+    "essential_shares": {
+      "low": 0.025097300008457297,
+      "median": 0.07420083844686469,
+      "high": 0.1619177739458921
+    },
+    "derived_equivalents": {
+      "low": 142697914.0,
+      "median": 157633231.0,
+      "high": 165993953.0
+    },
+    "derived_shares": {
+      "low": 0.8380822260541079,
+      "median": 0.9257991615531354,
+      "high": 0.9749026999915427
+    },
+    "zero_median_occupations": 333,
+    "all_zero_occupations": 158
+  },
+  "source": {
+    "file": "source_data\\BLS_EP_occupation.xlsx",
+    "sha256": "08ee182f992d972593e64559ce467bad75967d2228f11ad5e2f86d4ec0ee6c00",
+    "source_rows_verified": 1112,
+    "detail_rows_verified": 831
+  },
+  "csv": {
+    "file": "Essential_vs_Derived_Demand_by_Occupation_GPT_6_Astra_2026-11-16_0834.csv",
+    "sha256": "7511bdcedd11b30bc490c36e831c0a377b68ea74643fd475a9bdd11c29d5e290",
+    "rows_verified": 831
+  },
+  "recomputed_groups": [
+    {
+      "major_group": "Management occupations",
+      "occupation_count": 37,
+      "jobs": 13670000,
+      "essential_equivalents": {
+        "low": 191588.0,
+        "median": 872778.0,
+        "high": 2360186.0
+      },
+      "essential_shares": {
+        "low": 0.01401521580102414,
+        "median": 0.06384623262618873,
+        "high": 0.17265442574981713
+      }
+    },
+    {
+      "major_group": "Business and financial operations occupations",
+      "occupation_count": 32,
+      "jobs": 11368500,
+      "essential_equivalents": {
+        "low": 27262.0,
+        "median": 316042.0,
+        "high": 1091537.0
+      },
+      "essential_shares": {
+        "low": 0.002398029643312662,
+        "median": 0.02779979768659014,
+        "high": 0.09601416193869024
+      }
+    },
+    {
+      "major_group": "Computer and mathematical occupations",
+      "occupation_count": 21,
+      "jobs": 5493800,
+      "essential_equivalents": {
+        "low": 0.0,
+        "median": 10472.0,
+        "high": 130559.0
+      },
+      "essential_shares": {
+        "low": 0.0,
+        "median": 0.0019061487494994357,
+        "high": 0.023764789398958826
+      }
+    },
+    {
+      "major_group": "Architecture and engineering occupations",
+      "occupation_count": 36,
+      "jobs": 2690200,
+      "essential_equivalents": {
+        "low": 7779.0,
+        "median": 39598.0,
+        "high": 150112.0
+      },
+      "essential_shares": {
+        "low": 0.0028916065720020817,
+        "median": 0.01471935172106163,
+        "high": 0.055799568805293284
+      }
+    },
+    {
+      "major_group": "Life, physical, and social science occupations",
+      "occupation_count": 48,
+      "jobs": 1628500,
+      "essential_equivalents": {
+        "low": 20971.0,
+        "median": 69163.0,
+        "high": 160111.0
+      },
+      "essential_shares": {
+        "low": 0.012877494626957323,
+        "median": 0.04247037150752226,
+        "high": 0.09831808412649677
+      }
+    },
+    {
+      "major_group": "Community and social service occupations",
+      "occupation_count": 17,
+      "jobs": 3270100,
+      "essential_equivalents": {
+        "low": 473610.0,
+        "median": 1109445.0,
+        "high": 1861415.0
+      },
+      "essential_shares": {
+        "low": 0.14483043332008194,
+        "median": 0.3392694413014892,
+        "high": 0.5692226537414758
+      }
+    },
+    {
+      "major_group": "Legal occupations",
+      "occupation_count": 8,
+      "jobs": 1445800,
+      "essential_equivalents": {
+        "low": 87671.0,
+        "median": 260572.0,
+        "high": 474945.0
+      },
+      "essential_shares": {
+        "low": 0.060638400885323004,
+        "median": 0.18022686401991977,
+        "high": 0.3284997925024208
+      }
+    },
+    {
+      "major_group": "Educational instruction and library occupations",
+      "occupation_count": 64,
+      "jobs": 9907300,
+      "essential_equivalents": {
+        "low": 638495.0,
+        "median": 1792773.0,
+        "high": 3720439.0
+      },
+      "essential_shares": {
+        "low": 0.0644469229759874,
+        "median": 0.18095475053748247,
+        "high": 0.37552501690672535
+      }
+    },
+    {
+      "major_group": "Arts, design, entertainment, sports, and media occupations",
+      "occupation_count": 41,
+      "jobs": 2985900,
+      "essential_equivalents": {
+        "low": 270754.0,
+        "median": 634782.0,
+        "high": 1160763.0
+      },
+      "essential_shares": {
+        "low": 0.09067751766636525,
+        "median": 0.21259318798352256,
+        "high": 0.38874811614588567
+      }
+    },
+    {
+      "major_group": "Healthcare practitioners and technical occupations",
+      "occupation_count": 71,
+      "jobs": 10232800,
+      "essential_equivalents": {
+        "low": 619251.0,
+        "median": 1670995.0,
+        "high": 3269602.0
+      },
+      "essential_shares": {
+        "low": 0.06051628097881323,
+        "median": 0.16329792432178875,
+        "high": 0.31952173403174106
+      }
+    },
+    {
+      "major_group": "Healthcare support occupations",
+      "occupation_count": 17,
+      "jobs": 8421300,
+      "essential_equivalents": {
+        "low": 915764.0,
+        "median": 2233144.0,
+        "high": 3982314.0
+      },
+      "essential_shares": {
+        "low": 0.10874378065144337,
+        "median": 0.2651780603944759,
+        "high": 0.47288589647679097
+      }
+    },
+    {
+      "major_group": "Protective service occupations",
+      "occupation_count": 24,
+      "jobs": 3871400,
+      "essential_equivalents": {
+        "low": 111801.0,
+        "median": 387749.0,
+        "high": 911065.0
+      },
+      "essential_shares": {
+        "low": 0.02887870021180968,
+        "median": 0.10015730743400321,
+        "high": 0.23533217957328098
+      }
+    },
+    {
+      "major_group": "Food preparation and serving related occupations",
+      "occupation_count": 17,
+      "jobs": 13826500,
+      "essential_equivalents": {
+        "low": 254780.0,
+        "median": 949205.0,
+        "high": 2373029.0
+      },
+      "essential_shares": {
+        "low": 0.018426933786569268,
+        "median": 0.06865114092503526,
+        "high": 0.17162904567316387
+      }
+    },
+    {
+      "major_group": "Building and grounds cleaning and maintenance occupations",
+      "occupation_count": 10,
+      "jobs": 5699600,
+      "essential_equivalents": {
+        "low": 0.0,
+        "median": 74263.0,
+        "high": 329449.0
+      },
+      "essential_shares": {
+        "low": 0.0,
+        "median": 0.013029510842866167,
+        "high": 0.05780212646501509
+      }
+    },
+    {
+      "major_group": "Personal care and service occupations",
+      "occupation_count": 32,
+      "jobs": 4487400,
+      "essential_equivalents": {
+        "low": 586807.0,
+        "median": 1368903.0,
+        "high": 2311738.0
+      },
+      "essential_shares": {
+        "low": 0.13076770512991934,
+        "median": 0.3050548201631234,
+        "high": 0.5151620091812631
+      }
+    },
+    {
+      "major_group": "Sales and related occupations",
+      "occupation_count": 22,
+      "jobs": 14533100,
+      "essential_equivalents": {
+        "low": 36852.0,
+        "median": 312468.0,
+        "high": 1089630.0
+      },
+      "essential_shares": {
+        "low": 0.0025357287846364505,
+        "median": 0.021500436933620495,
+        "high": 0.07497574502342927
+      }
+    },
+    {
+      "major_group": "Office and administrative support occupations",
+      "occupation_count": 54,
+      "jobs": 18792500,
+      "essential_equivalents": {
+        "low": 2646.0,
+        "median": 203051.0,
+        "high": 873001.0
+      },
+      "essential_shares": {
+        "low": 0.00014080085140348543,
+        "median": 0.01080489557004124,
+        "high": 0.04645475588665691
+      }
+    },
+    {
+      "major_group": "Farming, fishing, and forestry occupations",
+      "occupation_count": 14,
+      "jobs": 1036100,
+      "essential_equivalents": {
+        "low": 0.0,
+        "median": 892.0,
+        "high": 12156.0
+      },
+      "essential_shares": {
+        "low": 0.0,
+        "median": 0.000860920760544349,
+        "high": 0.011732458256925007
+      }
+    },
+    {
+      "major_group": "Construction and extraction occupations",
+      "occupation_count": 60,
+      "jobs": 7492900,
+      "essential_equivalents": {
+        "low": 9226.0,
+        "median": 113898.0,
+        "high": 405578.0
+      },
+      "essential_shares": {
+        "low": 0.001231298963018324,
+        "median": 0.015200790081276942,
+        "high": 0.05412830813169801
+      }
+    },
+    {
+      "major_group": "Installation, maintenance, and repair occupations",
+      "occupation_count": 51,
+      "jobs": 6494100,
+      "essential_equivalents": {
+        "low": 74.0,
+        "median": 65683.0,
+        "high": 290602.0
+      },
+      "essential_shares": {
+        "low": 1.1394958500793028e-05,
+        "median": 0.010114257556859303,
+        "high": 0.04474861797631696
+      }
+    },
+    {
+      "major_group": "Production occupations",
+      "occupation_count": 105,
+      "jobs": 8780200,
+      "essential_equivalents": {
+        "low": 13792.0,
+        "median": 96930.0,
+        "high": 371363.0
+      },
+      "essential_shares": {
+        "low": 0.0015708070431197467,
+        "median": 0.0110396118539441,
+        "high": 0.04229550579713446
+      }
+    },
+    {
+      "major_group": "Transportation and material moving occupations",
+      "occupation_count": 50,
+      "jobs": 14139200,
+      "essential_equivalents": {
+        "low": 4124.0,
+        "median": 51163.0,
+        "high": 239692.0
+      },
+      "essential_shares": {
+        "low": 0.00029167138169061896,
+        "median": 0.00361852155708951,
+        "high": 0.016952302817698314
+      }
+    }
+  ],
+  "workbook": {
+    "file": "Essential_vs_Derived_Demand_by_Occupation_GPT_6_Astra_2026-11-16_0834.xlsx",
+    "sha256": "91d7200fd624bef5dbc8fb8c06a3f8e541cc9f1012ffe17f1cd2e6ef65ad946b",
+    "bytes": 216145,
+    "occupation_rows_verified": 831,
+    "source_rows_verified": 1112,
+    "formula_cells_checked": 5946,
+    "formula_errors": [],
+    "empty_formula_caches": [],
+    "obsolete_model_labels": [],
+    "expected_model": "GPT-6 Astra"
+  },
+  "success": true,
+  "checks_performed": 56855,
+  "failure_count": 0,
+  "failures": []
+}

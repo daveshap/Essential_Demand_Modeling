@@ -1,0 +1,38 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+11-1011|12|30|55|Accountability; Affinity|Boards, owners, regulators and staff want a natural person who owns the final call, answers for it and is the face of the firm; that accountable core survives the test. Analysis, coordination and operational oversight are derived. Owner-CEOs (27% self-employed) add the accountable-owner role; high assumes most of a CEO's day is representation and decisions.
+11-1021|3|8|18|Accountability|Hired to make a unit run; if a system ran it equally well the employer would mostly be indifferent. What survives is a human answerable for the site and its people (discipline, safety, firing decisions). Staff preferring a human boss only counts where the employer would pay for it beyond performance.
+11-2011|1|3|8|Accountability; Affinity|Campaign output is the product, so the work is derived. A small residue: clients who want a named human to own the creative call and answer for it.
+11-2021|1|2|6|Accountability|Marketing strategy and execution are means to sales. Only a thin accountable sign-off on brand decisions survives the test.
+11-2022|1|4|10|Affinity; Accountability|Sales management is derived from sales. Some key-account relationships are with this particular person, and some buyers want a human counterpart on large deals.
+11-2032|3|8|18|Accountability; Affinity|Most PR management is content and strategy (derived). A spokesperson who answers for the organization in public and personal media relationships are human-specific.
+11-2033|8|20|35|Affinity; Presence|Major donors give to people they know and trust; the cultivation visit and the personal ask are part of what philanthropy is. Campaign planning, prospect research and reporting are derived.
+11-3012|0|1|4|Accountability|Running office services is a means to a functioning organization. Near-pure derived demand; a sliver of accountable oversight.
+11-3013|0|0|3|None|Buildings that work are the point; facilities management is derived demand.
+11-3021|0|1|4|Accountability|Systems that work and are secure are the point. A sliver for a human answerable for security and outage decisions.
+11-3031|1|4|10|Accountability|CFOs and controllers personally certify financial statements and answer to boards, auditors and regulators; that attestation and judgment is a human requirement. Reporting, forecasting and treasury work are derived.
+11-3051|0|1|4|Accountability|Factory output is the product; production management is derived. A sliver for the manager who answers personally for plant safety decisions.
+11-3061|0|0|3|None|Procurement is a means to getting inputs at the right price. Derived.
+11-3071|0|0|3|None|Moving and storing goods is the point. Derived.
+11-3111|0|1|4|Accountability|Pay and benefits design is a means to retaining staff. Derived, with a sliver of accountable decisions about people's pay.
+11-3121|2|7|15|Accountability; Presence|Much HR management is policy and administration (derived). Employees and employers want a human to handle dismissals, harassment investigations, grievances and other decisions about a person; that is accountability, not capability.
+11-3131|1|4|10|Presence|Training programs are means to skills. Some leaders run live sessions where a human facilitator is wanted for itself.
+11-9013|1|3|8|Provenance; Affinity|Mostly commodity farming: buyers want the crop or livestock, not the farmer. A thin segment (farmers markets, CSAs, farm-direct brands, agritourism) buys 'grown by this family'.
+11-9021|2|5|12|Accountability|Buildings are the point. Residential clients often want an owner-contractor who personally stands behind the job (38% self-employed); that client-facing, on-the-hook part survives. Scheduling, estimating and site coordination are derived.
+11-9031|8|20|35|Accountability; Presence|Parents want a human director they can talk to who is responsible for their child's safety and care; that relationship and accountability is a large part of the job. Licensing paperwork, budgets and scheduling are derived.
+11-9032|7|18|32|Accountability; Presence|Principals answer to families and communities for children: discipline, safety, crises and being visibly present in the building. Budgets, compliance, scheduling and data reporting are derived.
+11-9033|2|6|14|Accountability; Presence|Mostly administration of admissions, registrars, finance and operations (derived). Student-affairs leadership and accountable decisions about students carry some human requirement.
+11-9039|3|8|18|Accountability; Presence|Mixed program directors (museum education, training programs). Mostly administration; some community-facing leadership.
+11-9041|0|2|5|Accountability|Engineering output is the point. A sliver for the accountable human who signs off on safety-critical design decisions.
+11-9051|2|6|15|Presence; Affinity|Running a restaurant is mostly derived. Owner-managers (31% self-employed) who greet regulars and are part of a local place's hospitality are a real but small human-specific share.
+11-9071|1|3|8|Accountability|Casino operations management is derived; small accountable component for regulatory and dispute decisions.
+11-9072|3|8|18|Presence|Mostly operations management of venues and programs. Some camp directors and recreation leaders are a visible human presence that families and members want.
+11-9081|3|8|18|Presence; Affinity|Hotel management is mostly derived. Innkeepers and B&B owners (21% self-employed) are part of the guest experience, where the host is part of what is bought.
+11-9111|0|2|5|Accountability|Healthcare administration is a means to delivering care. Derived, with a sliver of accountable decisions.
+11-9121|0|0|3|None|Research output is the point; lab management is derived.
+11-9131|0|0|3|None|Mail delivery is the point. Derived.
+11-9141|1|3|8|Presence|Property and HOA management is a means to well-run buildings. Some tenants and boards want a human they can deal with on disputes; small.
+11-9151|4|10|22|Accountability; Affinity|Directors of social service agencies answer for vulnerable clients and represent their communities; that leadership is partly human-specific. Grant administration, reporting and operations are derived.
+11-9161|3|10|22|Accountability|Planning and logistics are derived. In a disaster the public wants an accountable human making and explaining evacuation and response decisions.
+11-9171|15|30|50|Presence; Affinity; Accountability|Most funeral homes are owner-run (58% self-employed). Families want a trusted human to guide them through grief and ritual, and that guidance is much of the owner's work. Regulatory paperwork, logistics and business management are derived.
+11-9179|4|10|22|Presence; Affinity|Salon, spa and other personal-service owners (56% self-employed) are partly in the business of being the person clients come back to. Most managerial hours are derived.
+11-9199|2|5|12|Accountability|A catch-all heavy with self-employed owner-managers (50%) and specialist managers (compliance, security, clinical research). Mostly derived; a small accountable-owner share.

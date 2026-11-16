@@ -1,0 +1,737 @@
+[
+  {
+    "code": "25-1011",
+    "low": 3,
+    "median": 10,
+    "high": 25,
+    "explanation": "Business instruction and research mainly supply usable knowledge. Access to a particular professor, personal mentorship and professional sponsorship can sustain a smaller human-specific portion."
+  },
+  {
+    "code": "25-1021",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Programming and computing instruction is mainly purchased for learning outcomes. A minority of demand concerns mentorship or a named research adviser beyond equivalent machine teaching."
+  },
+  {
+    "code": "25-1022",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Mathematical explanation, assessment and research are largely instrumental. Particular mentors and participation in a human scholarly community support a limited essential component."
+  },
+  {
+    "code": "25-1031",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Architecture education combines technical training with studio apprenticeship. Students may value a particular architect's judgment and lineage, while routine instruction and drafting remain derived."
+  },
+  {
+    "code": "25-1032",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Engineering teaching and research primarily seek competence and discoveries. Personal mentorship or an identifiable professional sponsor can matter, but does not preserve the whole instructional workload."
+  },
+  {
+    "code": "25-1041",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Agricultural science teaching primarily delivers practical and scientific knowledge. Personal mentoring and affiliation with a respected researcher account for a modest possible human premium."
+  },
+  {
+    "code": "25-1042",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Biology instruction and laboratory research chiefly pursue learning and discovery. A known investigator's mentorship and human scholarly relationships support a smaller essential share."
+  },
+  {
+    "code": "25-1043",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Forestry and conservation instruction mainly seeks scientific and land-management competence. Field mentorship by a valued person can matter independently of the instructional result."
+  },
+  {
+    "code": "25-1051",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Earth, marine, atmospheric and space science teaching mainly supplies knowledge and research. Particular advisers and shared human field experience allow a limited relational component."
+  },
+  {
+    "code": "25-1052",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Chemistry instruction and research mainly deliver technical outcomes. Demand for a specific mentor persists for some students, but routine laboratory teaching does not become essential merely through contact."
+  },
+  {
+    "code": "25-1053",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Environmental science education chiefly supplies understanding and research. Personal mentorship and association with a respected human researcher provide the plausible essential portion."
+  },
+  {
+    "code": "25-1054",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Physics teaching, assessment and research are mainly outcome-directed. Affinity for particular scholars and personal mentorship justify a small, uncertain human-specific fraction."
+  },
+  {
+    "code": "25-1061",
+    "low": 5,
+    "median": 15,
+    "high": 30,
+    "explanation": "Anthropology and archeology instruction includes scientific knowledge and interpretation. Students may specifically seek a scholar's field experience and personal intellectual perspective, supporting a mixed estimate."
+  },
+  {
+    "code": "25-1062",
+    "low": 10,
+    "median": 25,
+    "high": 45,
+    "explanation": "These courses often include lived cultural experience and a particular scholar's interpretation. Much research and instruction is still instrumental, so human provenance does not make the whole occupation essential."
+  },
+  {
+    "code": "25-1063",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Economics teaching and research largely supply explanations and analytical results. A named economist's perspective or mentorship can command a premium for a smaller subset."
+  },
+  {
+    "code": "25-1064",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Geography instruction chiefly supplies spatial and social knowledge. Particular field experience and personal academic mentorship create limited human-specific demand."
+  },
+  {
+    "code": "25-1065",
+    "low": 3,
+    "median": 10,
+    "high": 30,
+    "explanation": "Political science teaching is mostly instruction and research. Students can also seek a particular scholar's human judgment, political experience or mentorship beyond the information supplied."
+  },
+  {
+    "code": "25-1066",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Psychology education combines scientific instruction with personal mentoring and sometimes professional formation. The latter may require a valued human, while much academic work is instrumental."
+  },
+  {
+    "code": "25-1067",
+    "low": 5,
+    "median": 15,
+    "high": 30,
+    "explanation": "Sociology instruction and research chiefly seek understanding. Human interpretation, lived perspective and attachment to a particular teacher create a modest essential component."
+  },
+  {
+    "code": "25-1069",
+    "low": 3,
+    "median": 10,
+    "high": 30,
+    "explanation": "This residual social-science group spans mainly informational teaching and more personal mentorship. The broad interval reflects differing specialties and demand for individual scholars."
+  },
+  {
+    "code": "25-1071",
+    "low": 3,
+    "median": 10,
+    "high": 30,
+    "explanation": "Health-specialty teaching primarily builds clinical competence. Human professional mentorship and personally accountable supervision can persist, while instructional and technical tasks remain mostly derived."
+  },
+  {
+    "code": "25-1072",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Nursing education includes clinical knowledge, assessment and professional mentoring. Learning from an experienced human caregiver can be valued in itself, but not all training requires human provision."
+  },
+  {
+    "code": "25-1081",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Education professors supply teaching methods and research, plus personal mentoring into a human profession. The estimate separates that relationship from substitutable instruction and administration."
+  },
+  {
+    "code": "25-1082",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Library-science teaching primarily conveys information-management skills. A particular teacher's mentorship can retain a small premium independent of equivalent instructional outcomes."
+  },
+  {
+    "code": "25-1111",
+    "low": 3,
+    "median": 10,
+    "high": 25,
+    "explanation": "Law-enforcement education mainly supplies skills and legal knowledge. Personally accountable professional formation and mentorship support some human demand beyond course delivery."
+  },
+  {
+    "code": "25-1112",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Legal education mainly builds knowledge and reasoning. Apprenticeship under a respected practitioner and personal professional sponsorship can make some demand specific to the human teacher."
+  },
+  {
+    "code": "25-1113",
+    "low": 10,
+    "median": 25,
+    "high": 45,
+    "explanation": "Social-work education includes methods and credentials, but also relationship-centered professional formation. Human mentors with lived practice can be sought even with superior machine instruction."
+  },
+  {
+    "code": "25-1121",
+    "low": 15,
+    "median": 35,
+    "high": 60,
+    "explanation": "Students may seek a particular artist's taste, lineage and live creative mentorship. Technical lessons, grading and administration remain instrumental, producing a substantial but incomplete essential share."
+  },
+  {
+    "code": "25-1122",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Communications instruction mainly develops usable skills. A particular practitioner's experience, mentoring and personal feedback can command a human premium in part of the market."
+  },
+  {
+    "code": "25-1123",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Literature and writing teaching can be valued as exchange with a particular reader or author. Much instruction, assessment and research still serves independently desired academic outcomes."
+  },
+  {
+    "code": "25-1124",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Language instruction mainly seeks fluency and comprehension. Human cultural exchange and an ongoing teacher relationship create an additional essential component for some learners."
+  },
+  {
+    "code": "25-1125",
+    "low": 3,
+    "median": 10,
+    "high": 30,
+    "explanation": "History teaching primarily supplies knowledge and interpretation. Students may value a particular historian's perspective and mentorship, while most preparation and assessment is derived."
+  },
+  {
+    "code": "25-1126",
+    "low": 10,
+    "median": 25,
+    "high": 45,
+    "explanation": "Philosophy and religion teaching can involve human dialogue, spiritual formation and personally authored interpretation. Information transfer and academic administration remain instrumental components."
+  },
+  {
+    "code": "25-1192",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Family and consumer-science instruction mixes practical knowledge with personal guidance. A trusted human's experience matters to some learners, but the desired skill outcomes remain largely derived."
+  },
+  {
+    "code": "25-1193",
+    "low": 10,
+    "median": 25,
+    "high": 45,
+    "explanation": "Teaching recreation, leisure and fitness studies mainly supplies professional knowledge. Human mentorship and role modeling can carry a premium, while instruction in physiology, program design and facilities management remains largely instrumental."
+  },
+  {
+    "code": "25-1194",
+    "low": 3,
+    "median": 10,
+    "high": 25,
+    "explanation": "Postsecondary vocational teaching chiefly aims at job competence. Apprenticeship to a respected craftsperson and personally accountable mentoring can preserve a smaller human component."
+  },
+  {
+    "code": "25-1199",
+    "low": 3,
+    "median": 12,
+    "high": 35,
+    "explanation": "Unspecified postsecondary fields contain both information-focused instruction and human mentorship. The broad interval reflects that unknown mixture rather than assuming every teacher is essential."
+  },
+  {
+    "code": "25-2011",
+    "low": 15,
+    "median": 35,
+    "high": 60,
+    "explanation": "Preschool combines development, safety and routine care with demand for real human attachment and role models. Parents may insist on human caregivers even when machines deliver superior functional outcomes."
+  },
+  {
+    "code": "25-2012",
+    "low": 15,
+    "median": 30,
+    "high": 55,
+    "explanation": "Kindergarten includes instruction and supervision alongside a child's relationship with an actual adult. The human developmental connection supports essential demand, while routine classroom tasks remain derived."
+  },
+  {
+    "code": "25-2021",
+    "low": 10,
+    "median": 25,
+    "high": 45,
+    "explanation": "Elementary teaching includes learning outcomes, supervision and sustained human mentorship. Some parents and children specifically value the human relationship, without making every teacher task essential."
+  },
+  {
+    "code": "25-2022",
+    "low": 5,
+    "median": 20,
+    "high": 40,
+    "explanation": "Middle-school teaching mainly delivers education and supervision, with a meaningful human mentoring component during adolescence. The interval reflects variation in how strongly families value that relationship."
+  },
+  {
+    "code": "25-2023",
+    "low": 3,
+    "median": 12,
+    "high": 30,
+    "explanation": "Middle-school vocational instruction primarily supplies skills. Human apprenticeship, encouragement and role modeling create some essential demand beyond equivalent technical teaching."
+  },
+  {
+    "code": "25-2031",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Secondary teaching chiefly supplies subject learning, assessment and supervision. Personal mentorship and trusted adult relationships account for a smaller but meaningful essential component."
+  },
+  {
+    "code": "25-2032",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Secondary vocational instruction includes technical training and human apprenticeship. A valued craft mentor can be nonfungible, while most demonstrations, practice evaluation and administration are instrumental."
+  },
+  {
+    "code": "25-2051",
+    "low": 15,
+    "median": 35,
+    "high": 60,
+    "explanation": "Preschool special education mixes developmental interventions with sustained human attachment. Families may specifically want an actual caring adult, while successful treatment and instructional outcomes remain derived."
+  },
+  {
+    "code": "25-2052",
+    "low": 10,
+    "median": 30,
+    "high": 55,
+    "explanation": "Special education combines individualized teaching and care with trusted human relationships. The essential component depends on genuine human connection rather than the technical difficulty of the educational work."
+  },
+  {
+    "code": "25-2057",
+    "low": 10,
+    "median": 25,
+    "high": 50,
+    "explanation": "Middle-school special education includes individualized learning and personal support. A known human mentor can be valued independently, although many interventions and support tasks pursue functional outcomes."
+  },
+  {
+    "code": "25-2058",
+    "low": 10,
+    "median": 25,
+    "high": 50,
+    "explanation": "Secondary special education blends educational and transition outcomes with human mentorship. Continuity with a trusted teacher supports essential demand, while technical assistance remains largely instrumental."
+  },
+  {
+    "code": "25-2059",
+    "low": 10,
+    "median": 25,
+    "high": 55,
+    "explanation": "Other special-education settings vary widely in age and support needs. Human relationships can be central, but the broad interval also includes work primarily purchased for instructional or care outcomes."
+  },
+  {
+    "code": "25-3011",
+    "low": 3,
+    "median": 12,
+    "high": 30,
+    "explanation": "Adult literacy and language instruction mainly seek competence and credentials. A trusted teacher and human cultural connection create a smaller essential share for some learners."
+  },
+  {
+    "code": "25-3021",
+    "low": 15,
+    "median": 35,
+    "high": 60,
+    "explanation": "Self-enrichment classes often sell an enjoyable encounter with a human instructor as well as a skill. The mix ranges from purely instrumental lessons to participation centered on a particular teacher."
+  },
+  {
+    "code": "25-3031",
+    "low": 3,
+    "median": 10,
+    "high": 25,
+    "explanation": "Short-term substitutes mainly maintain instruction and supervision. Actual adult presence can matter to families, but their temporary role usually provides less nonfungible relationship value than a continuing teacher."
+  },
+  {
+    "code": "25-3041",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Tutoring mainly buys improved learning or test results. Some families also pay for a particular tutor's mentoring relationship and personal encouragement, creating a mixed occupation."
+  },
+  {
+    "code": "25-3099",
+    "low": 5,
+    "median": 15,
+    "high": 40,
+    "explanation": "Other instructors span outcome-focused training and classes bought for a human teacher. A broad interval reflects the residual category's unspecified instructional settings."
+  },
+  {
+    "code": "25-4011",
+    "low": 0,
+    "median": 3,
+    "high": 10,
+    "explanation": "Archival work mainly preserves, organizes and retrieves records. A small portion may involve personally trusted cultural stewardship, but human origin of archived material does not require human archiving labor."
+  },
+  {
+    "code": "25-4012",
+    "low": 3,
+    "median": 10,
+    "high": 25,
+    "explanation": "Curators mainly organize and interpret collections. A named curator's taste, cultural standing and personal perspective may command a premium, while cataloging and exhibit administration are derived."
+  },
+  {
+    "code": "25-4013",
+    "low": 0,
+    "median": 2,
+    "high": 10,
+    "explanation": "Conservation and museum technical work mainly preserve objects and prepare displays. Limited demand may attach to a named conservator's handwork, but human-made artifacts do not make all preservation labor essential."
+  },
+  {
+    "code": "25-4022",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Library work mainly supplies access, research assistance and collection management. Personal community guidance and a trusted librarian relationship can account for a smaller human-specific portion."
+  },
+  {
+    "code": "25-4031",
+    "low": 0,
+    "median": 0,
+    "high": 3,
+    "explanation": "Library technicians mainly handle circulation, cataloging and access operations. The high bound allows a small personal-service niche, while the central estimate treats those outcomes as derived demand."
+  },
+  {
+    "code": "25-9021",
+    "low": 3,
+    "median": 10,
+    "high": 25,
+    "explanation": "Extension education mainly supplies useful farm and household advice. A locally trusted educator with personal knowledge and accountability can support a modest essential component."
+  },
+  {
+    "code": "25-9031",
+    "low": 0,
+    "median": 3,
+    "high": 10,
+    "explanation": "Instructional coordination mainly develops curricula and improves teaching results. Human professional leadership or personally accountable stewardship may retain a small portion beyond substitutable analysis and planning."
+  },
+  {
+    "code": "25-9044",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Postsecondary assistants mainly prepare instructional materials, lead discussions, administer examinations and grade work. Some direct human mentoring can matter, but support for a valued professor is not itself essential demand."
+  },
+  {
+    "code": "25-9045",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Teaching assistants perform instructional and practical support alongside direct human contact with children. Trusted adult relationships support some demand, while preparation, supervision logistics and routine assistance remain derived."
+  },
+  {
+    "code": "25-9099",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "This residual education and library category includes heterogeneous support work. Most demand is instrumental, with a wider high estimate for direct human mentoring or community-facing roles."
+  },
+  {
+    "code": "27-1011",
+    "low": 5,
+    "median": 15,
+    "high": 35,
+    "explanation": "Art direction mainly supplies an effective visual product. A named director's taste and creative authorship can command a premium, while much commercial coordination and production judgment is instrumental."
+  },
+  {
+    "code": "27-1012",
+    "low": 40,
+    "median": 65,
+    "high": 85,
+    "explanation": "Craft buyers often pay specifically for authentic human making and the maker's story. Some purchases still seek decorative or useful objects regardless of who makes them, so the estimate stays below universal essential demand."
+  },
+  {
+    "code": "27-1013",
+    "low": 40,
+    "median": 65,
+    "high": 90,
+    "explanation": "Fine art often depends on human authorship, identity and provenance. Commercial illustration and decorative output can be more fungible, creating uncertainty across this combined occupation."
+  },
+  {
+    "code": "27-1014",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Effects and animation usually supply desired visual results for a larger production. A smaller auteur or artisan niche values individual human artistry, without extending that premium to all technical work."
+  },
+  {
+    "code": "27-1019",
+    "low": 10,
+    "median": 30,
+    "high": 60,
+    "explanation": "Other artists include varied human-authored offerings and commercial production. Human provenance may be central in some markets, but the residual mix warrants wide bounds."
+  },
+  {
+    "code": "27-1021",
+    "low": 0,
+    "median": 3,
+    "high": 10,
+    "explanation": "Industrial design mainly seeks usable, attractive and manufacturable products. A small signature-designer market may pay for a particular person's authorship rather than the design result alone."
+  },
+  {
+    "code": "27-1022",
+    "low": 5,
+    "median": 20,
+    "high": 45,
+    "explanation": "Fashion combines functional and aesthetic product design with named-designer identity. A human creative signature can command a premium, while mass-market design and production support remain derived."
+  },
+  {
+    "code": "27-1023",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Floral design generally buys an arrangement with a desired appearance. Handmade provenance or a known florist's personal touch may matter to a minority, especially for commemorative occasions."
+  },
+  {
+    "code": "27-1024",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Graphic design chiefly supplies communication and visual assets. Some clients specifically seek a named human creator's style or provenance, but most production work remains outcome-directed."
+  },
+  {
+    "code": "27-1025",
+    "low": 3,
+    "median": 10,
+    "high": 25,
+    "explanation": "Interior design mainly supplies a usable and attractive space. A particular designer's taste, personal relationship and accountable guidance can produce an essential portion of demand."
+  },
+  {
+    "code": "27-1026",
+    "low": 0,
+    "median": 0,
+    "high": 5,
+    "explanation": "Display and window-trimming work mainly seeks effective presentation and sales. A small bespoke installation niche could value human authorship, but ordinary display execution is derived demand."
+  },
+  {
+    "code": "27-1027",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Set and exhibit design mainly delivers a desired environment. A named designer's creative contribution can carry a premium, while technical planning and execution remain largely instrumental."
+  },
+  {
+    "code": "27-1029",
+    "low": 0,
+    "median": 5,
+    "high": 25,
+    "explanation": "The residual design group combines mainly functional design work with possible signature or bespoke markets. The high estimate allows for unknown human-authorship niches without assuming they dominate."
+  },
+  {
+    "code": "27-2011",
+    "low": 40,
+    "median": 70,
+    "high": 95,
+    "explanation": "Audiences often want actual human performers or particular actors. Generic commercial roles and some purely fictional output may be substitutable, while authentic performance and celebrity identity support substantial essential demand."
+  },
+  {
+    "code": "27-2012",
+    "low": 10,
+    "median": 30,
+    "high": 60,
+    "explanation": "Some productions are purchased for a particular director's human vision or a producer's reputation. Much producing, coordination and technical direction is still a means to the finished entertainment product."
+  },
+  {
+    "code": "27-2021",
+    "low": 80,
+    "median": 95,
+    "high": 100,
+    "explanation": "Human competition, achievement and identifiable athletes are usually the product audiences buy. The lower bound allows entertainment demand that could shift to machine contests or purely outcome-focused performances."
+  },
+  {
+    "code": "27-2022",
+    "low": 10,
+    "median": 30,
+    "high": 55,
+    "explanation": "Coaching includes performance improvement, scouting and strategy alongside valued human mentorship. Players may specifically want a coach's relationship and leadership, while talent analysis and tactical support are instrumental."
+  },
+  {
+    "code": "27-2023",
+    "low": 3,
+    "median": 10,
+    "high": 30,
+    "explanation": "Sports officiating chiefly delivers accurate and fair adjudication. A human authority accountable to participants can retain value, but demand for human athletes does not automatically extend to referees."
+  },
+  {
+    "code": "27-2031",
+    "low": 60,
+    "median": 85,
+    "high": 100,
+    "explanation": "Live human movement and the identity of dancers are often central to the offering. Some screen or background entertainment may accept synthetic performance, producing the lower essential-demand bounds."
+  },
+  {
+    "code": "27-2032",
+    "low": 15,
+    "median": 40,
+    "high": 70,
+    "explanation": "Choreography can be valued as a particular human creator's artistic work and mentorship. Generic movement design and rehearsal optimization are also purchased instrumentally."
+  },
+  {
+    "code": "27-2041",
+    "low": 15,
+    "median": 40,
+    "high": 70,
+    "explanation": "Music direction and composition mix named human artistry with functional scoring, arrangement and coordination. Essential demand is stronger where listeners or performers value the actual creator or conductor."
+  },
+  {
+    "code": "27-2042",
+    "low": 50,
+    "median": 80,
+    "high": 95,
+    "explanation": "Listeners often seek actual human music-making or specific singers and musicians. Background and anonymous session uses are more substitutable, and recorded provenance does not require new labor for every replay."
+  },
+  {
+    "code": "27-2091",
+    "low": 20,
+    "median": 45,
+    "high": 75,
+    "explanation": "Some events buy a human host's live personality and connection with the crowd. Other bookings mainly buy music selection and playback, creating a substantial functional component."
+  },
+  {
+    "code": "27-2099",
+    "low": 20,
+    "median": 50,
+    "high": 85,
+    "explanation": "This group contains heterogeneous live entertainers and sports-related performers. Actual human performance can be the point, while some generic amusement or support offerings are substitutable."
+  },
+  {
+    "code": "27-3011",
+    "low": 15,
+    "median": 40,
+    "high": 70,
+    "explanation": "Audiences may follow a particular announcer or radio personality. Routine announcements, news reading and music scheduling are more instrumental, so the occupation contains both kinds of demand."
+  },
+  {
+    "code": "27-3023",
+    "low": 5,
+    "median": 20,
+    "high": 45,
+    "explanation": "Journalism primarily supplies reliable information and investigation. Human eyewitness testimony, named analysis and personally accountable reporting can retain a premium beyond equivalent information delivery."
+  },
+  {
+    "code": "27-3031",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Public relations mainly aims to improve communication and reputation. A genuine human spokesperson or personally accountable representative can matter, while drafting, monitoring and campaign execution remain derived."
+  },
+  {
+    "code": "27-3041",
+    "low": 0,
+    "median": 5,
+    "high": 15,
+    "explanation": "Editing mainly improves accuracy, structure and publishability. A particular editor's taste or relationship with an author can command a limited human premium."
+  },
+  {
+    "code": "27-3042",
+    "low": 0,
+    "median": 0,
+    "high": 5,
+    "explanation": "Technical writing primarily supplies clear instructions and documentation. The central estimate is entirely derived, with a small high bound for named expert interpretation or personally authored material."
+  },
+  {
+    "code": "27-3043",
+    "low": 15,
+    "median": 40,
+    "high": 70,
+    "explanation": "Memoirs, personal essays and named literary authorship can depend on a real human's life and voice. Generic commercial, informational and commissioned writing supplies more fungible text outcomes."
+  },
+  {
+    "code": "27-3091",
+    "low": 0,
+    "median": 3,
+    "high": 15,
+    "explanation": "Translation and interpretation mainly supply accurate communication. Some clients value a particular human mediator or literary translator's authorship, but routine language conversion remains derived demand."
+  },
+  {
+    "code": "27-3092",
+    "low": 0,
+    "median": 0,
+    "high": 5,
+    "explanation": "Court reporting and captioning mainly supply accurate accessible records. A small high bound allows personal attestation, while the core recording and transcription outputs are instrumental."
+  },
+  {
+    "code": "27-3099",
+    "low": 0,
+    "median": 5,
+    "high": 25,
+    "explanation": "Other communication work spans informational production and possible human-facing commentary. The unspecified mix supports a low central estimate and broader upper bound for personal authorship or representation."
+  },
+  {
+    "code": "27-4011",
+    "low": 0,
+    "median": 0,
+    "high": 3,
+    "explanation": "Audio and video technicians chiefly provide functioning equipment and recordings. A small bespoke-service niche may value a particular person, but human performers do not make technical support inherently essential."
+  },
+  {
+    "code": "27-4012",
+    "low": 0,
+    "median": 0,
+    "high": 0,
+    "explanation": "Broadcast technicians keep signals and equipment operating. Demand is for reliable transmission, with no material human-specific component identified for this occupation."
+  },
+  {
+    "code": "27-4014",
+    "low": 0,
+    "median": 3,
+    "high": 15,
+    "explanation": "Sound engineering mainly produces desired audio quality. A small market may specifically seek a renowned human engineer's taste and collaboration, rather than the sonic result alone."
+  },
+  {
+    "code": "27-4015",
+    "low": 0,
+    "median": 0,
+    "high": 5,
+    "explanation": "Lighting technicians chiefly deliver safe, effective illumination. Signature live lighting artistry may sustain a small premium niche, but routine operation remains derived."
+  },
+  {
+    "code": "27-4021",
+    "low": 5,
+    "median": 20,
+    "high": 45,
+    "explanation": "Photography mixes desired images with named artistic authorship and a photographer's personal relationship to subjects. Human provenance matters more in fine art and personal portraiture than in routine documentation."
+  },
+  {
+    "code": "27-4031",
+    "low": 0,
+    "median": 3,
+    "high": 10,
+    "explanation": "Camera operation mainly captures required footage. A smaller niche values a specific operator's creative collaboration or eyewitness participation, without making all recording work human-essential."
+  },
+  {
+    "code": "27-4032",
+    "low": 0,
+    "median": 5,
+    "high": 20,
+    "explanation": "Film and video editing primarily shapes a finished audiovisual result. Some projects specifically value a named human editor's artistic judgment, while routine assembly and technical work remain derived."
+  },
+  {
+    "code": "27-4099",
+    "low": 0,
+    "median": 0,
+    "high": 3,
+    "explanation": "Residual media-equipment work mainly delivers reliable technical operation. The upper bound allows unusual personal-service niches, but the central classification is entirely derived demand."
+  }
+]

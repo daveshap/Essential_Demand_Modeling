@@ -1,0 +1,33 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+13-1011|6|18|35|Affinity; Accountability|Performers and athletes want their own trusted advocate, and the relationship is much of the job. Deal negotiation, booking and contract administration are derived.
+13-1020|0|0|2|None|Purchasing is a means to acquiring inputs. Derived; a negligible share of vendors or employers would pay extra for a human buyer.
+13-1031|0|1|4|Presence|Settling claims is a means to paying them correctly. A few claimants after a serious loss want a human to deal with; small.
+13-1032|0|0|1|None|Estimating vehicle damage is purely instrumental. Derived.
+13-1041|1|3|8|Accountability|Regulators expect a named, accountable compliance officer who answers for the program; the meaningful review time is small. Monitoring, testing and reporting are derived.
+13-1051|0|0|1|None|Estimates are inputs to bids. Derived.
+13-1071|1|4|10|Accountability; Presence|Recruiting and HR administration are derived. Candidates and employees often want a human to make and explain hiring, discipline and complaint decisions about them.
+13-1074|0|0|3|None|Supplying farm labor is a means to harvesting crops. Derived.
+13-1075|4|12|25|Accountability; Affinity|Bargaining and grievance work is people representing people; union members want their own human representative across the table. Research and contract administration are derived.
+13-1081|0|0|1|None|Supply-chain coordination is a means to moving goods. Derived.
+13-1082|0|1|4|Accountability|Projects are means to deliverables. A sliver for a human answerable for the project to the client.
+13-1111|2|5|12|Accountability; Affinity|Mostly analysis and recommendations (derived). Executives also buy a trusted outside adviser's judgment and someone to share responsibility for a decision; that part survives the test for some clients.
+13-1121|3|8|18|Presence; Affinity|Most planners run corporate logistics (derived). Wedding and private-event planners whom clients want there on the day, and trust personally, are a real minority.
+13-1131|7|18|32|Affinity; Presence|Donors give to people they know; relationship cultivation and the personal ask are human-specific. Database, research, events logistics and grant writing are derived.
+13-1141|0|0|2|None|Pay and job analysis is instrumental. Derived.
+13-1151|4|10|22|Presence|Much of the work is designing e-learning and materials (derived). Live facilitation, where learners and employers want a human in the room, is a real but minority share.
+13-1161|0|0|2|None|Market research and marketing execution are means to sales. Derived.
+13-1199|0|0|3|None|Mixed specialist roles (continuity planners, customs brokers, sustainability specialists), almost all instrumental.
+13-2011|1|4|10|Accountability; Affinity|Bookkeeping, tax and analysis are derived. A licensed CPA who signs the audit opinion and answers for it, and the small-business owner's trusted accountant, are a small human-specific share.
+13-2020|0|2|6|Accountability|Valuation is instrumental. Licensed appraisers sign and answer for appraisals, and some assessors are public officials; the meaningful accountable time is small.
+13-2031|0|0|1|None|Budget analysis is instrumental. Derived.
+13-2041|0|0|1|None|Credit analysis is instrumental. Derived.
+13-2051|0|1|3|Accountability|Analysis is instrumental. A sliver for named analysts whose judgment clients follow.
+13-2052|10|25|45|Affinity; Accountability|Clients pay a premium for a trusted person to talk them through life decisions, keep them from panicking and stand behind the advice; robo-advisers already match the portfolio. Portfolio construction, research and paperwork are derived.
+13-2053|0|0|1|None|Underwriting is risk pricing. Derived.
+13-2054|0|0|1|None|Risk modeling is instrumental. Derived.
+13-2061|0|2|5|Accountability|Bank examination is instrumental, with a small requirement for an accountable public examiner to make adverse findings.
+13-2071|3|10|22|Presence; Affinity|People in financial distress often want a nonjudgmental human to talk to; that counseling time is partly human-specific. Budgets, plans and creditor negotiation are derived.
+13-2072|1|3|8|Affinity|Lending is a means to financing. A minority of borrowers want a known person to guide them through a mortgage; small.
+13-2081|1|3|8|Accountability|Assessment and collection are instrumental. Citizens are owed a human who makes and explains adverse determinations; small share of hours.
+13-2082|1|4|10|Affinity; Accountability|Returns are the product. A minority of clients (18% of preparers are self-employed) want their own trusted preparer who answers for the return.
+13-2099|0|0|3|None|Miscellaneous financial specialists. Derived.

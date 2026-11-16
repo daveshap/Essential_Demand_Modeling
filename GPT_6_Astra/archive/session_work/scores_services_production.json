@@ -1,0 +1,1934 @@
+[
+  {
+    "code": "29-1011",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Pain relief and mobility outcomes generate derived demand. A named practitioner's hands-on care, human encounter and personal responsibility support a substantial but uncertain human premium."
+  },
+  {
+    "code": "29-1021",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 30.0,
+    "explanation": "Patients primarily buy oral health and successful procedures. Some demand attaches to a continuing human dentist relationship and a practitioner personally answerable for treatment."
+  },
+  {
+    "code": "29-1022",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 20.0,
+    "explanation": "Surgical safety and restored function dominate. A personally accountable surgeon and human preoperative reassurance retain a smaller essential component than the technical operation."
+  },
+  {
+    "code": "29-1023",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Tooth alignment is the principal purchase. Long-term relationships with patients and families, plus a named clinician standing behind care, support limited essential demand."
+  },
+  {
+    "code": "29-1024",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Functional and cosmetic dental restoration dominates. Some patients additionally value the responsible human specialist and personal consultation, rather than fabrication itself."
+  },
+  {
+    "code": "29-1029",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Specialist dental outcomes are chiefly instrumental. Patient relationships and personal responsibility vary across the specialties collected here, creating a wider upper bound."
+  },
+  {
+    "code": "29-1031",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Nutritional plans and health improvements are outputs. An ongoing relationship with a real human coach can itself command a premium, especially in personal counseling."
+  },
+  {
+    "code": "29-1041",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Accurate vision correction and eye-health management dominate. A continuing relationship with a personally responsible human clinician supports a limited essential share."
+  },
+  {
+    "code": "29-1051",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Correct dispensing, interaction checking and medication advice are instrumental. Some demand is for a known human pharmacist who assumes responsibility and provides personal counsel."
+  },
+  {
+    "code": "29-1071",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 30.0,
+    "explanation": "Diagnosis and treatment are chiefly derived demand. Patient relationships and having a real clinician personally responsible for care contribute a smaller essential component."
+  },
+  {
+    "code": "29-1081",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Foot treatment and mobility improvement are outputs. Repeat patient relationships and personal clinical accountability support some demand for a human practitioner."
+  },
+  {
+    "code": "29-1122",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Functional rehabilitation is instrumental. Sustained interaction with a real human therapist, encouragement and a specific therapeutic relationship can be separately valued."
+  },
+  {
+    "code": "29-1123",
+    "low": 5.0,
+    "median": 20.0,
+    "high": 40.0,
+    "explanation": "Restoring movement is the main output. A real human therapeutic relationship and hands-on personal care create mixed demand beyond exercise prescription or mechanical assistance."
+  },
+  {
+    "code": "29-1124",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Radiation delivery is predominantly a technical treatment service. Some patients value human accompaniment during repeated cancer treatment, distinct from the radiation procedure."
+  },
+  {
+    "code": "29-1125",
+    "low": 15.0,
+    "median": 35.0,
+    "high": 60.0,
+    "explanation": "Rehabilitation outcomes remain instrumental, but shared recreation with a real person and a particular therapeutic relationship can be central to the purchased experience."
+  },
+  {
+    "code": "29-1126",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Breathing support and monitoring dominate. Human bedside reassurance and a personally responsible clinician add a limited essential component in some care settings."
+  },
+  {
+    "code": "29-1127",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Communication improvement is the functional goal. Repeated interpersonal practice with a real human and an established therapist relationship support a meaningful essential component."
+  },
+  {
+    "code": "29-1128",
+    "low": 3.0,
+    "median": 12.0,
+    "high": 30.0,
+    "explanation": "Physiological assessment and exercise benefits are outputs. Some clients pay for an ongoing human coaching relationship and personal responsibility for their program."
+  },
+  {
+    "code": "29-1129",
+    "low": 5.0,
+    "median": 20.0,
+    "high": 45.0,
+    "explanation": "This residual spans therapeutic modalities with different interpersonal content. Functional treatment dominates some cases, while real human participation and relationships matter strongly in others."
+  },
+  {
+    "code": "29-1131",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Animal health is the desired outcome. Owners may also value a known human veterinarian's counsel and personal responsibility, especially during difficult care decisions."
+  },
+  {
+    "code": "29-1141",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Medication, monitoring and procedures are instrumental. Real human bedside presence, continuity and end-of-life companionship support essential demand within a technically diverse occupation."
+  },
+  {
+    "code": "29-1151",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Safe anesthesia is overwhelmingly an outcome purchase. A personally accountable clinician and brief human reassurance contribute a smaller essential component."
+  },
+  {
+    "code": "29-1161",
+    "low": 20.0,
+    "median": 45.0,
+    "high": 70.0,
+    "explanation": "Safe childbirth is instrumental, while many clients additionally seek a real human companion, a particular midwife and personal responsibility through an intimate life event."
+  },
+  {
+    "code": "29-1171",
+    "low": 8.0,
+    "median": 20.0,
+    "high": 40.0,
+    "explanation": "Diagnosis and treatment generate derived demand. Continuing patient relationships and a personally answerable human practitioner sustain an additional essential share."
+  },
+  {
+    "code": "29-1181",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Hearing assessment and rehabilitation primarily deliver functional results. Some demand attaches to repeated human counseling and an accountable personal practitioner."
+  },
+  {
+    "code": "29-1211",
+    "low": 2.0,
+    "median": 7.0,
+    "high": 18.0,
+    "explanation": "Anesthesia safety and pain control dominate. Patients may separately want a human decision-maker personally answerable for care, with little demand for human technical execution itself."
+  },
+  {
+    "code": "29-1212",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Cardiac diagnosis and treatment are instrumental. A named physician's responsibility and continuing patient relationship preserve a minority essential component."
+  },
+  {
+    "code": "29-1213",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Skin treatment and appearance outcomes dominate. Personal clinician reputation, responsibility and repeat relationships can support a human premium in selected practices."
+  },
+  {
+    "code": "29-1214",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Emergency stabilization is chiefly an outcome purchase. Human reassurance and a person answerable for consequential decisions retain a smaller essential component."
+  },
+  {
+    "code": "29-1215",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Medical outcomes remain instrumental. Long-standing relationships with a particular family doctor and personally accountable care can carry substantial value beyond the diagnosis."
+  },
+  {
+    "code": "29-1216",
+    "low": 8.0,
+    "median": 20.0,
+    "high": 40.0,
+    "explanation": "Disease management primarily supplies health outcomes. Continuing relationships and a human physician who stands behind consequential care support a mixed demand profile."
+  },
+  {
+    "code": "29-1217",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 30.0,
+    "explanation": "Neurological diagnosis and treatment dominate. Longitudinal counseling and a personally responsible human doctor add value for some patients and families."
+  },
+  {
+    "code": "29-1218",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Reproductive health outcomes are instrumental. Intimate care, childbirth relationships and a personally accountable human clinician can command a separate premium."
+  },
+  {
+    "code": "29-1221",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Children's health is the principal output. Families may also value a particular human pediatrician's relationship with the child and personal responsibility for care."
+  },
+  {
+    "code": "29-1222",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Tissue analysis and accurate diagnosis dominate, generally without a patient-facing relationship. The upper bound allows some demand for personally accountable human interpretation."
+  },
+  {
+    "code": "29-1223",
+    "low": 15.0,
+    "median": 35.0,
+    "high": 60.0,
+    "explanation": "Diagnosis and medication management are instrumental. Therapy and an enduring relationship with an actual human psychiatrist support substantial essential demand in part of the occupation."
+  },
+  {
+    "code": "29-1224",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Image interpretation is predominantly an output purchase. A minority share reflects demand for a personally responsible human specialist, especially in interventional or patient-facing work."
+  },
+  {
+    "code": "29-1229",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Unspecified physician specialties mix technical and relationship-based care. Named human responsibility and sustained patient relationships support some demand, with substantial composition uncertainty."
+  },
+  {
+    "code": "29-1241",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Restored vision and eye treatment dominate. Personal responsibility for surgery and a continuing human patient relationship support a smaller essential component."
+  },
+  {
+    "code": "29-1242",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Successful surgery and restored mobility are instrumental. A human surgeon's personal commitment and reputation can be valued separately from technical surgical performance."
+  },
+  {
+    "code": "29-1243",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 30.0,
+    "explanation": "Surgical outcomes for children dominate. Families may especially value a known human surgeon's personal responsibility and presence during consequential decisions."
+  },
+  {
+    "code": "29-1249",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Operations are principally purchased for health outcomes. A named person standing behind the intervention and communicating with patients supports a minority essential share."
+  },
+  {
+    "code": "29-1291",
+    "low": 10.0,
+    "median": 30.0,
+    "high": 55.0,
+    "explanation": "Symptom relief is an instrumental goal. A real human practitioner's touch, personal encounter and identity may also be central to what clients purchase."
+  },
+  {
+    "code": "29-1292",
+    "low": 2.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Clean teeth and preventive care dominate. Repeated human interaction and comfort with a particular hygienist support a limited personal-service premium."
+  },
+  {
+    "code": "29-1299",
+    "low": 5.0,
+    "median": 20.0,
+    "high": 45.0,
+    "explanation": "The residual includes varied diagnosing and treating practices. Some are technical, while others sell a particular human relationship or hands-on encounter, widening the range."
+  },
+  {
+    "code": "29-2010",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Patients and clinicians buy accurate laboratory results. A small upper allowance covers individually accountable specialist oversight, not routine human sample processing."
+  },
+  {
+    "code": "29-2031",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Cardiac testing and procedure support mainly deliver technical outputs. Some human reassurance during uncomfortable or consequential examinations adds limited essential demand."
+  },
+  {
+    "code": "29-2032",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Diagnostic images are instrumental. Human interaction during examinations, including emotionally significant prenatal imaging, can be independently valued by some patients."
+  },
+  {
+    "code": "29-2033",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Safe tracer administration and accurate imaging dominate. A modest upper bound allows demand for human reassurance during the procedure."
+  },
+  {
+    "code": "29-2034",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "The principal purchase is accurate diagnostic imaging. Some patients separately value a real human's reassurance and assistance during an examination."
+  },
+  {
+    "code": "29-2035",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "MRI images and safe operation are instrumental. Real human reassurance for anxious or claustrophobic patients supports a small essential component."
+  },
+  {
+    "code": "29-2036",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Radiation dose planning is purchased for technical accuracy. Only a small upper allowance is assigned to demand for personally answerable human plan approval."
+  },
+  {
+    "code": "29-2042",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Emergency stabilization and transport support are instrumental. Human comfort during distress can itself be valued, while rescue capability does not require human execution."
+  },
+  {
+    "code": "29-2043",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Advanced emergency treatment chiefly supplies health outcomes. Human reassurance and personal responsibility for immediate decisions add a limited essential component."
+  },
+  {
+    "code": "29-2051",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Diet preparation and nutritional assistance are mainly instrumental. Some settings include valued ongoing interaction with a real human nutrition-support worker."
+  },
+  {
+    "code": "29-2052",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Medication preparation, inventory and processing are functional services. Limited human-service preference may exist at counters, but the pharmacist generally owns clinical accountability."
+  },
+  {
+    "code": "29-2053",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Monitoring and treatment support are instrumental. Real human companionship and relationships in psychiatric care can themselves be part of the valued service."
+  },
+  {
+    "code": "29-2055",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Operating-room preparation and technical assistance serve surgical outcomes. Human identity or presence is rarely the purchase, with a small upper allowance for team-specific preference."
+  },
+  {
+    "code": "29-2056",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Animal treatment support is primarily instrumental. Some owners value continuity with a particular human technician and personal counsel during difficult episodes."
+  },
+  {
+    "code": "29-2057",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Eye testing and treatment assistance are functional services. Human reassurance and continuity add a limited personal component in some practices."
+  },
+  {
+    "code": "29-2061",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Routine treatment and monitoring are instrumental. Sustained bedside care, elder-care relationships and real human comfort create a meaningful essential component."
+  },
+  {
+    "code": "29-2072",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Accurate coding and organized medical records are the outputs purchased. Human identity, presence or provenance contributes no material essential demand to routine records work."
+  },
+  {
+    "code": "29-2081",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Correctly fitted eyewear is the principal output. Some customers pay for a particular human stylist's relationship and personal responsibility for fitting."
+  },
+  {
+    "code": "29-2091",
+    "low": 3.0,
+    "median": 12.0,
+    "high": 30.0,
+    "explanation": "Functional orthoses and prostheses dominate. Close ongoing relationships and a named practitioner standing behind individualized rehabilitation support some essential demand."
+  },
+  {
+    "code": "29-2092",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Better hearing and device fitting are instrumental. Repeated human counseling and a trusted individual responsible for follow-up add a minority essential share."
+  },
+  {
+    "code": "29-2099",
+    "low": 0.0,
+    "median": 5.0,
+    "high": 20.0,
+    "explanation": "This residual combines technical roles and patient-facing services. Most demand concerns health outputs, but some roles include independently valued human interaction and responsibility."
+  },
+  {
+    "code": "29-9021",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Health information systems and registries are purchased for accuracy and usability. Limited personally accountable oversight may matter, but human data handling itself is instrumental."
+  },
+  {
+    "code": "29-9091",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Injury prevention and rehabilitation are outcomes. Athletes may separately value a particular human trainer, personal reassurance and an accountable ongoing relationship."
+  },
+  {
+    "code": "29-9092",
+    "low": 15.0,
+    "median": 35.0,
+    "high": 60.0,
+    "explanation": "Risk interpretation is instrumental. Real human support through reproductive and family decisions and an established counseling relationship create substantial mixed demand."
+  },
+  {
+    "code": "29-9093",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Operative assistance primarily supplies successful surgery. Some demand may attach to a particular accountable human team member, with little value in human execution alone."
+  },
+  {
+    "code": "29-9099",
+    "low": 2.0,
+    "median": 10.0,
+    "high": 30.0,
+    "explanation": "The residual spans clinical and technical work. Human patient relationships and personal responsibility may matter, but the uncertain mix warrants wide judgment bounds."
+  },
+  {
+    "code": "31-1120",
+    "low": 15.0,
+    "median": 35.0,
+    "high": 60.0,
+    "explanation": "Help with daily activities and monitoring is instrumental. Real human companionship, continuity and hospice presence can themselves be a substantial part of the service purchased."
+  },
+  {
+    "code": "31-1131",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Hygiene, mobility and routine care are functional outputs. Real human bedside comfort and sustained relationships with residents support a significant essential component."
+  },
+  {
+    "code": "31-1132",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Moving patients and maintaining care areas are mainly instrumental. Some vulnerable patients value a real human accompanying them, creating a small essential share."
+  },
+  {
+    "code": "31-1133",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Supervision and daily living support are instrumental. Actual human companionship and familiar care relationships can be separately valued in psychiatric settings."
+  },
+  {
+    "code": "31-2011",
+    "low": 8.0,
+    "median": 20.0,
+    "high": 40.0,
+    "explanation": "Functional rehabilitation dominates, while repeated practice with an actual human and an established support relationship add meaningful essential demand."
+  },
+  {
+    "code": "31-2012",
+    "low": 0.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Equipment preparation and routine assistance are mostly instrumental. Some direct patient interaction is valued for real human accompaniment rather than therapeutic output alone."
+  },
+  {
+    "code": "31-2021",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Physical recovery is the central output. Sustained human encouragement and a particular therapist-assistant relationship support a minority essential component."
+  },
+  {
+    "code": "31-2022",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Preparing treatment areas and assisting movement mostly supply functional support. Brief human reassurance creates limited essential demand in patient-facing settings."
+  },
+  {
+    "code": "31-9011",
+    "low": 15.0,
+    "median": 40.0,
+    "high": 70.0,
+    "explanation": "Relaxation and pain relief are instrumental. Many clients also seek actual human touch or a particular practitioner's presence, making the human component substantial but uncertain."
+  },
+  {
+    "code": "31-9091",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Chairside assistance and administration are mainly instrumental. Familiar human reassurance during anxious dental visits contributes a smaller essential component."
+  },
+  {
+    "code": "31-9092",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Scheduling, measurements and clinical support are functional services. Some demand reflects continuity with a real person and human comfort in medical encounters."
+  },
+  {
+    "code": "31-9093",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Sterile and properly prepared medical equipment is the required output. Human execution has no material independent value in this role."
+  },
+  {
+    "code": "31-9094",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Accurate medical text is the desired output. The identity or humanity of the transcriber is not a material part of the service purchased."
+  },
+  {
+    "code": "31-9095",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Stocking and clerical pharmacy support are instrumental. Only a small upper allowance covers independently valued familiar human service at the counter."
+  },
+  {
+    "code": "31-9096",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Animal welfare and laboratory support dominate. Owners may additionally value a familiar human caregiver, but animal-directed care is not automatically demand for humans."
+  },
+  {
+    "code": "31-9097",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Safe blood collection is the principal output. Some patients separately value real human reassurance and comfort during an anxiety-provoking procedure."
+  },
+  {
+    "code": "31-9099",
+    "low": 2.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "The residual mixes functional support with direct care. Real human companionship may matter in some included roles, with uncertain occupational composition."
+  },
+  {
+    "code": "33-1011",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Prison operations are instrumental. A human supervisor answerable for coercive decisions and treatment of prisoners supplies a meaningful accountability component."
+  },
+  {
+    "code": "33-1012",
+    "low": 20.0,
+    "median": 40.0,
+    "high": 65.0,
+    "explanation": "Effective policing is instrumental. Demand for a human authority who can be removed or sanctioned is substantial, consistent with the user's police-chief example."
+  },
+  {
+    "code": "33-1021",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Fire response coordination is instrumental. A human chief personally answerable for decisions retains value even if machines perform dangerous frontline rescue."
+  },
+  {
+    "code": "33-1091",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 30.0,
+    "explanation": "Protection and staff coordination are outputs. Clients may additionally want an identifiable human supervisor responsible for surveillance and coercive actions."
+  },
+  {
+    "code": "33-1099",
+    "low": 5.0,
+    "median": 20.0,
+    "high": 40.0,
+    "explanation": "The residual mixes protective functions. Personally answerable human authority supports essential demand, while technical coordination remains instrumental and the mix is uncertain."
+  },
+  {
+    "code": "33-2011",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Fire suppression and rescue are instrumental, as in the user's robot-firefighter example. A small share allows human reassurance or personal responsibility distinct from rescue execution."
+  },
+  {
+    "code": "33-2021",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Finding hazards and causes is instrumental. A human investigator personally answerable for consequential findings and enforcement decisions contributes a limited essential component."
+  },
+  {
+    "code": "33-2022",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Preventing forest fires and identifying hazards are functional outcomes. Some demand may remain for a human official personally responsible for consequential restrictions."
+  },
+  {
+    "code": "33-3011",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 30.0,
+    "explanation": "Courtroom order is instrumental. Human officers exercising accountable coercive authority and participating in the court's public process support a minority essential share."
+  },
+  {
+    "code": "33-3012",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Secure custody is chiefly an outcome purchase. Demand for humane interaction and personally accountable use of coercion creates an essential component without making all guarding essential."
+  },
+  {
+    "code": "33-3021",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Solving cases and gathering evidence are instrumental. Personally answerable investigators and human relationships with victims or witnesses support some essential demand."
+  },
+  {
+    "code": "33-3031",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Conservation and enforcement outcomes dominate. An identifiable human exercising sanctionable public authority adds a smaller accountability component."
+  },
+  {
+    "code": "33-3041",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Parking compliance is the principal outcome. A limited share reflects preference for a personally accountable human exercising enforcement discretion."
+  },
+  {
+    "code": "33-3051",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Safety and crime response are instrumental. Human accountability for coercion and relationships with actual community members support a minority essential share."
+  },
+  {
+    "code": "33-3052",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Transit safety and law enforcement chiefly supply outcomes. Personally answerable human discretion and interaction with travelers add limited essential demand."
+  },
+  {
+    "code": "33-9011",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 12.0,
+    "explanation": "Safe animal handling and nuisance resolution are functional services. Some demand attaches to human responsibility and personal engagement with distressed owners."
+  },
+  {
+    "code": "33-9021",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Useful evidence and information dominate. A particular investigator's discretion, personal commitment and responsibility may separately command a premium."
+  },
+  {
+    "code": "33-9031",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Detecting cheating and monitoring gambling are instrumental. A small component may require a personally accountable human investigator making consequential accusations."
+  },
+  {
+    "code": "33-9032",
+    "low": 0.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Protection, deterrence and access control dominate. Human reassurance and personally accountable discretion create some demand, but human patrol execution is chiefly instrumental."
+  },
+  {
+    "code": "33-9091",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Safe crossings and traffic control are the outputs. Familiar human interaction may add value at schools, while roadwork signaling is almost wholly instrumental."
+  },
+  {
+    "code": "33-9092",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 12.0,
+    "explanation": "Preventing injury and rescuing people are instrumental. Real human reassurance and personal engagement within recreation settings support a small essential component."
+  },
+  {
+    "code": "33-9093",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 5.0,
+    "explanation": "Detecting prohibited items and ensuring transport safety dominate. The upper bound allows demand for personally accountable human discretion during searches or disputes."
+  },
+  {
+    "code": "33-9094",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 30.0,
+    "explanation": "Safe and orderly transport is instrumental. A familiar real adult accompanying and comforting children contributes a separate human-presence component."
+  },
+  {
+    "code": "33-9099",
+    "low": 0.0,
+    "median": 8.0,
+    "high": 25.0,
+    "explanation": "This residual includes diverse protective tasks. Most demand concerns safety outputs, while some roles involve valued human presence or personally accountable authority."
+  },
+  {
+    "code": "35-1011",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Food quality and kitchen coordination are instrumental. A particular chef's authorship, handmade provenance and personal reputation can themselves attract paying customers."
+  },
+  {
+    "code": "35-1012",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Coordinating food preparation and service is mostly instrumental. Some customers value a personally responsible human host or supervisor in independent and premium venues."
+  },
+  {
+    "code": "35-2011",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Customers mainly buy standardized meals quickly and cheaply. Human cooking provenance has little independent value, with only a small allowance for niche preferences."
+  },
+  {
+    "code": "35-2012",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Institutional meals are purchased for nourishment and reliable delivery. A small upper allowance covers settings that separately value a familiar human cook."
+  },
+  {
+    "code": "35-2013",
+    "low": 5.0,
+    "median": 20.0,
+    "high": 40.0,
+    "explanation": "Prepared meals are instrumental. Some households pay for a particular cook, personal continuity or real human culinary authorship beyond the meal's functional quality."
+  },
+  {
+    "code": "35-2014",
+    "low": 0.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Most demand concerns the finished meal. Human-made culinary provenance and recognizable individual craft contribute a minority share, especially in artisan or open-kitchen dining."
+  },
+  {
+    "code": "35-2015",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Promptly prepared meals dominate. Some diner customers value a familiar human cook or witnessed preparation, but this is a small component."
+  },
+  {
+    "code": "35-2019",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 12.0,
+    "explanation": "This residual mixes cooking settings. Functional meal provision dominates, with uncertain niches for particular cooks and explicitly human-made food."
+  },
+  {
+    "code": "35-2021",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Ingredient preparation is primarily an input to finished meals. The upper bound allows limited visible hand-preparation provenance in specialized food experiences."
+  },
+  {
+    "code": "35-3011",
+    "low": 10.0,
+    "median": 30.0,
+    "high": 55.0,
+    "explanation": "Preparing and delivering drinks is instrumental. Conversation with an actual bartender, a particular person's following and live human performance can be central purchases."
+  },
+  {
+    "code": "35-3023",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Taking orders and delivering food mostly supply convenience. Some customers value a familiar real person, but human interaction is usually incidental to the transaction."
+  },
+  {
+    "code": "35-3031",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Meal delivery and order handling are instrumental. Personal hospitality, a familiar server and premium human attention sustain a mixed essential component."
+  },
+  {
+    "code": "35-3041",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Delivering meals outside restaurants is chiefly instrumental. Human companionship and personal attention in care or hospitality settings add a minority essential share."
+  },
+  {
+    "code": "35-9011",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Clearing tables and supporting service are functional inputs. Limited customer-facing human hospitality supports a small essential component in some venues."
+  },
+  {
+    "code": "35-9021",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Clean dishes are the required output. The dishwasher's humanity, identity or personal presence does not materially contribute to the service purchased."
+  },
+  {
+    "code": "35-9031",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Seating and reservations are functional tasks. Real human welcome, personal recognition and premium hospitality can themselves form part of the dining experience."
+  },
+  {
+    "code": "35-9099",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 15.0,
+    "explanation": "The residual combines varied food-service tasks. Most are functional, while some include valued human hosting or culinary provenance; composition is uncertain."
+  },
+  {
+    "code": "37-1011",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Reliable cleaning and coordination are outputs. A human supervisor or small operator who personally stands behind the service can command a limited accountability premium."
+  },
+  {
+    "code": "37-1012",
+    "low": 0.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Groundskeeping coordination is instrumental. Some demand attaches to an identifiable human operator personally responsible for results and property damage."
+  },
+  {
+    "code": "37-2011",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Clean and usable buildings are the principal purchase. A narrow upper allowance covers personal continuity, while trust in competent cleaning alone is instrumental."
+  },
+  {
+    "code": "37-2012",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "A clean household or room is the main output. Some households also value a familiar human's continuity and personally assumed responsibility for service."
+  },
+  {
+    "code": "37-2019",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Specialized cleaning primarily supplies cleanliness. The broad residual leaves a small allowance for independently valued human continuity or personal accountability."
+  },
+  {
+    "code": "37-2021",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Pest removal and prevention are instrumental. A named operator personally standing behind safety and results may command a small accountability premium."
+  },
+  {
+    "code": "37-3011",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Maintained grounds are the main output. A minority of buyers value personally authored garden craft or a human operator standing behind the work."
+  },
+  {
+    "code": "37-3012",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Effective, safe vegetation treatment is instrumental. Some personally accountable operator demand may remain, but human spraying itself adds no material value."
+  },
+  {
+    "code": "37-3013",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Safe pruning and tree removal are functional outcomes. A named arborist personally accepting responsibility can add limited essential demand beyond execution."
+  },
+  {
+    "code": "37-3019",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "The residual mostly supplies maintained grounds. Small niches may value human garden craft or a personally accountable operator, with uncertain composition."
+  },
+  {
+    "code": "39-1013",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Gambling operations and dispute handling are partly functional. A personally accountable human floor authority and familiar host can add independent value."
+  },
+  {
+    "code": "39-1014",
+    "low": 3.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Coordinating recreation is instrumental. A real human host or personally responsible leader can be part of the entertainment experience in some settings."
+  },
+  {
+    "code": "39-1022",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Service coordination is instrumental. Clients may seek a particular human proprietor, personal continuity and someone who stands behind intimate personal services."
+  },
+  {
+    "code": "39-2011",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Animal behavior outcomes are instrumental. Owners may pay for a particular trainer's identity and personal commitment, while live human-animal performance adds another niche."
+  },
+  {
+    "code": "39-2021",
+    "low": 0.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Animal welfare, feeding and grooming chiefly supply outputs. Some owners value a particular human caregiver and their personal commitment, not simply competent handling."
+  },
+  {
+    "code": "39-3011",
+    "low": 15.0,
+    "median": 40.0,
+    "high": 65.0,
+    "explanation": "Dealing mechanics are instrumental. Live interaction with a real human dealer, social ritual and personal recognition can be substantial parts of gambling demand."
+  },
+  {
+    "code": "39-3012",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Recording bets and payments is primarily functional. A small social-service component may attach to a familiar human bookmaker or runner."
+  },
+  {
+    "code": "39-3019",
+    "low": 3.0,
+    "median": 12.0,
+    "high": 30.0,
+    "explanation": "This residual mixes functional gambling support and social hosting. Real human interaction can be valued, but the composition is less clear than for dealers."
+  },
+  {
+    "code": "39-3021",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Reliable film display is the purchased output. A very small niche may value a live human projectionist as part of a historic exhibition."
+  },
+  {
+    "code": "39-3031",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Ticket checking and directing patrons are instrumental. Real human welcome and personal assistance can add a small hospitality premium."
+  },
+  {
+    "code": "39-3091",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Operating attractions and assisting visitors are mainly functional. Some experiences additionally sell interaction with real human attendants or hosts."
+  },
+  {
+    "code": "39-3092",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Costume readiness and backstage assistance serve performance outputs. Human craft or particular working relationships add only a limited essential component."
+  },
+  {
+    "code": "39-3093",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Storage and garment assistance are functional. Premium human attention and personally familiar service can command a small separate premium."
+  },
+  {
+    "code": "39-3099",
+    "low": 2.0,
+    "median": 10.0,
+    "high": 30.0,
+    "explanation": "The residual contains varied entertainment support. Functional assistance dominates some jobs, while others sell actual human hosting and interaction, creating a wide range."
+  },
+  {
+    "code": "39-4011",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 10.0,
+    "explanation": "Preservation and presentation of remains are functional outputs. Some families place separate value on human stewardship and ritual handling of the deceased."
+  },
+  {
+    "code": "39-4012",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Cremation primarily supplies respectful disposition of remains. A small share allows demand for an actual human custodian participating in the ritual."
+  },
+  {
+    "code": "39-4021",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Funeral logistics are instrumental. Real human presence, compassionate participation and assistance during mourning can themselves be valued by families."
+  },
+  {
+    "code": "39-4031",
+    "low": 15.0,
+    "median": 35.0,
+    "high": 60.0,
+    "explanation": "Arrangements and disposition are functional services. Families may separately value a particular human guide, shared mourning and personally answerable stewardship of the funeral."
+  },
+  {
+    "code": "39-5011",
+    "low": 15.0,
+    "median": 35.0,
+    "high": 60.0,
+    "explanation": "Haircut results are instrumental. A particular barber, conversation and real human personal attention can be major independent reasons for patronage."
+  },
+  {
+    "code": "39-5012",
+    "low": 15.0,
+    "median": 35.0,
+    "high": 60.0,
+    "explanation": "Appearance results generate derived demand. A particular stylist's identity, personal relationship and live human attention support a substantial essential component."
+  },
+  {
+    "code": "39-5091",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "A performer's required appearance is mostly an output. Named human artistry, creative provenance and personal relationships support some separate demand."
+  },
+  {
+    "code": "39-5092",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 50.0,
+    "explanation": "Nail appearance and care are functional. Actual human touch, conversation and continuity with a particular practitioner can independently command a premium."
+  },
+  {
+    "code": "39-5093",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Clean hair and treatment preparation are instrumental. Human touch and personal pampering can themselves be valued in salon experiences."
+  },
+  {
+    "code": "39-5094",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 50.0,
+    "explanation": "Skin appearance and treatment outcomes are instrumental. A real human practitioner's touch, personal relationship and pampering create mixed demand."
+  },
+  {
+    "code": "39-6011",
+    "low": 0.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Moving luggage is predominantly functional. Premium human hospitality, personal recognition and ceremonious service can add a smaller essential component."
+  },
+  {
+    "code": "39-6012",
+    "low": 5.0,
+    "median": 20.0,
+    "high": 40.0,
+    "explanation": "Reservations and useful local information are instrumental. A particular human host's personal attention, social connection and responsibility can independently command a premium."
+  },
+  {
+    "code": "39-7010",
+    "low": 10.0,
+    "median": 30.0,
+    "high": 55.0,
+    "explanation": "Navigation and information are functional. Travelers may also purchase companionship, a particular guide's lived experience and authentic interaction with a real human host."
+  },
+  {
+    "code": "39-9011",
+    "low": 30.0,
+    "median": 60.0,
+    "high": 85.0,
+    "explanation": "This estimate assumes sustained human care and attachment account for more demand than in instruction-focused preschool teaching. Practical supervision remains derived, while families may specifically want a real human caring for their child."
+  },
+  {
+    "code": "39-9031",
+    "low": 10.0,
+    "median": 30.0,
+    "high": 55.0,
+    "explanation": "Fitness outcomes and program design are instrumental. A particular trainer, real human group leadership and personal companionship can be substantial parts of the purchase."
+  },
+  {
+    "code": "39-9032",
+    "low": 15.0,
+    "median": 35.0,
+    "high": 60.0,
+    "explanation": "Activity organization is functional. Shared participation with real human leaders and social companionship can themselves be central to recreation services."
+  },
+  {
+    "code": "39-9041",
+    "low": 10.0,
+    "median": 25.0,
+    "high": 45.0,
+    "explanation": "Housing supervision and rule administration are instrumental. Actual human mentorship, community relationships and an answerable adult authority add a meaningful essential component."
+  },
+  {
+    "code": "39-9099",
+    "low": 5.0,
+    "median": 20.0,
+    "high": 50.0,
+    "explanation": "This residual spans diverse personal services. Some mainly deliver outputs, while others center on human companionship or a particular person, making the range especially uncertain."
+  },
+  {
+    "code": "51-1011",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Production coordination and quality are functional outputs. A limited share reflects demand for an identifiable human supervisor personally responsible for factory operations."
+  },
+  {
+    "code": "51-2011",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Aircraft assembly is purchased for reliable airframes and systems. The assembler's humanity or identity adds no material independent value to the functional product."
+  },
+  {
+    "code": "51-2021",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Working coils and electrical components are the required products. Human winding and finishing are inputs to those results rather than independent objects of demand."
+  },
+  {
+    "code": "51-2028",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Buyers want functional electrical and electronic assemblies. Human assembly itself has no material separate value in the ordinary production market."
+  },
+  {
+    "code": "51-2031",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Reliable engines and machinery are the outputs purchased. Their assembly labor is derived from product demand, with no material human-specific component."
+  },
+  {
+    "code": "51-2041",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 1.0,
+    "explanation": "Structural fit and strength dominate. A very small upper allowance covers named artisan metalwork, rather than ordinary industrial fabrication."
+  },
+  {
+    "code": "51-2051",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 1.0,
+    "explanation": "Fiberglass products are purchased for their performance and shape. A small niche allowance covers personally authored custom craft, not routine lamination."
+  },
+  {
+    "code": "51-2061",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Accurate timing devices dominate. A narrow luxury-watch niche may value identifiable human assembly and adjustment as provenance beyond timekeeping quality."
+  },
+  {
+    "code": "51-2090",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Miscellaneous assembly primarily supplies functional manufactured goods. A small upper allowance covers uncommon human-crafted products within this broad residual."
+  },
+  {
+    "code": "51-3011",
+    "low": 2.0,
+    "median": 10.0,
+    "high": 25.0,
+    "explanation": "Bread and baked goods mainly satisfy food demand. Artisan human provenance, a particular baker and personally created celebration products support a minority essential component."
+  },
+  {
+    "code": "51-3021",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Prepared meat is the principal output. A small share reflects a particular butcher's personal service, human craft or individually assumed responsibility."
+  },
+  {
+    "code": "51-3022",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Cut and trimmed meat, poultry and fish are the required outputs. The worker's humanity is not a material independent part of the purchase."
+  },
+  {
+    "code": "51-3023",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Processed meat is the functional output. Human slaughtering and packing are instrumental inputs, even where buyers care strongly about humane treatment of animals."
+  },
+  {
+    "code": "51-3091",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Processed food and tobacco characteristics dominate. A small upper allowance covers specialty products whose buyers explicitly value identifiable human roasting or baking craft."
+  },
+  {
+    "code": "51-3092",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Food batches are primarily bought for taste and consistency. Small artisanal niches may value actual human making and a named maker's provenance."
+  },
+  {
+    "code": "51-3093",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Cooked food with the specified quality and volume is the output. Human machine tending carries no material separate demand."
+  },
+  {
+    "code": "51-3099",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "The residual mostly supplies processed food. Uncertain small artisanal niches may attach independent value to a human maker and traditional provenance."
+  },
+  {
+    "code": "51-4021",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Extruded or drawn metal and plastic are functional intermediate goods. Human machine operation is an instrumental production input."
+  },
+  {
+    "code": "51-4022",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 1.0,
+    "explanation": "Forged components chiefly serve functional requirements. A very small upper allowance covers explicitly human-crafted specialty items within this machine-oriented occupation."
+  },
+  {
+    "code": "51-4023",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Rolled metal and plastic are purchased for dimensions and properties. The operator's humanity is not a material component of demand."
+  },
+  {
+    "code": "51-4031",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Cut and pressed components are functional industrial outputs. Demand does not materially depend on a real human operating the machinery."
+  },
+  {
+    "code": "51-4032",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Drilled and bored parts are purchased for accuracy and specification. Human execution is an input to the desired result."
+  },
+  {
+    "code": "51-4033",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Required surfaces and tolerances are the products purchased. Machine-setting and tending labor is derived from those technical requirements."
+  },
+  {
+    "code": "51-4034",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Turned components are valued for their geometry and function. Human machine operation has no material independent demand."
+  },
+  {
+    "code": "51-4035",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Milled and planed parts are purchased for fit and performance. Human machine tending is a means of producing those outcomes."
+  },
+  {
+    "code": "51-4041",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 4.0,
+    "explanation": "Precision parts are primarily functional goods. A small custom-craft niche may value a named human machinist's provenance or personal commitment."
+  },
+  {
+    "code": "51-4051",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Refined metal with the required properties is the output. Human furnace operation is entirely instrumental to that production goal."
+  },
+  {
+    "code": "51-4052",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 1.0,
+    "explanation": "Metal castings primarily serve product specifications. A very small upper allowance covers human-authored artistic casting within an otherwise industrial occupation."
+  },
+  {
+    "code": "51-4061",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Models chiefly support product design and manufacturing. A small niche may value a particular human model maker's collectible or artistic work."
+  },
+  {
+    "code": "51-4062",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Patterns are manufacturing inputs purchased for dimensional accuracy. Their makers' humanity does not materially add to the functional value."
+  },
+  {
+    "code": "51-4071",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Foundry molds and cores serve casting specifications. Human fabrication is an instrumental input to a usable casting."
+  },
+  {
+    "code": "51-4072",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Molded and cast components are purchased for their properties and consistency. Human equipment operation carries no material independent demand."
+  },
+  {
+    "code": "51-4081",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Machined parts are the desired outputs. Operating multiple machine tools remains an intermediate production activity rather than a human-centered purchase."
+  },
+  {
+    "code": "51-4111",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Tools and dies are purchased for manufacturing performance. A small upper allowance covers a named craftsperson personally standing behind bespoke tooling."
+  },
+  {
+    "code": "51-4121",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Sound joins and fabricated structures dominate. Human-authored decorative metalwork and a particular independent craftsperson's commitment support a small niche component."
+  },
+  {
+    "code": "51-4122",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Reliable machine-made joins are the purchased output. Human operation of welding or soldering equipment has no material separate value."
+  },
+  {
+    "code": "51-4191",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Specified material properties are the output. Human heat-treatment operation is an instrumental production input."
+  },
+  {
+    "code": "51-4192",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Correct layouts and fabrication marks serve manufacturing accuracy. The humanity of the layout worker has no material independent demand."
+  },
+  {
+    "code": "51-4193",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Plated surfaces are purchased for protection and appearance. Human plating-machine operation is a means of producing those characteristics."
+  },
+  {
+    "code": "51-4194",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Sharp, correctly shaped tools are the main output. A small upper allowance covers customers seeking a particular human craftsperson's personal sharpening service."
+  },
+  {
+    "code": "51-4199",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Most residual metal and plastic work serves functional manufacturing. Small artistic or named-craft niches may value actual human provenance, with uncertain composition."
+  },
+  {
+    "code": "51-5111",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Print-ready files and plates are functional production inputs. Buyers do not materially value human prepress execution for its own sake."
+  },
+  {
+    "code": "51-5112",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Printed material is the principal output. A niche for human-operated letterpress or traditional print craft supports a small upper bound."
+  },
+  {
+    "code": "51-5113",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Finished and bound printed products are mainly functional. Hand-bound collectible books and named artisan provenance create a small essential niche."
+  },
+  {
+    "code": "51-6011",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Clean garments and textiles are the desired outcomes. Only a small upper allowance covers a particular human operator personally standing behind delicate-item care."
+  },
+  {
+    "code": "51-6021",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Pressed garments and textiles are the outputs purchased. Human pressing itself has no material independent value."
+  },
+  {
+    "code": "51-6031",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Sewn products are chiefly purchased for fit, appearance and durability. A small upper allowance covers buyers explicitly valuing actual human-made provenance."
+  },
+  {
+    "code": "51-6041",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Usable or repaired leather goods are functional outputs. Bespoke human craft, identifiable maker provenance and personal service support a minority essential component."
+  },
+  {
+    "code": "51-6042",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Manufactured footwear and components are the desired products. Human machine tending has no material independent demand."
+  },
+  {
+    "code": "51-6051",
+    "low": 5.0,
+    "median": 15.0,
+    "high": 35.0,
+    "explanation": "Sewn products have functional value, while actual handwork, human effort and identifiable craft provenance can separately command a premium in this occupation."
+  },
+  {
+    "code": "51-6052",
+    "low": 5.0,
+    "median": 20.0,
+    "high": 40.0,
+    "explanation": "Fit and garment appearance are instrumental. A particular tailor's personal relationship and actual human craftsmanship can be meaningful independent reasons for purchase."
+  },
+  {
+    "code": "51-6061",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 1.0,
+    "explanation": "Fabric color and finish are the functional outputs. A very small niche may value human-directed artisanal dyeing rather than ordinary machine processing."
+  },
+  {
+    "code": "51-6062",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Accurately cut textiles are the purchased production input. Human machine operation is not itself materially valued."
+  },
+  {
+    "code": "51-6063",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Knitted and woven fabrics are mainly functional goods. Limited artisan markets may value genuine human-guided making despite the machine-oriented occupational definition."
+  },
+  {
+    "code": "51-6064",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Prepared textile fibers and yarns are production inputs. The humanity of the machine operator contributes no material independent demand."
+  },
+  {
+    "code": "51-6091",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Synthetic and glass fibers are purchased for technical properties and volume. Human equipment operation is instrumental to their production."
+  },
+  {
+    "code": "51-6092",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Patterns chiefly supply garment fit and manufacturability. A small designer-craft niche may value a particular human's authorship rather than pattern function alone."
+  },
+  {
+    "code": "51-6093",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Restored or upholstered furniture is primarily functional. Bespoke handwork and a named human craftsperson's personal commitment support a modest essential niche."
+  },
+  {
+    "code": "51-6099",
+    "low": 0.0,
+    "median": 3.0,
+    "high": 12.0,
+    "explanation": "The residual combines varied textile and furnishing work. Functional production dominates, while handmade or named-artisan provenance may matter in some niches."
+  },
+  {
+    "code": "51-7011",
+    "low": 2.0,
+    "median": 8.0,
+    "high": 20.0,
+    "explanation": "Usable cabinetry and furniture are the main outputs. Bespoke human making, identifiable craft and personally commissioned work support a minority essential component."
+  },
+  {
+    "code": "51-7021",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 15.0,
+    "explanation": "Furniture appearance and protection are functional results. Human restoration craft and a particular finisher's provenance may separately matter for valued objects."
+  },
+  {
+    "code": "51-7031",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Wooden models chiefly support designs and production. A small artistic or collectible niche may value a particular human maker's work."
+  },
+  {
+    "code": "51-7032",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Wooden patterns serve manufacturing accuracy. A small upper allowance covers individually crafted heritage work whose human provenance is explicitly valued."
+  },
+  {
+    "code": "51-7041",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Cut lumber and components are functional outputs. Human saw operation has no material independent demand."
+  },
+  {
+    "code": "51-7042",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Shaped wooden components are mainly purchased for specification. A small upper allowance covers products marketed for actual human craft participation."
+  },
+  {
+    "code": "51-7099",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 20.0,
+    "explanation": "The residual contains varied woodworking. Most is functional, while handcrafted decorative and bespoke work can attract a separate human-provenance premium."
+  },
+  {
+    "code": "51-8011",
+    "low": 0.0,
+    "median": 2.0,
+    "high": 8.0,
+    "explanation": "Reliable, safe nuclear generation is instrumental. Some demand remains for a human operator personally answerable for consequential operating decisions."
+  },
+  {
+    "code": "51-8012",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Reliable power delivery is the principal output. A small share allows demand for personally accountable human authority over consequential dispatch decisions."
+  },
+  {
+    "code": "51-8013",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Electricity production is an instrumental service. A limited upper bound covers personal operational accountability, not human performance of routine plant tasks."
+  },
+  {
+    "code": "51-8021",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Heat, steam and functioning building systems are the outputs. A small upper allowance recognizes individually assumed operating responsibility in some settings."
+  },
+  {
+    "code": "51-8031",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Safe water and wastewater treatment are instrumental outcomes. Limited demand may remain for a personally answerable human operator overseeing public-health consequences."
+  },
+  {
+    "code": "51-8091",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Chemical process output and safe operation dominate. A small upper allowance covers personally accountable human operating authority."
+  },
+  {
+    "code": "51-8092",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Processed gas and reliable operation are functional outputs. A narrow upper allowance covers personal responsibility, not human operation as an end."
+  },
+  {
+    "code": "51-8093",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Refined products and accurate transfers are instrumental outputs. Some personally accountable operating authority may be valued independently of technical execution."
+  },
+  {
+    "code": "51-8099",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Residual plant roles primarily deliver process outputs. Limited human accountability may matter in consequential operations, with uncertainty from the broad grouping."
+  },
+  {
+    "code": "51-9011",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Chemical processing results are the products purchased. Human equipment tending adds no material independent value."
+  },
+  {
+    "code": "51-9012",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Separated and purified materials are functional intermediate products. Human machine tending is derived from those production needs."
+  },
+  {
+    "code": "51-9021",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Materials with required size and finish are the outputs. The machine operator's humanity is not a material component of demand."
+  },
+  {
+    "code": "51-9022",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Specified surface finishes are mainly functional. Hand finishing of artisanal objects can carry a small human-craft provenance premium."
+  },
+  {
+    "code": "51-9023",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Correctly mixed materials are the required output. Human operation of blending equipment is an instrumental input."
+  },
+  {
+    "code": "51-9031",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Correctly cut materials are primarily functional inputs. A small niche may value human handwork within specialized crafted products."
+  },
+  {
+    "code": "51-9032",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Sliced and cut products are purchased for specification and throughput. Human machine operation has no material independent demand."
+  },
+  {
+    "code": "51-9041",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Formed and compacted products are functional outputs. Human equipment operation is a means to achieve those outputs."
+  },
+  {
+    "code": "51-9051",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 2.0,
+    "explanation": "Heat-processed products dominate. A small upper allowance covers artisanal kiln or oven work where actual human making is separately valued."
+  },
+  {
+    "code": "51-9061",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Verified quality and accurate measurement are instrumental. A limited share may attach to a named human certifier personally standing behind consequential judgments."
+  },
+  {
+    "code": "51-9071",
+    "low": 10.0,
+    "median": 30.0,
+    "high": 55.0,
+    "explanation": "Jewelry has appearance and material value. Actual human craftsmanship, named-maker provenance and sentimental commissions can independently drive a substantial share of demand."
+  },
+  {
+    "code": "51-9081",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 3.0,
+    "explanation": "Accurate dental appliances and restorations are functional products. A small upper allowance covers identifiable human craft or personal responsibility in bespoke work."
+  },
+  {
+    "code": "51-9082",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Working medical appliances dominate. Limited demand may attach to a particular human craftsperson personally responsible for an individual's custom device."
+  },
+  {
+    "code": "51-9083",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Correct optical lenses and devices are the purchased outputs. Human laboratory fabrication does not materially add independent value."
+  },
+  {
+    "code": "51-9111",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Correctly packaged and filled products are functional outputs. Human machine operation carries no material separate demand."
+  },
+  {
+    "code": "51-9123",
+    "low": 1.0,
+    "median": 5.0,
+    "high": 20.0,
+    "explanation": "Most coating supplies appearance or protection. Human decorative authorship, hand painting and named craft can independently matter in a minority of this mixed occupation."
+  },
+  {
+    "code": "51-9124",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 1.0,
+    "explanation": "Coated and painted surfaces are chiefly functional products. Only a very small specialty niche may value human-operated finishing provenance."
+  },
+  {
+    "code": "51-9141",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Reliable semiconductor devices are the required outputs. Human processing labor is derived from demand for electronic functionality."
+  },
+  {
+    "code": "51-9151",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 5.0,
+    "explanation": "Processed photographs are usually valued for the image. Analog darkroom craft and a particular human printer's contribution can support a small essential niche."
+  },
+  {
+    "code": "51-9161",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Machined parts are purchased for dimensional and performance requirements. Human CNC operation has no material independent demand."
+  },
+  {
+    "code": "51-9162",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Correct tool paths and productive machining are the outputs. The programmer's human identity or presence is not a material part of the purchase."
+  },
+  {
+    "code": "51-9191",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Bonded materials and products are the functional outputs. Human adhesive-machine operation is an instrumental production input."
+  },
+  {
+    "code": "51-9192",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Cleaned or treated materials are the desired outputs. Human equipment tending has no material independent value."
+  },
+  {
+    "code": "51-9193",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Properly cooled or frozen products are the purchased outcomes. Human equipment operation is instrumental to those outcomes."
+  },
+  {
+    "code": "51-9194",
+    "low": 5.0,
+    "median": 20.0,
+    "high": 40.0,
+    "explanation": "Legible markings and decoration are functional outputs. Hand engraving, named human artistry and sentimental commissions can also command a distinct provenance premium."
+  },
+  {
+    "code": "51-9195",
+    "low": 1.0,
+    "median": 8.0,
+    "high": 25.0,
+    "explanation": "Most molding supplies usable products. Human-made ceramic or decorative work can carry independent provenance value, with uncertainty from the occupation's varied materials."
+  },
+  {
+    "code": "51-9196",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Paper goods are purchased for use, appearance and cost. Human machine operation has no material independent demand."
+  },
+  {
+    "code": "51-9197",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 0.0,
+    "explanation": "Safe and durable tires are the required products. Human production labor is derived from demand for tire performance."
+  },
+  {
+    "code": "51-9198",
+    "low": 0.0,
+    "median": 0.0,
+    "high": 1.0,
+    "explanation": "Production assistance chiefly supports manufactured outputs. A very small upper allowance covers participation in explicitly human-crafted artisanal production."
+  },
+  {
+    "code": "51-9199",
+    "low": 0.0,
+    "median": 1.0,
+    "high": 8.0,
+    "explanation": "This residual spans diverse production activities. Most demand is functional, while uncertain small craft niches may value actual human making or named provenance."
+  }
+]

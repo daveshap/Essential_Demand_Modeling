@@ -1,0 +1,8 @@
+﻿when,scope,field,previous,current,reason
+2026-11-16 before final export,49-9092,essential_high_pct,1,0,Removed speculative demonstration/heritage allowance from commercial diving. Only the high estimate changed; other scores unchanged.
+2026-11-16 before final export,25-9044,explanation,Included research duties,Instructional-support duties,"Corrected the occupational scope to materials, discussions, examinations and grading. Scores unchanged."
+2026-11-16 before final export,25-1193,explanation,Sounded like direct fitness coaching,Postsecondary recreation and fitness studies,"Clarified professional education, physiology, program design and facilities management. Scores unchanged."
+2026-11-16 before final export,39-9011,explanation,Generic human attachment rationale,Explicit sustained-care versus preschool instruction assumption,Explained differing childcare and preschool estimates. Scores unchanged.
+2026-11-16 before final export,Employment formulas,conversion,Raw thousands multiplied by 1000,"ROUND(source thousands*1000,0)",Normalized binary floating-point artifacts in four converted job counts. Source values and scores unchanged.
+2026-11-16 after user correction,Workbook attribution,model,ChatGPT 6 Pro requested label / Codex GPT-6 provenance,GPT-6 Astra,Corrected misleading author label and filenames. Preserved original timestamp and all estimates.
+2026-11-16 packaging,Delivery organization,folder,Loose workbook in repository root,GPT_6_Astra,"Saved source data, estimates, scripts, methods, checks, revision history and original session files. Claude folder untouched."

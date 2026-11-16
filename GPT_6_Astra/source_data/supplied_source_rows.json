@@ -1,0 +1,7786 @@
+[
+  {
+    "source_row": 3,
+    "title": "Total, all occupations",
+    "code": "00-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 170280.8
+  },
+  {
+    "source_row": 4,
+    "title": "Management occupations",
+    "code": "11-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 13683.4
+  },
+  {
+    "source_row": 5,
+    "title": "Top executives",
+    "code": "11-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 3904.1
+  },
+  {
+    "source_row": 6,
+    "title": "Chief executives",
+    "code": "11-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 291.6
+  },
+  {
+    "source_row": 7,
+    "title": "General and operations managers",
+    "code": "11-1021",
+    "type": "Line item",
+    "employment_thousands_2025": 3599
+  },
+  {
+    "source_row": 8,
+    "title": "Advertising, marketing, promotions, public relations, and sales managers",
+    "code": "11-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 1234.5
+  },
+  {
+    "source_row": 9,
+    "title": "Advertising and promotions managers",
+    "code": "11-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 33.2
+  },
+  {
+    "source_row": 10,
+    "title": "Marketing and sales managers",
+    "code": "11-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 1071.7
+  },
+  {
+    "source_row": 11,
+    "title": "Marketing managers",
+    "code": "11-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 421.6
+  },
+  {
+    "source_row": 12,
+    "title": "Sales managers",
+    "code": "11-2022",
+    "type": "Line item",
+    "employment_thousands_2025": 650.1
+  },
+  {
+    "source_row": 13,
+    "title": "Public relations and fundraising managers",
+    "code": "11-2030",
+    "type": "Summary",
+    "employment_thousands_2025": 129.6
+  },
+  {
+    "source_row": 14,
+    "title": "Public relations managers",
+    "code": "11-2032",
+    "type": "Line item",
+    "employment_thousands_2025": 80.8
+  },
+  {
+    "source_row": 15,
+    "title": "Fundraising managers",
+    "code": "11-2033",
+    "type": "Line item",
+    "employment_thousands_2025": 48.8
+  },
+  {
+    "source_row": 16,
+    "title": "Operations specialties managers",
+    "code": "11-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 2877.7
+  },
+  {
+    "source_row": 17,
+    "title": "Administrative services and facilities managers",
+    "code": "11-3010",
+    "type": "Summary",
+    "employment_thousands_2025": 444.8
+  },
+  {
+    "source_row": 18,
+    "title": "Administrative services managers",
+    "code": "11-3012",
+    "type": "Line item",
+    "employment_thousands_2025": 279
+  },
+  {
+    "source_row": 19,
+    "title": "Facilities managers",
+    "code": "11-3013",
+    "type": "Line item",
+    "employment_thousands_2025": 165.9
+  },
+  {
+    "source_row": 20,
+    "title": "Computer and information systems managers",
+    "code": "11-3021",
+    "type": "Line item",
+    "employment_thousands_2025": 685.8
+  },
+  {
+    "source_row": 21,
+    "title": "Financial managers",
+    "code": "11-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 879.7
+  },
+  {
+    "source_row": 22,
+    "title": "Industrial production managers",
+    "code": "11-3051",
+    "type": "Line item",
+    "employment_thousands_2025": 252.1
+  },
+  {
+    "source_row": 23,
+    "title": "Purchasing managers",
+    "code": "11-3061",
+    "type": "Line item",
+    "employment_thousands_2025": 88.3
+  },
+  {
+    "source_row": 24,
+    "title": "Transportation, storage, and distribution managers",
+    "code": "11-3071",
+    "type": "Line item",
+    "employment_thousands_2025": 228.1
+  },
+  {
+    "source_row": 25,
+    "title": "Compensation and benefits managers",
+    "code": "11-3111",
+    "type": "Line item",
+    "employment_thousands_2025": 23.7
+  },
+  {
+    "source_row": 26,
+    "title": "Human resources managers",
+    "code": "11-3121",
+    "type": "Line item",
+    "employment_thousands_2025": 224.9
+  },
+  {
+    "source_row": 27,
+    "title": "Training and development managers",
+    "code": "11-3131",
+    "type": "Line item",
+    "employment_thousands_2025": 50.2
+  },
+  {
+    "source_row": 28,
+    "title": "Other management occupations",
+    "code": "11-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 5667.1
+  },
+  {
+    "source_row": 29,
+    "title": "Farmers, ranchers, and other agricultural managers",
+    "code": "11-9013",
+    "type": "Line item",
+    "employment_thousands_2025": 788.7
+  },
+  {
+    "source_row": 30,
+    "title": "Construction managers",
+    "code": "11-9021",
+    "type": "Line item",
+    "employment_thousands_2025": 609.1
+  },
+  {
+    "source_row": 31,
+    "title": "Education and childcare administrators",
+    "code": "11-9030",
+    "type": "Summary",
+    "employment_thousands_2025": 729.6
+  },
+  {
+    "source_row": 32,
+    "title": "Education and childcare administrators, preschool and daycare",
+    "code": "11-9031",
+    "type": "Line item",
+    "employment_thousands_2025": 91.9
+  },
+  {
+    "source_row": 33,
+    "title": "Education administrators, kindergarten through secondary",
+    "code": "11-9032",
+    "type": "Line item",
+    "employment_thousands_2025": 343.8
+  },
+  {
+    "source_row": 34,
+    "title": "Education administrators, postsecondary",
+    "code": "11-9033",
+    "type": "Line item",
+    "employment_thousands_2025": 231.8
+  },
+  {
+    "source_row": 35,
+    "title": "Education administrators, all other",
+    "code": "11-9039",
+    "type": "Line item",
+    "employment_thousands_2025": 62
+  },
+  {
+    "source_row": 36,
+    "title": "Architectural and engineering managers",
+    "code": "11-9041",
+    "type": "Line item",
+    "employment_thousands_2025": 220.9
+  },
+  {
+    "source_row": 37,
+    "title": "Food service managers",
+    "code": "11-9051",
+    "type": "Line item",
+    "employment_thousands_2025": 344.3
+  },
+  {
+    "source_row": 38,
+    "title": "Entertainment and recreation managers",
+    "code": "11-9070",
+    "type": "Summary",
+    "employment_thousands_2025": 49.4
+  },
+  {
+    "source_row": 39,
+    "title": "Gambling managers",
+    "code": "11-9071",
+    "type": "Line item",
+    "employment_thousands_2025": 5.6
+  },
+  {
+    "source_row": 40,
+    "title": "Entertainment and recreation managers, except gambling",
+    "code": "11-9072",
+    "type": "Line item",
+    "employment_thousands_2025": 43.9
+  },
+  {
+    "source_row": 41,
+    "title": "Lodging managers",
+    "code": "11-9081",
+    "type": "Line item",
+    "employment_thousands_2025": 54.8
+  },
+  {
+    "source_row": 42,
+    "title": "Medical and health services managers",
+    "code": "11-9111",
+    "type": "Line item",
+    "employment_thousands_2025": 640.4
+  },
+  {
+    "source_row": 43,
+    "title": "Natural sciences managers",
+    "code": "11-9121",
+    "type": "Line item",
+    "employment_thousands_2025": 112.2
+  },
+  {
+    "source_row": 44,
+    "title": "Postmasters and mail superintendents",
+    "code": "11-9131",
+    "type": "Line item",
+    "employment_thousands_2025": 13.3
+  },
+  {
+    "source_row": 45,
+    "title": "Property, real estate, and community association managers",
+    "code": "11-9141",
+    "type": "Line item",
+    "employment_thousands_2025": 460.4
+  },
+  {
+    "source_row": 46,
+    "title": "Social and community service managers",
+    "code": "11-9151",
+    "type": "Line item",
+    "employment_thousands_2025": 231
+  },
+  {
+    "source_row": 47,
+    "title": "Emergency management directors",
+    "code": "11-9161",
+    "type": "Line item",
+    "employment_thousands_2025": 14
+  },
+  {
+    "source_row": 48,
+    "title": "Personal service managers",
+    "code": "11-9170",
+    "type": "Summary",
+    "employment_thousands_2025": 60.2
+  },
+  {
+    "source_row": 49,
+    "title": "Funeral home managers",
+    "code": "11-9171",
+    "type": "Line item",
+    "employment_thousands_2025": 34.8
+  },
+  {
+    "source_row": 50,
+    "title": "Personal service managers, all other",
+    "code": "11-9179",
+    "type": "Line item",
+    "employment_thousands_2025": 25.5
+  },
+  {
+    "source_row": 51,
+    "title": "Managers, all other",
+    "code": "11-9199",
+    "type": "Line item",
+    "employment_thousands_2025": 1338.8
+  },
+  {
+    "source_row": 52,
+    "title": "Business and financial operations occupations",
+    "code": "13-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 11368.5
+  },
+  {
+    "source_row": 53,
+    "title": "Business operations specialists",
+    "code": "13-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 8043.7
+  },
+  {
+    "source_row": 54,
+    "title": "Agents and business managers of artists, performers, and athletes",
+    "code": "13-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 26.9
+  },
+  {
+    "source_row": 55,
+    "title": "Buyers and purchasing agents",
+    "code": "13-1020",
+    "type": "Line item",
+    "employment_thousands_2025": 516.1
+  },
+  {
+    "source_row": 56,
+    "title": "Claims adjusters, appraisers, examiners, and investigators",
+    "code": "13-1030",
+    "type": "Summary",
+    "employment_thousands_2025": 389.7
+  },
+  {
+    "source_row": 57,
+    "title": "Claims adjusters, examiners, and investigators",
+    "code": "13-1031",
+    "type": "Line item",
+    "employment_thousands_2025": 376.1
+  },
+  {
+    "source_row": 58,
+    "title": "Insurance appraisers, auto damage",
+    "code": "13-1032",
+    "type": "Line item",
+    "employment_thousands_2025": 13.5
+  },
+  {
+    "source_row": 59,
+    "title": "Compliance officers",
+    "code": "13-1041",
+    "type": "Line item",
+    "employment_thousands_2025": 436.4
+  },
+  {
+    "source_row": 60,
+    "title": "Cost estimators",
+    "code": "13-1051",
+    "type": "Line item",
+    "employment_thousands_2025": 226.4
+  },
+  {
+    "source_row": 61,
+    "title": "Human resources workers",
+    "code": "13-1070",
+    "type": "Summary",
+    "employment_thousands_2025": 1007.9
+  },
+  {
+    "source_row": 62,
+    "title": "Human resources specialists",
+    "code": "13-1071",
+    "type": "Line item",
+    "employment_thousands_2025": 939.7
+  },
+  {
+    "source_row": 63,
+    "title": "Farm labor contractors",
+    "code": "13-1074",
+    "type": "Line item",
+    "employment_thousands_2025": 1.9
+  },
+  {
+    "source_row": 64,
+    "title": "Labor relations specialists",
+    "code": "13-1075",
+    "type": "Line item",
+    "employment_thousands_2025": 66.3
+  },
+  {
+    "source_row": 65,
+    "title": "Logisticians and project management specialists",
+    "code": "13-1080",
+    "type": "Summary",
+    "employment_thousands_2025": 1349.4
+  },
+  {
+    "source_row": 66,
+    "title": "Logisticians",
+    "code": "13-1081",
+    "type": "Line item",
+    "employment_thousands_2025": 255.1
+  },
+  {
+    "source_row": 67,
+    "title": "Project management specialists",
+    "code": "13-1082",
+    "type": "Line item",
+    "employment_thousands_2025": 1094.3
+  },
+  {
+    "source_row": 68,
+    "title": "Management analysts",
+    "code": "13-1111",
+    "type": "Line item",
+    "employment_thousands_2025": 1077.1
+  },
+  {
+    "source_row": 69,
+    "title": "Meeting, convention, and event planners",
+    "code": "13-1121",
+    "type": "Line item",
+    "employment_thousands_2025": 172.1
+  },
+  {
+    "source_row": 70,
+    "title": "Fundraisers",
+    "code": "13-1131",
+    "type": "Line item",
+    "employment_thousands_2025": 140.9
+  },
+  {
+    "source_row": 71,
+    "title": "Compensation, benefits, and job analysis specialists",
+    "code": "13-1141",
+    "type": "Line item",
+    "employment_thousands_2025": 118.1
+  },
+  {
+    "source_row": 72,
+    "title": "Training and development specialists",
+    "code": "13-1151",
+    "type": "Line item",
+    "employment_thousands_2025": 472.5
+  },
+  {
+    "source_row": 73,
+    "title": "Market research analysts and marketing specialists",
+    "code": "13-1161",
+    "type": "Line item",
+    "employment_thousands_2025": 952.7
+  },
+  {
+    "source_row": 74,
+    "title": "Business operations specialists, all other",
+    "code": "13-1199",
+    "type": "Line item",
+    "employment_thousands_2025": 1157.6
+  },
+  {
+    "source_row": 75,
+    "title": "Financial specialists",
+    "code": "13-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 3324.8
+  },
+  {
+    "source_row": 76,
+    "title": "Accountants and auditors",
+    "code": "13-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 1595.2
+  },
+  {
+    "source_row": 77,
+    "title": "Property appraisers and assessors",
+    "code": "13-2020",
+    "type": "Line item",
+    "employment_thousands_2025": 68.4
+  },
+  {
+    "source_row": 78,
+    "title": "Budget analysts",
+    "code": "13-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 50.4
+  },
+  {
+    "source_row": 79,
+    "title": "Credit analysts",
+    "code": "13-2041",
+    "type": "Line item",
+    "employment_thousands_2025": 64.7
+  },
+  {
+    "source_row": 80,
+    "title": "Financial analysts and advisors",
+    "code": "13-2050",
+    "type": "Summary",
+    "employment_thousands_2025": 868.2
+  },
+  {
+    "source_row": 81,
+    "title": "Financial and investment analysts",
+    "code": "13-2051",
+    "type": "Line item",
+    "employment_thousands_2025": 377.2
+  },
+  {
+    "source_row": 82,
+    "title": "Personal financial advisors",
+    "code": "13-2052",
+    "type": "Line item",
+    "employment_thousands_2025": 299.4
+  },
+  {
+    "source_row": 83,
+    "title": "Insurance underwriters",
+    "code": "13-2053",
+    "type": "Line item",
+    "employment_thousands_2025": 125.6
+  },
+  {
+    "source_row": 84,
+    "title": "Financial risk specialists",
+    "code": "13-2054",
+    "type": "Line item",
+    "employment_thousands_2025": 66
+  },
+  {
+    "source_row": 85,
+    "title": "Financial examiners",
+    "code": "13-2061",
+    "type": "Line item",
+    "employment_thousands_2025": 70
+  },
+  {
+    "source_row": 86,
+    "title": "Credit counselors and loan officers",
+    "code": "13-2070",
+    "type": "Summary",
+    "employment_thousands_2025": 314.2
+  },
+  {
+    "source_row": 87,
+    "title": "Credit counselors",
+    "code": "13-2071",
+    "type": "Line item",
+    "employment_thousands_2025": 31.2
+  },
+  {
+    "source_row": 88,
+    "title": "Loan officers",
+    "code": "13-2072",
+    "type": "Line item",
+    "employment_thousands_2025": 283
+  },
+  {
+    "source_row": 89,
+    "title": "Tax examiners, collectors and preparers, and revenue agents",
+    "code": "13-2080",
+    "type": "Summary",
+    "employment_thousands_2025": 155.9
+  },
+  {
+    "source_row": 90,
+    "title": "Tax examiners and collectors, and revenue agents",
+    "code": "13-2081",
+    "type": "Line item",
+    "employment_thousands_2025": 60.1
+  },
+  {
+    "source_row": 91,
+    "title": "Tax preparers",
+    "code": "13-2082",
+    "type": "Line item",
+    "employment_thousands_2025": 95.8
+  },
+  {
+    "source_row": 92,
+    "title": "Financial specialists, all other",
+    "code": "13-2099",
+    "type": "Line item",
+    "employment_thousands_2025": 137.8
+  },
+  {
+    "source_row": 93,
+    "title": "Computer and mathematical occupations",
+    "code": "15-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 5493.6
+  },
+  {
+    "source_row": 94,
+    "title": "Computer occupations",
+    "code": "15-1200",
+    "type": "Summary",
+    "employment_thousands_2025": 5036.2
+  },
+  {
+    "source_row": 95,
+    "title": "Computer and information analysts",
+    "code": "15-1210",
+    "type": "Summary",
+    "employment_thousands_2025": 737.2
+  },
+  {
+    "source_row": 96,
+    "title": "Computer systems analysts",
+    "code": "15-1211",
+    "type": "Line item",
+    "employment_thousands_2025": 544.4
+  },
+  {
+    "source_row": 97,
+    "title": "Information security analysts",
+    "code": "15-1212",
+    "type": "Line item",
+    "employment_thousands_2025": 192.9
+  },
+  {
+    "source_row": 98,
+    "title": "Computer and information research scientists",
+    "code": "15-1221",
+    "type": "Line item",
+    "employment_thousands_2025": 38.6
+  },
+  {
+    "source_row": 99,
+    "title": "Computer support specialists",
+    "code": "15-1230",
+    "type": "Summary",
+    "employment_thousands_2025": 903.1
+  },
+  {
+    "source_row": 100,
+    "title": "Computer network support specialists",
+    "code": "15-1231",
+    "type": "Line item",
+    "employment_thousands_2025": 152.5
+  },
+  {
+    "source_row": 101,
+    "title": "Computer user support specialists",
+    "code": "15-1232",
+    "type": "Line item",
+    "employment_thousands_2025": 750.6
+  },
+  {
+    "source_row": 102,
+    "title": "Database and network administrators and architects",
+    "code": "15-1240",
+    "type": "Summary",
+    "employment_thousands_2025": 649.8
+  },
+  {
+    "source_row": 103,
+    "title": "Computer network architects",
+    "code": "15-1241",
+    "type": "Line item",
+    "employment_thousands_2025": 181.8
+  },
+  {
+    "source_row": 104,
+    "title": "Database administrators",
+    "code": "15-1242",
+    "type": "Line item",
+    "employment_thousands_2025": 75
+  },
+  {
+    "source_row": 105,
+    "title": "Database architects",
+    "code": "15-1243",
+    "type": "Line item",
+    "employment_thousands_2025": 69.5
+  },
+  {
+    "source_row": 106,
+    "title": "Network and computer systems administrators",
+    "code": "15-1244",
+    "type": "Line item",
+    "employment_thousands_2025": 323.6
+  },
+  {
+    "source_row": 107,
+    "title": "Software and web developers, programmers, and testers",
+    "code": "15-1250",
+    "type": "Summary",
+    "employment_thousands_2025": 2236.3
+  },
+  {
+    "source_row": 108,
+    "title": "Computer programmers",
+    "code": "15-1251",
+    "type": "Line item",
+    "employment_thousands_2025": 110.8
+  },
+  {
+    "source_row": 109,
+    "title": "Software developers",
+    "code": "15-1252",
+    "type": "Line item",
+    "employment_thousands_2025": 1717.8
+  },
+  {
+    "source_row": 110,
+    "title": "Software quality assurance analysts and testers",
+    "code": "15-1253",
+    "type": "Line item",
+    "employment_thousands_2025": 187.6
+  },
+  {
+    "source_row": 111,
+    "title": "Web developers",
+    "code": "15-1254",
+    "type": "Line item",
+    "employment_thousands_2025": 87.4
+  },
+  {
+    "source_row": 112,
+    "title": "Web and digital interface designers",
+    "code": "15-1255",
+    "type": "Line item",
+    "employment_thousands_2025": 132.7
+  },
+  {
+    "source_row": 113,
+    "title": "Computer occupations, all other",
+    "code": "15-1299",
+    "type": "Line item",
+    "employment_thousands_2025": 471.2
+  },
+  {
+    "source_row": 114,
+    "title": "Mathematical science occupations",
+    "code": "15-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 457.4
+  },
+  {
+    "source_row": 115,
+    "title": "Actuaries",
+    "code": "15-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 31.2
+  },
+  {
+    "source_row": 116,
+    "title": "Mathematicians",
+    "code": "15-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 2.2
+  },
+  {
+    "source_row": 117,
+    "title": "Operations research analysts",
+    "code": "15-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 113.1
+  },
+  {
+    "source_row": 118,
+    "title": "Statisticians",
+    "code": "15-2041",
+    "type": "Line item",
+    "employment_thousands_2025": 31.3
+  },
+  {
+    "source_row": 119,
+    "title": "Data scientists",
+    "code": "15-2051",
+    "type": "Line item",
+    "employment_thousands_2025": 275.6
+  },
+  {
+    "source_row": 120,
+    "title": "Mathematical science occupations, all other",
+    "code": "15-2099",
+    "type": "Line item",
+    "employment_thousands_2025": 4
+  },
+  {
+    "source_row": 121,
+    "title": "Architecture and engineering occupations",
+    "code": "17-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 2690
+  },
+  {
+    "source_row": 122,
+    "title": "Architects, surveyors, and cartographers",
+    "code": "17-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 214.7
+  },
+  {
+    "source_row": 123,
+    "title": "Architects, except naval",
+    "code": "17-1010",
+    "type": "Summary",
+    "employment_thousands_2025": 148
+  },
+  {
+    "source_row": 124,
+    "title": "Architects, except landscape and naval",
+    "code": "17-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 124.6
+  },
+  {
+    "source_row": 125,
+    "title": "Landscape architects",
+    "code": "17-1012",
+    "type": "Line item",
+    "employment_thousands_2025": 23.5
+  },
+  {
+    "source_row": 126,
+    "title": "Surveyors, cartographers, and photogrammetrists",
+    "code": "17-1020",
+    "type": "Summary",
+    "employment_thousands_2025": 66.6
+  },
+  {
+    "source_row": 127,
+    "title": "Cartographers and photogrammetrists",
+    "code": "17-1021",
+    "type": "Line item",
+    "employment_thousands_2025": 14.7
+  },
+  {
+    "source_row": 128,
+    "title": "Surveyors",
+    "code": "17-1022",
+    "type": "Line item",
+    "employment_thousands_2025": 52
+  },
+  {
+    "source_row": 129,
+    "title": "Engineers",
+    "code": "17-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 1835.7
+  },
+  {
+    "source_row": 130,
+    "title": "Aerospace engineers",
+    "code": "17-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 68.7
+  },
+  {
+    "source_row": 131,
+    "title": "Agricultural engineers",
+    "code": "17-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 1.5
+  },
+  {
+    "source_row": 132,
+    "title": "Bioengineers and biomedical engineers",
+    "code": "17-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 23.8
+  },
+  {
+    "source_row": 133,
+    "title": "Chemical engineers",
+    "code": "17-2041",
+    "type": "Line item",
+    "employment_thousands_2025": 21.9
+  },
+  {
+    "source_row": 134,
+    "title": "Civil engineers",
+    "code": "17-2051",
+    "type": "Line item",
+    "employment_thousands_2025": 380.6
+  },
+  {
+    "source_row": 135,
+    "title": "Computer hardware engineers",
+    "code": "17-2061",
+    "type": "Line item",
+    "employment_thousands_2025": 76.1
+  },
+  {
+    "source_row": 136,
+    "title": "Electrical and electronics engineers",
+    "code": "17-2070",
+    "type": "Summary",
+    "employment_thousands_2025": 297.9
+  },
+  {
+    "source_row": 137,
+    "title": "Electrical engineers",
+    "code": "17-2071",
+    "type": "Line item",
+    "employment_thousands_2025": 199.7
+  },
+  {
+    "source_row": 138,
+    "title": "Electronics engineers, except computer",
+    "code": "17-2072",
+    "type": "Line item",
+    "employment_thousands_2025": 98.2
+  },
+  {
+    "source_row": 139,
+    "title": "Environmental engineers",
+    "code": "17-2081",
+    "type": "Line item",
+    "employment_thousands_2025": 39.1
+  },
+  {
+    "source_row": 140,
+    "title": "Industrial engineers, including health and safety",
+    "code": "17-2110",
+    "type": "Summary",
+    "employment_thousands_2025": 387.4
+  },
+  {
+    "source_row": 141,
+    "title": "Health and safety engineers, except mining safety engineers and inspectors",
+    "code": "17-2111",
+    "type": "Line item",
+    "employment_thousands_2025": 22.3
+  },
+  {
+    "source_row": 142,
+    "title": "Industrial engineers",
+    "code": "17-2112",
+    "type": "Line item",
+    "employment_thousands_2025": 365.1
+  },
+  {
+    "source_row": 143,
+    "title": "Marine engineers and naval architects",
+    "code": "17-2121",
+    "type": "Line item",
+    "employment_thousands_2025": 8.4
+  },
+  {
+    "source_row": 144,
+    "title": "Materials engineers",
+    "code": "17-2131",
+    "type": "Line item",
+    "employment_thousands_2025": 23.8
+  },
+  {
+    "source_row": 145,
+    "title": "Mechanical engineers",
+    "code": "17-2141",
+    "type": "Line item",
+    "employment_thousands_2025": 298.5
+  },
+  {
+    "source_row": 146,
+    "title": "Mining and geological engineers, including mining safety engineers",
+    "code": "17-2151",
+    "type": "Line item",
+    "employment_thousands_2025": 6.2
+  },
+  {
+    "source_row": 147,
+    "title": "Nuclear engineers",
+    "code": "17-2161",
+    "type": "Line item",
+    "employment_thousands_2025": 16.6
+  },
+  {
+    "source_row": 148,
+    "title": "Petroleum engineers",
+    "code": "17-2171",
+    "type": "Line item",
+    "employment_thousands_2025": 18.5
+  },
+  {
+    "source_row": 149,
+    "title": "Engineers, all other",
+    "code": "17-2199",
+    "type": "Line item",
+    "employment_thousands_2025": 166.7
+  },
+  {
+    "source_row": 150,
+    "title": "Drafters, engineering technicians, and mapping technicians",
+    "code": "17-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 639.6
+  },
+  {
+    "source_row": 151,
+    "title": "Drafters",
+    "code": "17-3010",
+    "type": "Summary",
+    "employment_thousands_2025": 180.2
+  },
+  {
+    "source_row": 152,
+    "title": "Architectural and civil drafters",
+    "code": "17-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 104.1
+  },
+  {
+    "source_row": 153,
+    "title": "Electrical and electronics drafters",
+    "code": "17-3012",
+    "type": "Line item",
+    "employment_thousands_2025": 18.9
+  },
+  {
+    "source_row": 154,
+    "title": "Mechanical drafters",
+    "code": "17-3013",
+    "type": "Line item",
+    "employment_thousands_2025": 42.1
+  },
+  {
+    "source_row": 155,
+    "title": "Drafters, all other",
+    "code": "17-3019",
+    "type": "Line item",
+    "employment_thousands_2025": 15.2
+  },
+  {
+    "source_row": 156,
+    "title": "Engineering technologists and technicians, except drafters",
+    "code": "17-3020",
+    "type": "Summary",
+    "employment_thousands_2025": 400.6
+  },
+  {
+    "source_row": 157,
+    "title": "Aerospace engineering and operations technologists and technicians",
+    "code": "17-3021",
+    "type": "Line item",
+    "employment_thousands_2025": 11.6
+  },
+  {
+    "source_row": 158,
+    "title": "Civil engineering technologists and technicians",
+    "code": "17-3022",
+    "type": "Line item",
+    "employment_thousands_2025": 70.9
+  },
+  {
+    "source_row": 159,
+    "title": "Electrical and electronic engineering technologists and technicians",
+    "code": "17-3023",
+    "type": "Line item",
+    "employment_thousands_2025": 96.9
+  },
+  {
+    "source_row": 160,
+    "title": "Electro-mechanical and mechatronics technologists and technicians",
+    "code": "17-3024",
+    "type": "Line item",
+    "employment_thousands_2025": 15.7
+  },
+  {
+    "source_row": 161,
+    "title": "Environmental engineering technologists and technicians",
+    "code": "17-3025",
+    "type": "Line item",
+    "employment_thousands_2025": 12.5
+  },
+  {
+    "source_row": 162,
+    "title": "Industrial engineering technologists and technicians",
+    "code": "17-3026",
+    "type": "Line item",
+    "employment_thousands_2025": 76.7
+  },
+  {
+    "source_row": 163,
+    "title": "Mechanical engineering technologists and technicians",
+    "code": "17-3027",
+    "type": "Line item",
+    "employment_thousands_2025": 36.9
+  },
+  {
+    "source_row": 164,
+    "title": "Calibration technologists and technicians",
+    "code": "17-3028",
+    "type": "Line item",
+    "employment_thousands_2025": 17
+  },
+  {
+    "source_row": 165,
+    "title": "Engineering technologists and technicians, except drafters, all other",
+    "code": "17-3029",
+    "type": "Line item",
+    "employment_thousands_2025": 62.4
+  },
+  {
+    "source_row": 166,
+    "title": "Surveying and mapping technicians",
+    "code": "17-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 58.8
+  },
+  {
+    "source_row": 167,
+    "title": "Life, physical, and social science occupations",
+    "code": "19-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 1628.7
+  },
+  {
+    "source_row": 168,
+    "title": "Life scientists",
+    "code": "19-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 414.4
+  },
+  {
+    "source_row": 169,
+    "title": "Agricultural and food scientists",
+    "code": "19-1010",
+    "type": "Summary",
+    "employment_thousands_2025": 37.4
+  },
+  {
+    "source_row": 170,
+    "title": "Animal scientists",
+    "code": "19-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 3.4
+  },
+  {
+    "source_row": 171,
+    "title": "Food scientists and technologists",
+    "code": "19-1012",
+    "type": "Line item",
+    "employment_thousands_2025": 14.1
+  },
+  {
+    "source_row": 172,
+    "title": "Soil and plant scientists",
+    "code": "19-1013",
+    "type": "Line item",
+    "employment_thousands_2025": 19.9
+  },
+  {
+    "source_row": 173,
+    "title": "Biological scientists",
+    "code": "19-1020",
+    "type": "Summary",
+    "employment_thousands_2025": 134.4
+  },
+  {
+    "source_row": 174,
+    "title": "Biochemists and biophysicists",
+    "code": "19-1021",
+    "type": "Line item",
+    "employment_thousands_2025": 35.2
+  },
+  {
+    "source_row": 175,
+    "title": "Microbiologists",
+    "code": "19-1022",
+    "type": "Line item",
+    "employment_thousands_2025": 20.1
+  },
+  {
+    "source_row": 176,
+    "title": "Zoologists and wildlife biologists",
+    "code": "19-1023",
+    "type": "Line item",
+    "employment_thousands_2025": 19.5
+  },
+  {
+    "source_row": 177,
+    "title": "Biological scientists, all other",
+    "code": "19-1029",
+    "type": "Line item",
+    "employment_thousands_2025": 59.6
+  },
+  {
+    "source_row": 178,
+    "title": "Conservation scientists and foresters",
+    "code": "19-1030",
+    "type": "Summary",
+    "employment_thousands_2025": 40.9
+  },
+  {
+    "source_row": 179,
+    "title": "Conservation scientists",
+    "code": "19-1031",
+    "type": "Line item",
+    "employment_thousands_2025": 27.7
+  },
+  {
+    "source_row": 180,
+    "title": "Foresters",
+    "code": "19-1032",
+    "type": "Line item",
+    "employment_thousands_2025": 13.2
+  },
+  {
+    "source_row": 181,
+    "title": "Medical scientists",
+    "code": "19-1040",
+    "type": "Summary",
+    "employment_thousands_2025": 193.8
+  },
+  {
+    "source_row": 182,
+    "title": "Epidemiologists",
+    "code": "19-1041",
+    "type": "Line item",
+    "employment_thousands_2025": 12.8
+  },
+  {
+    "source_row": 183,
+    "title": "Medical scientists, except epidemiologists",
+    "code": "19-1042",
+    "type": "Line item",
+    "employment_thousands_2025": 181
+  },
+  {
+    "source_row": 184,
+    "title": "Life scientists, all other",
+    "code": "19-1099",
+    "type": "Line item",
+    "employment_thousands_2025": 8
+  },
+  {
+    "source_row": 185,
+    "title": "Physical scientists",
+    "code": "19-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 281.4
+  },
+  {
+    "source_row": 186,
+    "title": "Astronomers and physicists",
+    "code": "19-2010",
+    "type": "Summary",
+    "employment_thousands_2025": 25.6
+  },
+  {
+    "source_row": 187,
+    "title": "Astronomers",
+    "code": "19-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 2.4
+  },
+  {
+    "source_row": 188,
+    "title": "Physicists",
+    "code": "19-2012",
+    "type": "Line item",
+    "employment_thousands_2025": 23.2
+  },
+  {
+    "source_row": 189,
+    "title": "Atmospheric and space scientists",
+    "code": "19-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 10.7
+  },
+  {
+    "source_row": 190,
+    "title": "Chemists and materials scientists",
+    "code": "19-2030",
+    "type": "Summary",
+    "employment_thousands_2025": 93.5
+  },
+  {
+    "source_row": 191,
+    "title": "Chemists",
+    "code": "19-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 84.9
+  },
+  {
+    "source_row": 192,
+    "title": "Materials scientists",
+    "code": "19-2032",
+    "type": "Line item",
+    "employment_thousands_2025": 8.6
+  },
+  {
+    "source_row": 193,
+    "title": "Environmental scientists and geoscientists",
+    "code": "19-2040",
+    "type": "Summary",
+    "employment_thousands_2025": 125.1
+  },
+  {
+    "source_row": 194,
+    "title": "Environmental scientists and specialists, including health",
+    "code": "19-2041",
+    "type": "Line item",
+    "employment_thousands_2025": 93.4
+  },
+  {
+    "source_row": 195,
+    "title": "Geoscientists, except hydrologists and geographers",
+    "code": "19-2042",
+    "type": "Line item",
+    "employment_thousands_2025": 25.4
+  },
+  {
+    "source_row": 196,
+    "title": "Hydrologists",
+    "code": "19-2043",
+    "type": "Line item",
+    "employment_thousands_2025": 6.3
+  },
+  {
+    "source_row": 197,
+    "title": "Physical scientists, all other",
+    "code": "19-2099",
+    "type": "Line item",
+    "employment_thousands_2025": 26.6
+  },
+  {
+    "source_row": 198,
+    "title": "Social scientists and related workers",
+    "code": "19-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 349.5
+  },
+  {
+    "source_row": 199,
+    "title": "Economists",
+    "code": "19-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 18.6
+  },
+  {
+    "source_row": 200,
+    "title": "Survey researchers",
+    "code": "19-3022",
+    "type": "Line item",
+    "employment_thousands_2025": 9.8
+  },
+  {
+    "source_row": 201,
+    "title": "Psychologists",
+    "code": "19-3030",
+    "type": "Summary",
+    "employment_thousands_2025": 209.4
+  },
+  {
+    "source_row": 202,
+    "title": "Industrial-organizational psychologists",
+    "code": "19-3032",
+    "type": "Line item",
+    "employment_thousands_2025": 4
+  },
+  {
+    "source_row": 203,
+    "title": "Clinical and counseling psychologists",
+    "code": "19-3033",
+    "type": "Line item",
+    "employment_thousands_2025": 81.3
+  },
+  {
+    "source_row": 204,
+    "title": "School psychologists",
+    "code": "19-3034",
+    "type": "Line item",
+    "employment_thousands_2025": 64
+  },
+  {
+    "source_row": 205,
+    "title": "Psychologists, all other",
+    "code": "19-3039",
+    "type": "Line item",
+    "employment_thousands_2025": 60
+  },
+  {
+    "source_row": 206,
+    "title": "Sociologists",
+    "code": "19-3041",
+    "type": "Line item",
+    "employment_thousands_2025": 2.7
+  },
+  {
+    "source_row": 207,
+    "title": "Urban and regional planners",
+    "code": "19-3051",
+    "type": "Line item",
+    "employment_thousands_2025": 45.8
+  },
+  {
+    "source_row": 208,
+    "title": "Miscellaneous social scientists and related workers",
+    "code": "19-3090",
+    "type": "Summary",
+    "employment_thousands_2025": 63.1
+  },
+  {
+    "source_row": 209,
+    "title": "Anthropologists and archeologists",
+    "code": "19-3091",
+    "type": "Line item",
+    "employment_thousands_2025": 10.2
+  },
+  {
+    "source_row": 210,
+    "title": "Geographers",
+    "code": "19-3092",
+    "type": "Line item",
+    "employment_thousands_2025": 1.5
+  },
+  {
+    "source_row": 211,
+    "title": "Historians",
+    "code": "19-3093",
+    "type": "Line item",
+    "employment_thousands_2025": 3.8
+  },
+  {
+    "source_row": 212,
+    "title": "Political scientists",
+    "code": "19-3094",
+    "type": "Line item",
+    "employment_thousands_2025": 6.1
+  },
+  {
+    "source_row": 213,
+    "title": "Social scientists and related workers, all other",
+    "code": "19-3099",
+    "type": "Line item",
+    "employment_thousands_2025": 41.5
+  },
+  {
+    "source_row": 214,
+    "title": "Life, physical, and social science technicians",
+    "code": "19-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 409.1
+  },
+  {
+    "source_row": 215,
+    "title": "Agricultural and food science technicians",
+    "code": "19-4010",
+    "type": "Summary",
+    "employment_thousands_2025": 40.4
+  },
+  {
+    "source_row": 216,
+    "title": "Agricultural technicians",
+    "code": "19-4012",
+    "type": "Line item",
+    "employment_thousands_2025": 19.5
+  },
+  {
+    "source_row": 217,
+    "title": "Food science technicians",
+    "code": "19-4013",
+    "type": "Line item",
+    "employment_thousands_2025": 20.8
+  },
+  {
+    "source_row": 218,
+    "title": "Biological technicians",
+    "code": "19-4021",
+    "type": "Line item",
+    "employment_thousands_2025": 74.4
+  },
+  {
+    "source_row": 219,
+    "title": "Chemical technicians",
+    "code": "19-4031",
+    "type": "Line item",
+    "employment_thousands_2025": 60
+  },
+  {
+    "source_row": 220,
+    "title": "Environmental science and geoscience technicians",
+    "code": "19-4040",
+    "type": "Summary",
+    "employment_thousands_2025": 46.7
+  },
+  {
+    "source_row": 221,
+    "title": "Environmental science and protection technicians, including health",
+    "code": "19-4042",
+    "type": "Line item",
+    "employment_thousands_2025": 36.4
+  },
+  {
+    "source_row": 222,
+    "title": "Geological technicians, except hydrologic technicians",
+    "code": "19-4043",
+    "type": "Line item",
+    "employment_thousands_2025": 7.3
+  },
+  {
+    "source_row": 223,
+    "title": "Hydrologic technicians",
+    "code": "19-4044",
+    "type": "Line item",
+    "employment_thousands_2025": 3
+  },
+  {
+    "source_row": 224,
+    "title": "Nuclear technicians",
+    "code": "19-4051",
+    "type": "Line item",
+    "employment_thousands_2025": 6.7
+  },
+  {
+    "source_row": 225,
+    "title": "Social science research assistants",
+    "code": "19-4061",
+    "type": "Line item",
+    "employment_thousands_2025": 38.4
+  },
+  {
+    "source_row": 226,
+    "title": "Forest and conservation technicians",
+    "code": "19-4071",
+    "type": "Line item",
+    "employment_thousands_2025": 32.8
+  },
+  {
+    "source_row": 227,
+    "title": "Miscellaneous life, physical, and social science technicians",
+    "code": "19-4090",
+    "type": "Summary",
+    "employment_thousands_2025": 109.6
+  },
+  {
+    "source_row": 228,
+    "title": "Forensic science technicians",
+    "code": "19-4092",
+    "type": "Line item",
+    "employment_thousands_2025": 20.1
+  },
+  {
+    "source_row": 229,
+    "title": "Life, physical, and social science technicians, all other",
+    "code": "19-4099",
+    "type": "Line item",
+    "employment_thousands_2025": 89.5
+  },
+  {
+    "source_row": 230,
+    "title": "Occupational health and safety specialists and technicians",
+    "code": "19-5000",
+    "type": "Summary",
+    "employment_thousands_2025": 174.3
+  },
+  {
+    "source_row": 231,
+    "title": "Occupational health and safety specialists",
+    "code": "19-5011",
+    "type": "Line item",
+    "employment_thousands_2025": 143.1
+  },
+  {
+    "source_row": 232,
+    "title": "Occupational health and safety technicians",
+    "code": "19-5012",
+    "type": "Line item",
+    "employment_thousands_2025": 31.2
+  },
+  {
+    "source_row": 233,
+    "title": "Community and social service occupations",
+    "code": "21-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 3270.1
+  },
+  {
+    "source_row": 234,
+    "title": "Counselors, social workers, and other community and social service specialists",
+    "code": "21-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 2772.8
+  },
+  {
+    "source_row": 235,
+    "title": "Counselors",
+    "code": "21-1010",
+    "type": "Summary",
+    "employment_thousands_2025": 1145.9
+  },
+  {
+    "source_row": 236,
+    "title": "Educational, guidance, and career counselors and advisors",
+    "code": "21-1012",
+    "type": "Line item",
+    "employment_thousands_2025": 389.5
+  },
+  {
+    "source_row": 237,
+    "title": "Marriage and family therapists",
+    "code": "21-1013",
+    "type": "Line item",
+    "employment_thousands_2025": 76.3
+  },
+  {
+    "source_row": 238,
+    "title": "Rehabilitation counselors",
+    "code": "21-1015",
+    "type": "Line item",
+    "employment_thousands_2025": 96.9
+  },
+  {
+    "source_row": 239,
+    "title": "Substance abuse, behavioral disorder, and mental health counselors",
+    "code": "21-1018",
+    "type": "Line item",
+    "employment_thousands_2025": 533.4
+  },
+  {
+    "source_row": 240,
+    "title": "Counselors, all other",
+    "code": "21-1019",
+    "type": "Line item",
+    "employment_thousands_2025": 49.8
+  },
+  {
+    "source_row": 241,
+    "title": "Social workers",
+    "code": "21-1020",
+    "type": "Summary",
+    "employment_thousands_2025": 816.1
+  },
+  {
+    "source_row": 242,
+    "title": "Child, family, and school social workers",
+    "code": "21-1021",
+    "type": "Line item",
+    "employment_thousands_2025": 405.1
+  },
+  {
+    "source_row": 243,
+    "title": "Healthcare social workers",
+    "code": "21-1022",
+    "type": "Line item",
+    "employment_thousands_2025": 194.8
+  },
+  {
+    "source_row": 244,
+    "title": "Mental health and substance abuse social workers",
+    "code": "21-1023",
+    "type": "Line item",
+    "employment_thousands_2025": 138.9
+  },
+  {
+    "source_row": 245,
+    "title": "Social workers, all other",
+    "code": "21-1029",
+    "type": "Line item",
+    "employment_thousands_2025": 77.4
+  },
+  {
+    "source_row": 246,
+    "title": "Miscellaneous community and social service specialists",
+    "code": "21-1090",
+    "type": "Summary",
+    "employment_thousands_2025": 810.8
+  },
+  {
+    "source_row": 247,
+    "title": "Health education specialists",
+    "code": "21-1091",
+    "type": "Line item",
+    "employment_thousands_2025": 70.4
+  },
+  {
+    "source_row": 248,
+    "title": "Probation officers and correctional treatment specialists",
+    "code": "21-1092",
+    "type": "Line item",
+    "employment_thousands_2025": 93.7
+  },
+  {
+    "source_row": 249,
+    "title": "Social and human service assistants",
+    "code": "21-1093",
+    "type": "Line item",
+    "employment_thousands_2025": 463.4
+  },
+  {
+    "source_row": 250,
+    "title": "Community health workers",
+    "code": "21-1094",
+    "type": "Line item",
+    "employment_thousands_2025": 64.7
+  },
+  {
+    "source_row": 251,
+    "title": "Community and social service specialists, all other",
+    "code": "21-1099",
+    "type": "Line item",
+    "employment_thousands_2025": 118.6
+  },
+  {
+    "source_row": 252,
+    "title": "Religious workers",
+    "code": "21-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 497.3
+  },
+  {
+    "source_row": 253,
+    "title": "Clergy",
+    "code": "21-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 242
+  },
+  {
+    "source_row": 254,
+    "title": "Directors, religious activities and education",
+    "code": "21-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 141.9
+  },
+  {
+    "source_row": 255,
+    "title": "Religious workers, all other",
+    "code": "21-2099",
+    "type": "Line item",
+    "employment_thousands_2025": 113.3
+  },
+  {
+    "source_row": 256,
+    "title": "Legal occupations",
+    "code": "23-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 1445.7
+  },
+  {
+    "source_row": 257,
+    "title": "Lawyers, judges, and related workers",
+    "code": "23-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 930.9
+  },
+  {
+    "source_row": 258,
+    "title": "Lawyers and judicial law clerks",
+    "code": "23-1010",
+    "type": "Summary",
+    "employment_thousands_2025": 877.7
+  },
+  {
+    "source_row": 259,
+    "title": "Lawyers",
+    "code": "23-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 863.7
+  },
+  {
+    "source_row": 260,
+    "title": "Judicial law clerks",
+    "code": "23-1012",
+    "type": "Line item",
+    "employment_thousands_2025": 14
+  },
+  {
+    "source_row": 261,
+    "title": "Judges, magistrates, and other judicial workers",
+    "code": "23-1020",
+    "type": "Summary",
+    "employment_thousands_2025": 53.2
+  },
+  {
+    "source_row": 262,
+    "title": "Administrative law judges, adjudicators, and hearing officers",
+    "code": "23-1021",
+    "type": "Line item",
+    "employment_thousands_2025": 17.4
+  },
+  {
+    "source_row": 263,
+    "title": "Arbitrators, mediators, and conciliators",
+    "code": "23-1022",
+    "type": "Line item",
+    "employment_thousands_2025": 10.5
+  },
+  {
+    "source_row": 264,
+    "title": "Judges, magistrate judges, and magistrates",
+    "code": "23-1023",
+    "type": "Line item",
+    "employment_thousands_2025": 25.3
+  },
+  {
+    "source_row": 265,
+    "title": "Legal support workers",
+    "code": "23-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 514.8
+  },
+  {
+    "source_row": 266,
+    "title": "Paralegals and legal assistants",
+    "code": "23-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 404.9
+  },
+  {
+    "source_row": 267,
+    "title": "Miscellaneous legal support workers",
+    "code": "23-2090",
+    "type": "Summary",
+    "employment_thousands_2025": 110
+  },
+  {
+    "source_row": 268,
+    "title": "Title examiners, abstractors, and searchers",
+    "code": "23-2093",
+    "type": "Line item",
+    "employment_thousands_2025": 59.8
+  },
+  {
+    "source_row": 269,
+    "title": "Legal support workers, all other",
+    "code": "23-2099",
+    "type": "Line item",
+    "employment_thousands_2025": 50.2
+  },
+  {
+    "source_row": 270,
+    "title": "Educational instruction and library occupations",
+    "code": "25-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 9907.4
+  },
+  {
+    "source_row": 271,
+    "title": "Postsecondary teachers",
+    "code": "25-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 1684.5
+  },
+  {
+    "source_row": 272,
+    "title": "Business teachers, postsecondary",
+    "code": "25-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 103.6
+  },
+  {
+    "source_row": 273,
+    "title": "Math and computer science teachers, postsecondary",
+    "code": "25-1020",
+    "type": "Summary",
+    "employment_thousands_2025": 101
+  },
+  {
+    "source_row": 274,
+    "title": "Computer science teachers, postsecondary",
+    "code": "25-1021",
+    "type": "Line item",
+    "employment_thousands_2025": 43.9
+  },
+  {
+    "source_row": 275,
+    "title": "Mathematical science teachers, postsecondary",
+    "code": "25-1022",
+    "type": "Line item",
+    "employment_thousands_2025": 57.1
+  },
+  {
+    "source_row": 276,
+    "title": "Engineering and architecture teachers, postsecondary",
+    "code": "25-1030",
+    "type": "Summary",
+    "employment_thousands_2025": 60.6
+  },
+  {
+    "source_row": 277,
+    "title": "Architecture teachers, postsecondary",
+    "code": "25-1031",
+    "type": "Line item",
+    "employment_thousands_2025": 9.7
+  },
+  {
+    "source_row": 278,
+    "title": "Engineering teachers, postsecondary",
+    "code": "25-1032",
+    "type": "Line item",
+    "employment_thousands_2025": 50.9
+  },
+  {
+    "source_row": 279,
+    "title": "Life sciences teachers, postsecondary",
+    "code": "25-1040",
+    "type": "Summary",
+    "employment_thousands_2025": 74.7
+  },
+  {
+    "source_row": 280,
+    "title": "Agricultural sciences teachers, postsecondary",
+    "code": "25-1041",
+    "type": "Line item",
+    "employment_thousands_2025": 10.9
+  },
+  {
+    "source_row": 281,
+    "title": "Biological science teachers, postsecondary",
+    "code": "25-1042",
+    "type": "Line item",
+    "employment_thousands_2025": 62
+  },
+  {
+    "source_row": 282,
+    "title": "Forestry and conservation science teachers, postsecondary",
+    "code": "25-1043",
+    "type": "Line item",
+    "employment_thousands_2025": 1.8
+  },
+  {
+    "source_row": 283,
+    "title": "Physical sciences teachers, postsecondary",
+    "code": "25-1050",
+    "type": "Summary",
+    "employment_thousands_2025": 61.7
+  },
+  {
+    "source_row": 284,
+    "title": "Atmospheric, earth, marine, and space sciences teachers, postsecondary",
+    "code": "25-1051",
+    "type": "Line item",
+    "employment_thousands_2025": 12
+  },
+  {
+    "source_row": 285,
+    "title": "Chemistry teachers, postsecondary",
+    "code": "25-1052",
+    "type": "Line item",
+    "employment_thousands_2025": 24.9
+  },
+  {
+    "source_row": 286,
+    "title": "Environmental science teachers, postsecondary",
+    "code": "25-1053",
+    "type": "Line item",
+    "employment_thousands_2025": 8.4
+  },
+  {
+    "source_row": 287,
+    "title": "Physics teachers, postsecondary",
+    "code": "25-1054",
+    "type": "Line item",
+    "employment_thousands_2025": 16.4
+  },
+  {
+    "source_row": 288,
+    "title": "Social sciences teachers, postsecondary",
+    "code": "25-1060",
+    "type": "Summary",
+    "employment_thousands_2025": 147.5
+  },
+  {
+    "source_row": 289,
+    "title": "Anthropology and archeology teachers, postsecondary",
+    "code": "25-1061",
+    "type": "Line item",
+    "employment_thousands_2025": 6.5
+  },
+  {
+    "source_row": 290,
+    "title": "Area, ethnic, and cultural studies teachers, postsecondary",
+    "code": "25-1062",
+    "type": "Line item",
+    "employment_thousands_2025": 14.3
+  },
+  {
+    "source_row": 291,
+    "title": "Economics teachers, postsecondary",
+    "code": "25-1063",
+    "type": "Line item",
+    "employment_thousands_2025": 14.6
+  },
+  {
+    "source_row": 292,
+    "title": "Geography teachers, postsecondary",
+    "code": "25-1064",
+    "type": "Line item",
+    "employment_thousands_2025": 4.1
+  },
+  {
+    "source_row": 293,
+    "title": "Political science teachers, postsecondary",
+    "code": "25-1065",
+    "type": "Line item",
+    "employment_thousands_2025": 21.5
+  },
+  {
+    "source_row": 294,
+    "title": "Psychology teachers, postsecondary",
+    "code": "25-1066",
+    "type": "Line item",
+    "employment_thousands_2025": 52.3
+  },
+  {
+    "source_row": 295,
+    "title": "Sociology teachers, postsecondary",
+    "code": "25-1067",
+    "type": "Line item",
+    "employment_thousands_2025": 14.6
+  },
+  {
+    "source_row": 296,
+    "title": "Social sciences teachers, postsecondary, all other",
+    "code": "25-1069",
+    "type": "Line item",
+    "employment_thousands_2025": 19.6
+  },
+  {
+    "source_row": 297,
+    "title": "Health teachers, postsecondary",
+    "code": "25-1070",
+    "type": "Summary",
+    "employment_thousands_2025": 374.5
+  },
+  {
+    "source_row": 298,
+    "title": "Health specialties teachers, postsecondary",
+    "code": "25-1071",
+    "type": "Line item",
+    "employment_thousands_2025": 278.4
+  },
+  {
+    "source_row": 299,
+    "title": "Nursing instructors and teachers, postsecondary",
+    "code": "25-1072",
+    "type": "Line item",
+    "employment_thousands_2025": 96.1
+  },
+  {
+    "source_row": 300,
+    "title": "Education and library science teachers, postsecondary",
+    "code": "25-1080",
+    "type": "Summary",
+    "employment_thousands_2025": 81.7
+  },
+  {
+    "source_row": 301,
+    "title": "Education teachers, postsecondary",
+    "code": "25-1081",
+    "type": "Line item",
+    "employment_thousands_2025": 77.2
+  },
+  {
+    "source_row": 302,
+    "title": "Library science teachers, postsecondary",
+    "code": "25-1082",
+    "type": "Line item",
+    "employment_thousands_2025": 4.5
+  },
+  {
+    "source_row": 303,
+    "title": "Law, criminal justice, and social work teachers, postsecondary",
+    "code": "25-1110",
+    "type": "Summary",
+    "employment_thousands_2025": 57.6
+  },
+  {
+    "source_row": 304,
+    "title": "Criminal justice and law enforcement teachers, postsecondary",
+    "code": "25-1111",
+    "type": "Line item",
+    "employment_thousands_2025": 15.7
+  },
+  {
+    "source_row": 305,
+    "title": "Law teachers, postsecondary",
+    "code": "25-1112",
+    "type": "Line item",
+    "employment_thousands_2025": 25.8
+  },
+  {
+    "source_row": 306,
+    "title": "Social work teachers, postsecondary",
+    "code": "25-1113",
+    "type": "Line item",
+    "employment_thousands_2025": 16
+  },
+  {
+    "source_row": 307,
+    "title": "Arts, communications, history, and humanities teachers, postsecondary",
+    "code": "25-1120",
+    "type": "Summary",
+    "employment_thousands_2025": 296.6
+  },
+  {
+    "source_row": 308,
+    "title": "Art, drama, and music teachers, postsecondary",
+    "code": "25-1121",
+    "type": "Line item",
+    "employment_thousands_2025": 116.9
+  },
+  {
+    "source_row": 309,
+    "title": "Communications teachers, postsecondary",
+    "code": "25-1122",
+    "type": "Line item",
+    "employment_thousands_2025": 35.8
+  },
+  {
+    "source_row": 310,
+    "title": "English language and literature teachers, postsecondary",
+    "code": "25-1123",
+    "type": "Line item",
+    "employment_thousands_2025": 69.3
+  },
+  {
+    "source_row": 311,
+    "title": "Foreign language and literature teachers, postsecondary",
+    "code": "25-1124",
+    "type": "Line item",
+    "employment_thousands_2025": 24.6
+  },
+  {
+    "source_row": 312,
+    "title": "History teachers, postsecondary",
+    "code": "25-1125",
+    "type": "Line item",
+    "employment_thousands_2025": 23.2
+  },
+  {
+    "source_row": 313,
+    "title": "Philosophy and religion teachers, postsecondary",
+    "code": "25-1126",
+    "type": "Line item",
+    "employment_thousands_2025": 26.8
+  },
+  {
+    "source_row": 314,
+    "title": "Miscellaneous postsecondary teachers",
+    "code": "25-1190",
+    "type": "Summary",
+    "employment_thousands_2025": 324.9
+  },
+  {
+    "source_row": 315,
+    "title": "Family and consumer sciences teachers, postsecondary",
+    "code": "25-1192",
+    "type": "Line item",
+    "employment_thousands_2025": 3.4
+  },
+  {
+    "source_row": 316,
+    "title": "Recreation and fitness studies teachers, postsecondary",
+    "code": "25-1193",
+    "type": "Line item",
+    "employment_thousands_2025": 15.2
+  },
+  {
+    "source_row": 317,
+    "title": "Career/technical education teachers, postsecondary",
+    "code": "25-1194",
+    "type": "Line item",
+    "employment_thousands_2025": 123.1
+  },
+  {
+    "source_row": 318,
+    "title": "Postsecondary teachers, all other",
+    "code": "25-1199",
+    "type": "Line item",
+    "employment_thousands_2025": 183.2
+  },
+  {
+    "source_row": 319,
+    "title": "Preschool, elementary, middle, secondary, and special education teachers",
+    "code": "25-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 4542.5
+  },
+  {
+    "source_row": 320,
+    "title": "Preschool and kindergarten teachers",
+    "code": "25-2010",
+    "type": "Summary",
+    "employment_thousands_2025": 694.4
+  },
+  {
+    "source_row": 321,
+    "title": "Preschool teachers, except special education",
+    "code": "25-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 583.2
+  },
+  {
+    "source_row": 322,
+    "title": "Kindergarten teachers, except special education",
+    "code": "25-2012",
+    "type": "Line item",
+    "employment_thousands_2025": 111.2
+  },
+  {
+    "source_row": 323,
+    "title": "Elementary and middle school teachers",
+    "code": "25-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 2066
+  },
+  {
+    "source_row": 324,
+    "title": "Elementary school teachers, except special education",
+    "code": "25-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 1419.3
+  },
+  {
+    "source_row": 325,
+    "title": "Middle school teachers, except special and career/technical education",
+    "code": "25-2022",
+    "type": "Line item",
+    "employment_thousands_2025": 630.1
+  },
+  {
+    "source_row": 326,
+    "title": "Career/technical education teachers, middle school",
+    "code": "25-2023",
+    "type": "Line item",
+    "employment_thousands_2025": 16.6
+  },
+  {
+    "source_row": 327,
+    "title": "Secondary school teachers",
+    "code": "25-2030",
+    "type": "Summary",
+    "employment_thousands_2025": 1198
+  },
+  {
+    "source_row": 328,
+    "title": "Secondary school teachers, except special and career/technical education",
+    "code": "25-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 1087.5
+  },
+  {
+    "source_row": 329,
+    "title": "Career/technical education teachers, secondary school",
+    "code": "25-2032",
+    "type": "Line item",
+    "employment_thousands_2025": 110.5
+  },
+  {
+    "source_row": 330,
+    "title": "Special education teachers",
+    "code": "25-2050",
+    "type": "Summary",
+    "employment_thousands_2025": 584.1
+  },
+  {
+    "source_row": 331,
+    "title": "Special education teachers, preschool",
+    "code": "25-2051",
+    "type": "Line item",
+    "employment_thousands_2025": 30.5
+  },
+  {
+    "source_row": 332,
+    "title": "Special education teachers, kindergarten and elementary school",
+    "code": "25-2052",
+    "type": "Line item",
+    "employment_thousands_2025": 259.1
+  },
+  {
+    "source_row": 333,
+    "title": "Special education teachers, middle school",
+    "code": "25-2057",
+    "type": "Line item",
+    "employment_thousands_2025": 94.8
+  },
+  {
+    "source_row": 334,
+    "title": "Special education teachers, secondary school",
+    "code": "25-2058",
+    "type": "Line item",
+    "employment_thousands_2025": 164.8
+  },
+  {
+    "source_row": 335,
+    "title": "Special education teachers, all other",
+    "code": "25-2059",
+    "type": "Line item",
+    "employment_thousands_2025": 34.8
+  },
+  {
+    "source_row": 336,
+    "title": "Other teachers and instructors",
+    "code": "25-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 1363.2
+  },
+  {
+    "source_row": 337,
+    "title": "Adult basic education, adult secondary education, and english as a second language instructors",
+    "code": "25-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 41.1
+  },
+  {
+    "source_row": 338,
+    "title": "Self-enrichment teachers",
+    "code": "25-3021",
+    "type": "Line item",
+    "employment_thousands_2025": 419.1
+  },
+  {
+    "source_row": 339,
+    "title": "Substitute teachers, short-term",
+    "code": "25-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 556.1
+  },
+  {
+    "source_row": 340,
+    "title": "Tutors",
+    "code": "25-3041",
+    "type": "Line item",
+    "employment_thousands_2025": 208.4
+  },
+  {
+    "source_row": 341,
+    "title": "Teachers and instructors, all other",
+    "code": "25-3099",
+    "type": "Line item",
+    "employment_thousands_2025": 138.6
+  },
+  {
+    "source_row": 342,
+    "title": "Librarians, curators, and archivists",
+    "code": "25-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 253.5
+  },
+  {
+    "source_row": 343,
+    "title": "Archivists, curators, and museum technicians",
+    "code": "25-4010",
+    "type": "Summary",
+    "employment_thousands_2025": 38.5
+  },
+  {
+    "source_row": 344,
+    "title": "Archivists",
+    "code": "25-4011",
+    "type": "Line item",
+    "employment_thousands_2025": 10.3
+  },
+  {
+    "source_row": 345,
+    "title": "Curators",
+    "code": "25-4012",
+    "type": "Line item",
+    "employment_thousands_2025": 14.2
+  },
+  {
+    "source_row": 346,
+    "title": "Museum technicians and conservators",
+    "code": "25-4013",
+    "type": "Line item",
+    "employment_thousands_2025": 14
+  },
+  {
+    "source_row": 347,
+    "title": "Librarians and media collections specialists",
+    "code": "25-4022",
+    "type": "Line item",
+    "employment_thousands_2025": 142.3
+  },
+  {
+    "source_row": 348,
+    "title": "Library technicians",
+    "code": "25-4031",
+    "type": "Line item",
+    "employment_thousands_2025": 72.8
+  },
+  {
+    "source_row": 349,
+    "title": "Other educational instruction and library occupations",
+    "code": "25-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 2063.7
+  },
+  {
+    "source_row": 350,
+    "title": "Farm and home management educators",
+    "code": "25-9021",
+    "type": "Line item",
+    "employment_thousands_2025": 9.7
+  },
+  {
+    "source_row": 351,
+    "title": "Instructional coordinators",
+    "code": "25-9031",
+    "type": "Line item",
+    "employment_thousands_2025": 248.7
+  },
+  {
+    "source_row": 352,
+    "title": "Teaching assistants",
+    "code": "25-9040",
+    "type": "Summary",
+    "employment_thousands_2025": 1668.5
+  },
+  {
+    "source_row": 353,
+    "title": "Teaching assistants, postsecondary",
+    "code": "25-9044",
+    "type": "Line item",
+    "employment_thousands_2025": 205.5
+  },
+  {
+    "source_row": 354,
+    "title": "Teaching assistants, except postsecondary",
+    "code": "25-9045",
+    "type": "Line item",
+    "employment_thousands_2025": 1463
+  },
+  {
+    "source_row": 355,
+    "title": "Educational instruction and library workers, all other",
+    "code": "25-9099",
+    "type": "Line item",
+    "employment_thousands_2025": 136.8
+  },
+  {
+    "source_row": 356,
+    "title": "Arts, design, entertainment, sports, and media occupations",
+    "code": "27-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 2986
+  },
+  {
+    "source_row": 357,
+    "title": "Art and design workers",
+    "code": "27-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 934.8
+  },
+  {
+    "source_row": 358,
+    "title": "Artists and related workers",
+    "code": "27-1010",
+    "type": "Summary",
+    "employment_thousands_2025": 245.4
+  },
+  {
+    "source_row": 359,
+    "title": "Art directors",
+    "code": "27-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 140.2
+  },
+  {
+    "source_row": 360,
+    "title": "Craft artists",
+    "code": "27-1012",
+    "type": "Line item",
+    "employment_thousands_2025": 11.5
+  },
+  {
+    "source_row": 361,
+    "title": "Fine artists, including painters, sculptors, and illustrators",
+    "code": "27-1013",
+    "type": "Line item",
+    "employment_thousands_2025": 28.9
+  },
+  {
+    "source_row": 362,
+    "title": "Special effects artists and animators",
+    "code": "27-1014",
+    "type": "Line item",
+    "employment_thousands_2025": 51.9
+  },
+  {
+    "source_row": 363,
+    "title": "Artists and related workers, all other",
+    "code": "27-1019",
+    "type": "Line item",
+    "employment_thousands_2025": 13
+  },
+  {
+    "source_row": 364,
+    "title": "Designers",
+    "code": "27-1020",
+    "type": "Summary",
+    "employment_thousands_2025": 689.4
+  },
+  {
+    "source_row": 365,
+    "title": "Commercial and industrial designers",
+    "code": "27-1021",
+    "type": "Line item",
+    "employment_thousands_2025": 35.4
+  },
+  {
+    "source_row": 366,
+    "title": "Fashion designers",
+    "code": "27-1022",
+    "type": "Line item",
+    "employment_thousands_2025": 32.7
+  },
+  {
+    "source_row": 367,
+    "title": "Floral designers",
+    "code": "27-1023",
+    "type": "Line item",
+    "employment_thousands_2025": 45.2
+  },
+  {
+    "source_row": 368,
+    "title": "Graphic designers",
+    "code": "27-1024",
+    "type": "Line item",
+    "employment_thousands_2025": 253.1
+  },
+  {
+    "source_row": 369,
+    "title": "Interior designers",
+    "code": "27-1025",
+    "type": "Line item",
+    "employment_thousands_2025": 97.1
+  },
+  {
+    "source_row": 370,
+    "title": "Merchandise displayers and window trimmers",
+    "code": "27-1026",
+    "type": "Line item",
+    "employment_thousands_2025": 164.8
+  },
+  {
+    "source_row": 371,
+    "title": "Set and exhibit designers",
+    "code": "27-1027",
+    "type": "Line item",
+    "employment_thousands_2025": 31.6
+  },
+  {
+    "source_row": 372,
+    "title": "Designers, all other",
+    "code": "27-1029",
+    "type": "Line item",
+    "employment_thousands_2025": 29.5
+  },
+  {
+    "source_row": 373,
+    "title": "Entertainers and performers, sports and related workers",
+    "code": "27-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 889
+  },
+  {
+    "source_row": 374,
+    "title": "Actors, producers, and directors",
+    "code": "27-2010",
+    "type": "Summary",
+    "employment_thousands_2025": 248.5
+  },
+  {
+    "source_row": 375,
+    "title": "Actors",
+    "code": "27-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 67.5
+  },
+  {
+    "source_row": 376,
+    "title": "Producers and directors",
+    "code": "27-2012",
+    "type": "Line item",
+    "employment_thousands_2025": 181
+  },
+  {
+    "source_row": 377,
+    "title": "Athletes, coaches, umpires, and related workers",
+    "code": "27-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 339.9
+  },
+  {
+    "source_row": 378,
+    "title": "Athletes and sports competitors",
+    "code": "27-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 22.9
+  },
+  {
+    "source_row": 379,
+    "title": "Coaches and scouts",
+    "code": "27-2022",
+    "type": "Line item",
+    "employment_thousands_2025": 298.8
+  },
+  {
+    "source_row": 380,
+    "title": "Umpires, referees, and other sports officials",
+    "code": "27-2023",
+    "type": "Line item",
+    "employment_thousands_2025": 18.2
+  },
+  {
+    "source_row": 381,
+    "title": "Dancers and choreographers",
+    "code": "27-2030",
+    "type": "Summary",
+    "employment_thousands_2025": 18.6
+  },
+  {
+    "source_row": 382,
+    "title": "Dancers",
+    "code": "27-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 13.8
+  },
+  {
+    "source_row": 383,
+    "title": "Choreographers",
+    "code": "27-2032",
+    "type": "Line item",
+    "employment_thousands_2025": 4.7
+  },
+  {
+    "source_row": 384,
+    "title": "Musicians, singers, and related workers",
+    "code": "27-2040",
+    "type": "Summary",
+    "employment_thousands_2025": 221.5
+  },
+  {
+    "source_row": 385,
+    "title": "Music directors and composers",
+    "code": "27-2041",
+    "type": "Line item",
+    "employment_thousands_2025": 51.1
+  },
+  {
+    "source_row": 386,
+    "title": "Musicians and singers",
+    "code": "27-2042",
+    "type": "Line item",
+    "employment_thousands_2025": 170.4
+  },
+  {
+    "source_row": 387,
+    "title": "Miscellaneous entertainers and performers, sports and related workers",
+    "code": "27-2090",
+    "type": "Summary",
+    "employment_thousands_2025": 60.6
+  },
+  {
+    "source_row": 388,
+    "title": "Disc jockeys, except radio",
+    "code": "27-2091",
+    "type": "Line item",
+    "employment_thousands_2025": 16.9
+  },
+  {
+    "source_row": 389,
+    "title": "Entertainers and performers, sports and related workers, all other",
+    "code": "27-2099",
+    "type": "Line item",
+    "employment_thousands_2025": 43.7
+  },
+  {
+    "source_row": 390,
+    "title": "Media and communication workers",
+    "code": "27-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 794.5
+  },
+  {
+    "source_row": 391,
+    "title": "Broadcast announcers and radio disc jockeys",
+    "code": "27-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 21.8
+  },
+  {
+    "source_row": 392,
+    "title": "News analysts, reporters, and journalists",
+    "code": "27-3023",
+    "type": "Line item",
+    "employment_thousands_2025": 47.1
+  },
+  {
+    "source_row": 393,
+    "title": "Public relations specialists",
+    "code": "27-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 314.5
+  },
+  {
+    "source_row": 394,
+    "title": "Writers and editors",
+    "code": "27-3040",
+    "type": "Summary",
+    "employment_thousands_2025": 291.7
+  },
+  {
+    "source_row": 395,
+    "title": "Editors",
+    "code": "27-3041",
+    "type": "Line item",
+    "employment_thousands_2025": 105
+  },
+  {
+    "source_row": 396,
+    "title": "Technical writers",
+    "code": "27-3042",
+    "type": "Line item",
+    "employment_thousands_2025": 46.4
+  },
+  {
+    "source_row": 397,
+    "title": "Writers and authors",
+    "code": "27-3043",
+    "type": "Line item",
+    "employment_thousands_2025": 140.3
+  },
+  {
+    "source_row": 398,
+    "title": "Miscellaneous media and communication workers",
+    "code": "27-3090",
+    "type": "Summary",
+    "employment_thousands_2025": 119.4
+  },
+  {
+    "source_row": 399,
+    "title": "Interpreters and translators",
+    "code": "27-3091",
+    "type": "Line item",
+    "employment_thousands_2025": 73.9
+  },
+  {
+    "source_row": 400,
+    "title": "Court reporters and simultaneous captioners",
+    "code": "27-3092",
+    "type": "Line item",
+    "employment_thousands_2025": 19.9
+  },
+  {
+    "source_row": 401,
+    "title": "Media and communication workers, all other",
+    "code": "27-3099",
+    "type": "Line item",
+    "employment_thousands_2025": 25.5
+  },
+  {
+    "source_row": 402,
+    "title": "Media and communication equipment workers",
+    "code": "27-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 367.7
+  },
+  {
+    "source_row": 403,
+    "title": "Broadcast, sound, and lighting technicians",
+    "code": "27-4010",
+    "type": "Summary",
+    "employment_thousands_2025": 136.6
+  },
+  {
+    "source_row": 404,
+    "title": "Audio and video technicians",
+    "code": "27-4011",
+    "type": "Line item",
+    "employment_thousands_2025": 87.6
+  },
+  {
+    "source_row": 405,
+    "title": "Broadcast technicians",
+    "code": "27-4012",
+    "type": "Line item",
+    "employment_thousands_2025": 24.1
+  },
+  {
+    "source_row": 406,
+    "title": "Sound engineering technicians",
+    "code": "27-4014",
+    "type": "Line item",
+    "employment_thousands_2025": 15
+  },
+  {
+    "source_row": 407,
+    "title": "Lighting technicians",
+    "code": "27-4015",
+    "type": "Line item",
+    "employment_thousands_2025": 9.9
+  },
+  {
+    "source_row": 408,
+    "title": "Photographers",
+    "code": "27-4021",
+    "type": "Line item",
+    "employment_thousands_2025": 145
+  },
+  {
+    "source_row": 409,
+    "title": "Television, video, and film camera operators and editors",
+    "code": "27-4030",
+    "type": "Summary",
+    "employment_thousands_2025": 72
+  },
+  {
+    "source_row": 410,
+    "title": "Camera operators, television, video, and film",
+    "code": "27-4031",
+    "type": "Line item",
+    "employment_thousands_2025": 32.6
+  },
+  {
+    "source_row": 411,
+    "title": "Film and video editors",
+    "code": "27-4032",
+    "type": "Line item",
+    "employment_thousands_2025": 39.4
+  },
+  {
+    "source_row": 412,
+    "title": "Media and communication equipment workers, all other",
+    "code": "27-4099",
+    "type": "Line item",
+    "employment_thousands_2025": 14
+  },
+  {
+    "source_row": 413,
+    "title": "Healthcare practitioners and technical occupations",
+    "code": "29-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 10232.8
+  },
+  {
+    "source_row": 414,
+    "title": "Healthcare diagnosing or treating practitioners",
+    "code": "29-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 6869.8
+  },
+  {
+    "source_row": 415,
+    "title": "Chiropractors",
+    "code": "29-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 61.7
+  },
+  {
+    "source_row": 416,
+    "title": "Dentists",
+    "code": "29-1020",
+    "type": "Summary",
+    "employment_thousands_2025": 161.4
+  },
+  {
+    "source_row": 417,
+    "title": "Dentists, general",
+    "code": "29-1021",
+    "type": "Line item",
+    "employment_thousands_2025": 141.9
+  },
+  {
+    "source_row": 418,
+    "title": "Oral and maxillofacial surgeons",
+    "code": "29-1022",
+    "type": "Line item",
+    "employment_thousands_2025": 5.6
+  },
+  {
+    "source_row": 419,
+    "title": "Orthodontists",
+    "code": "29-1023",
+    "type": "Line item",
+    "employment_thousands_2025": 7.1
+  },
+  {
+    "source_row": 420,
+    "title": "Prosthodontists",
+    "code": "29-1024",
+    "type": "Line item",
+    "employment_thousands_2025": 1
+  },
+  {
+    "source_row": 421,
+    "title": "Dentists, all other specialists",
+    "code": "29-1029",
+    "type": "Line item",
+    "employment_thousands_2025": 5.8
+  },
+  {
+    "source_row": 422,
+    "title": "Dietitians and nutritionists",
+    "code": "29-1031",
+    "type": "Line item",
+    "employment_thousands_2025": 86.3
+  },
+  {
+    "source_row": 423,
+    "title": "Optometrists",
+    "code": "29-1041",
+    "type": "Line item",
+    "employment_thousands_2025": 45.1
+  },
+  {
+    "source_row": 424,
+    "title": "Pharmacists",
+    "code": "29-1051",
+    "type": "Line item",
+    "employment_thousands_2025": 325.2
+  },
+  {
+    "source_row": 425,
+    "title": "Physician assistants",
+    "code": "29-1071",
+    "type": "Line item",
+    "employment_thousands_2025": 168.9
+  },
+  {
+    "source_row": 426,
+    "title": "Podiatrists",
+    "code": "29-1081",
+    "type": "Line item",
+    "employment_thousands_2025": 10
+  },
+  {
+    "source_row": 427,
+    "title": "Therapists",
+    "code": "29-1120",
+    "type": "Summary",
+    "employment_thousands_2025": 899.1
+  },
+  {
+    "source_row": 428,
+    "title": "Occupational therapists",
+    "code": "29-1122",
+    "type": "Line item",
+    "employment_thousands_2025": 169.6
+  },
+  {
+    "source_row": 429,
+    "title": "Physical therapists",
+    "code": "29-1123",
+    "type": "Line item",
+    "employment_thousands_2025": 283.7
+  },
+  {
+    "source_row": 430,
+    "title": "Radiation therapists",
+    "code": "29-1124",
+    "type": "Line item",
+    "employment_thousands_2025": 17.4
+  },
+  {
+    "source_row": 431,
+    "title": "Recreational therapists",
+    "code": "29-1125",
+    "type": "Line item",
+    "employment_thousands_2025": 15.6
+  },
+  {
+    "source_row": 432,
+    "title": "Respiratory therapists",
+    "code": "29-1126",
+    "type": "Line item",
+    "employment_thousands_2025": 142
+  },
+  {
+    "source_row": 433,
+    "title": "Speech-language pathologists",
+    "code": "29-1127",
+    "type": "Line item",
+    "employment_thousands_2025": 193.4
+  },
+  {
+    "source_row": 434,
+    "title": "Exercise physiologists",
+    "code": "29-1128",
+    "type": "Line item",
+    "employment_thousands_2025": 21.2
+  },
+  {
+    "source_row": 435,
+    "title": "Therapists, all other",
+    "code": "29-1129",
+    "type": "Line item",
+    "employment_thousands_2025": 56.1
+  },
+  {
+    "source_row": 436,
+    "title": "Veterinarians",
+    "code": "29-1131",
+    "type": "Line item",
+    "employment_thousands_2025": 91.1
+  },
+  {
+    "source_row": 437,
+    "title": "Registered nurses",
+    "code": "29-1141",
+    "type": "Line item",
+    "employment_thousands_2025": 3465.4
+  },
+  {
+    "source_row": 438,
+    "title": "Nurse anesthetists",
+    "code": "29-1151",
+    "type": "Line item",
+    "employment_thousands_2025": 54.5
+  },
+  {
+    "source_row": 439,
+    "title": "Nurse midwives",
+    "code": "29-1161",
+    "type": "Line item",
+    "employment_thousands_2025": 8.2
+  },
+  {
+    "source_row": 440,
+    "title": "Nurse practitioners",
+    "code": "29-1171",
+    "type": "Line item",
+    "employment_thousands_2025": 336.3
+  },
+  {
+    "source_row": 441,
+    "title": "Audiologists",
+    "code": "29-1181",
+    "type": "Line item",
+    "employment_thousands_2025": 14.2
+  },
+  {
+    "source_row": 442,
+    "title": "Physicians",
+    "code": "29-1210",
+    "type": "Summary",
+    "employment_thousands_2025": 808.8
+  },
+  {
+    "source_row": 443,
+    "title": "Anesthesiologists",
+    "code": "29-1211",
+    "type": "Line item",
+    "employment_thousands_2025": 41.5
+  },
+  {
+    "source_row": 444,
+    "title": "Cardiologists",
+    "code": "29-1212",
+    "type": "Line item",
+    "employment_thousands_2025": 18.5
+  },
+  {
+    "source_row": 445,
+    "title": "Dermatologists",
+    "code": "29-1213",
+    "type": "Line item",
+    "employment_thousands_2025": 12.2
+  },
+  {
+    "source_row": 446,
+    "title": "Emergency medicine physicians",
+    "code": "29-1214",
+    "type": "Line item",
+    "employment_thousands_2025": 34.9
+  },
+  {
+    "source_row": 447,
+    "title": "Family medicine physicians",
+    "code": "29-1215",
+    "type": "Line item",
+    "employment_thousands_2025": 114.3
+  },
+  {
+    "source_row": 448,
+    "title": "General internal medicine physicians",
+    "code": "29-1216",
+    "type": "Line item",
+    "employment_thousands_2025": 73.1
+  },
+  {
+    "source_row": 449,
+    "title": "Neurologists",
+    "code": "29-1217",
+    "type": "Line item",
+    "employment_thousands_2025": 11.4
+  },
+  {
+    "source_row": 450,
+    "title": "Obstetricians and gynecologists",
+    "code": "29-1218",
+    "type": "Line item",
+    "employment_thousands_2025": 22.8
+  },
+  {
+    "source_row": 451,
+    "title": "Pediatricians, general",
+    "code": "29-1221",
+    "type": "Line item",
+    "employment_thousands_2025": 42.2
+  },
+  {
+    "source_row": 452,
+    "title": "Physicians, pathologists",
+    "code": "29-1222",
+    "type": "Line item",
+    "employment_thousands_2025": 11.8
+  },
+  {
+    "source_row": 453,
+    "title": "Psychiatrists",
+    "code": "29-1223",
+    "type": "Line item",
+    "employment_thousands_2025": 30
+  },
+  {
+    "source_row": 454,
+    "title": "Radiologists",
+    "code": "29-1224",
+    "type": "Line item",
+    "employment_thousands_2025": 28.7
+  },
+  {
+    "source_row": 455,
+    "title": "Physicians, all other",
+    "code": "29-1229",
+    "type": "Line item",
+    "employment_thousands_2025": 367.4
+  },
+  {
+    "source_row": 456,
+    "title": "Surgeons",
+    "code": "29-1240",
+    "type": "Summary",
+    "employment_thousands_2025": 54
+  },
+  {
+    "source_row": 457,
+    "title": "Ophthalmologists, except pediatric",
+    "code": "29-1241",
+    "type": "Line item",
+    "employment_thousands_2025": 9.7
+  },
+  {
+    "source_row": 458,
+    "title": "Orthopedic surgeons, except pediatric",
+    "code": "29-1242",
+    "type": "Line item",
+    "employment_thousands_2025": 15.5
+  },
+  {
+    "source_row": 459,
+    "title": "Pediatric surgeons",
+    "code": "29-1243",
+    "type": "Line item",
+    "employment_thousands_2025": 1.3
+  },
+  {
+    "source_row": 460,
+    "title": "Surgeons, all other",
+    "code": "29-1249",
+    "type": "Line item",
+    "employment_thousands_2025": 27.5
+  },
+  {
+    "source_row": 461,
+    "title": "Miscellaneous healthcare diagnosing or treating practitioners",
+    "code": "29-1290",
+    "type": "Summary",
+    "employment_thousands_2025": 279.6
+  },
+  {
+    "source_row": 462,
+    "title": "Acupuncturists",
+    "code": "29-1291",
+    "type": "Line item",
+    "employment_thousands_2025": 14.8
+  },
+  {
+    "source_row": 463,
+    "title": "Dental hygienists",
+    "code": "29-1292",
+    "type": "Line item",
+    "employment_thousands_2025": 225.3
+  },
+  {
+    "source_row": 464,
+    "title": "Healthcare diagnosing or treating practitioners, all other",
+    "code": "29-1299",
+    "type": "Line item",
+    "employment_thousands_2025": 39.6
+  },
+  {
+    "source_row": 465,
+    "title": "Health technologists and technicians",
+    "code": "29-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 3218.3
+  },
+  {
+    "source_row": 466,
+    "title": "Clinical laboratory technologists and technicians",
+    "code": "29-2010",
+    "type": "Line item",
+    "employment_thousands_2025": 343
+  },
+  {
+    "source_row": 467,
+    "title": "Diagnostic related technologists and technicians",
+    "code": "29-2030",
+    "type": "Summary",
+    "employment_thousands_2025": 455.8
+  },
+  {
+    "source_row": 468,
+    "title": "Cardiovascular technologists and technicians",
+    "code": "29-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 64.5
+  },
+  {
+    "source_row": 469,
+    "title": "Diagnostic medical sonographers",
+    "code": "29-2032",
+    "type": "Line item",
+    "employment_thousands_2025": 92.2
+  },
+  {
+    "source_row": 470,
+    "title": "Nuclear medicine technologists",
+    "code": "29-2033",
+    "type": "Line item",
+    "employment_thousands_2025": 17.4
+  },
+  {
+    "source_row": 471,
+    "title": "Radiologic technologists and technicians",
+    "code": "29-2034",
+    "type": "Line item",
+    "employment_thousands_2025": 234.2
+  },
+  {
+    "source_row": 472,
+    "title": "Magnetic resonance imaging technologists",
+    "code": "29-2035",
+    "type": "Line item",
+    "employment_thousands_2025": 43.9
+  },
+  {
+    "source_row": 473,
+    "title": "Medical dosimetrists",
+    "code": "29-2036",
+    "type": "Line item",
+    "employment_thousands_2025": 3.5
+  },
+  {
+    "source_row": 474,
+    "title": "Emergency medical technicians and paramedics",
+    "code": "29-2040",
+    "type": "Summary",
+    "employment_thousands_2025": 284.1
+  },
+  {
+    "source_row": 475,
+    "title": "Emergency medical technicians",
+    "code": "29-2042",
+    "type": "Line item",
+    "employment_thousands_2025": 181.9
+  },
+  {
+    "source_row": 476,
+    "title": "Paramedics",
+    "code": "29-2043",
+    "type": "Line item",
+    "employment_thousands_2025": 102.2
+  },
+  {
+    "source_row": 477,
+    "title": "Health practitioner support technologists and technicians",
+    "code": "29-2050",
+    "type": "Summary",
+    "employment_thousands_2025": 987.1
+  },
+  {
+    "source_row": 478,
+    "title": "Dietetic technicians",
+    "code": "29-2051",
+    "type": "Line item",
+    "employment_thousands_2025": 32.1
+  },
+  {
+    "source_row": 479,
+    "title": "Pharmacy technicians",
+    "code": "29-2052",
+    "type": "Line item",
+    "employment_thousands_2025": 471.2
+  },
+  {
+    "source_row": 480,
+    "title": "Psychiatric technicians",
+    "code": "29-2053",
+    "type": "Line item",
+    "employment_thousands_2025": 161.5
+  },
+  {
+    "source_row": 481,
+    "title": "Surgical technologists",
+    "code": "29-2055",
+    "type": "Line item",
+    "employment_thousands_2025": 118.4
+  },
+  {
+    "source_row": 482,
+    "title": "Veterinary technologists and technicians",
+    "code": "29-2056",
+    "type": "Line item",
+    "employment_thousands_2025": 131.4
+  },
+  {
+    "source_row": 483,
+    "title": "Ophthalmic medical technicians",
+    "code": "29-2057",
+    "type": "Line item",
+    "employment_thousands_2025": 72.5
+  },
+  {
+    "source_row": 484,
+    "title": "Licensed practical and licensed vocational nurses",
+    "code": "29-2061",
+    "type": "Line item",
+    "employment_thousands_2025": 666.9
+  },
+  {
+    "source_row": 485,
+    "title": "Medical records specialists",
+    "code": "29-2072",
+    "type": "Line item",
+    "employment_thousands_2025": 200.7
+  },
+  {
+    "source_row": 486,
+    "title": "Opticians, dispensing",
+    "code": "29-2081",
+    "type": "Line item",
+    "employment_thousands_2025": 74.3
+  },
+  {
+    "source_row": 487,
+    "title": "Miscellaneous health technologists and technicians",
+    "code": "29-2090",
+    "type": "Summary",
+    "employment_thousands_2025": 206.3
+  },
+  {
+    "source_row": 488,
+    "title": "Orthotists and prosthetists",
+    "code": "29-2091",
+    "type": "Line item",
+    "employment_thousands_2025": 9.5
+  },
+  {
+    "source_row": 489,
+    "title": "Hearing aid specialists",
+    "code": "29-2092",
+    "type": "Line item",
+    "employment_thousands_2025": 11.2
+  },
+  {
+    "source_row": 490,
+    "title": "Health technologists and technicians, all other",
+    "code": "29-2099",
+    "type": "Line item",
+    "employment_thousands_2025": 185.6
+  },
+  {
+    "source_row": 491,
+    "title": "Other healthcare practitioners and technical occupations",
+    "code": "29-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 144.8
+  },
+  {
+    "source_row": 492,
+    "title": "Health information technologists and medical registrars",
+    "code": "29-9021",
+    "type": "Line item",
+    "employment_thousands_2025": 42
+  },
+  {
+    "source_row": 493,
+    "title": "Miscellaneous health practitioners and technical workers",
+    "code": "29-9090",
+    "type": "Summary",
+    "employment_thousands_2025": 102.8
+  },
+  {
+    "source_row": 494,
+    "title": "Athletic trainers",
+    "code": "29-9091",
+    "type": "Line item",
+    "employment_thousands_2025": 35.2
+  },
+  {
+    "source_row": 495,
+    "title": "Genetic counselors",
+    "code": "29-9092",
+    "type": "Line item",
+    "employment_thousands_2025": 4.2
+  },
+  {
+    "source_row": 496,
+    "title": "Surgical assistants",
+    "code": "29-9093",
+    "type": "Line item",
+    "employment_thousands_2025": 24.4
+  },
+  {
+    "source_row": 497,
+    "title": "Healthcare practitioners and technical workers, all other",
+    "code": "29-9099",
+    "type": "Line item",
+    "employment_thousands_2025": 39.1
+  },
+  {
+    "source_row": 498,
+    "title": "Healthcare support occupations",
+    "code": "31-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 8421.5
+  },
+  {
+    "source_row": 499,
+    "title": "Home health and personal care aides; and nursing assistants, orderlies, and psychiatric aides",
+    "code": "31-1100",
+    "type": "Summary",
+    "employment_thousands_2025": 6272.7
+  },
+  {
+    "source_row": 500,
+    "title": "Home health and personal care aides",
+    "code": "31-1120",
+    "type": "Line item",
+    "employment_thousands_2025": 4677.1
+  },
+  {
+    "source_row": 501,
+    "title": "Nursing assistants, orderlies, and psychiatric aides",
+    "code": "31-1130",
+    "type": "Summary",
+    "employment_thousands_2025": 1595.7
+  },
+  {
+    "source_row": 502,
+    "title": "Nursing assistants",
+    "code": "31-1131",
+    "type": "Line item",
+    "employment_thousands_2025": 1505.9
+  },
+  {
+    "source_row": 503,
+    "title": "Orderlies",
+    "code": "31-1132",
+    "type": "Line item",
+    "employment_thousands_2025": 52.8
+  },
+  {
+    "source_row": 504,
+    "title": "Psychiatric aides",
+    "code": "31-1133",
+    "type": "Line item",
+    "employment_thousands_2025": 36.9
+  },
+  {
+    "source_row": 505,
+    "title": "Occupational therapy and physical therapist assistants and aides",
+    "code": "31-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 219.8
+  },
+  {
+    "source_row": 506,
+    "title": "Occupational therapy assistants and aides",
+    "code": "31-2010",
+    "type": "Summary",
+    "employment_thousands_2025": 56.6
+  },
+  {
+    "source_row": 507,
+    "title": "Occupational therapy assistants",
+    "code": "31-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 52.2
+  },
+  {
+    "source_row": 508,
+    "title": "Occupational therapy aides",
+    "code": "31-2012",
+    "type": "Line item",
+    "employment_thousands_2025": 4.4
+  },
+  {
+    "source_row": 509,
+    "title": "Physical therapist assistants and aides",
+    "code": "31-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 163.2
+  },
+  {
+    "source_row": 510,
+    "title": "Physical therapist assistants",
+    "code": "31-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 114.1
+  },
+  {
+    "source_row": 511,
+    "title": "Physical therapist aides",
+    "code": "31-2022",
+    "type": "Line item",
+    "employment_thousands_2025": 49
+  },
+  {
+    "source_row": 512,
+    "title": "Other healthcare support occupations",
+    "code": "31-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 1929
+  },
+  {
+    "source_row": 513,
+    "title": "Massage therapists",
+    "code": "31-9011",
+    "type": "Line item",
+    "employment_thousands_2025": 155.4
+  },
+  {
+    "source_row": 514,
+    "title": "Miscellaneous healthcare support occupations",
+    "code": "31-9090",
+    "type": "Summary",
+    "employment_thousands_2025": 1773.6
+  },
+  {
+    "source_row": 515,
+    "title": "Dental assistants",
+    "code": "31-9091",
+    "type": "Line item",
+    "employment_thousands_2025": 388.6
+  },
+  {
+    "source_row": 516,
+    "title": "Medical assistants",
+    "code": "31-9092",
+    "type": "Line item",
+    "employment_thousands_2025": 833.9
+  },
+  {
+    "source_row": 517,
+    "title": "Medical equipment preparers",
+    "code": "31-9093",
+    "type": "Line item",
+    "employment_thousands_2025": 79.9
+  },
+  {
+    "source_row": 518,
+    "title": "Medical transcriptionists",
+    "code": "31-9094",
+    "type": "Line item",
+    "employment_thousands_2025": 42
+  },
+  {
+    "source_row": 519,
+    "title": "Pharmacy aides",
+    "code": "31-9095",
+    "type": "Line item",
+    "employment_thousands_2025": 39.2
+  },
+  {
+    "source_row": 520,
+    "title": "Veterinary assistants and laboratory animal caretakers",
+    "code": "31-9096",
+    "type": "Line item",
+    "employment_thousands_2025": 132.1
+  },
+  {
+    "source_row": 521,
+    "title": "Phlebotomists",
+    "code": "31-9097",
+    "type": "Line item",
+    "employment_thousands_2025": 143.9
+  },
+  {
+    "source_row": 522,
+    "title": "Healthcare support workers, all other",
+    "code": "31-9099",
+    "type": "Line item",
+    "employment_thousands_2025": 113.9
+  },
+  {
+    "source_row": 523,
+    "title": "Protective service occupations",
+    "code": "33-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 3871
+  },
+  {
+    "source_row": 524,
+    "title": "Supervisors of protective service workers",
+    "code": "33-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 422.3
+  },
+  {
+    "source_row": 525,
+    "title": "First-line supervisors of law enforcement workers",
+    "code": "33-1010",
+    "type": "Summary",
+    "employment_thousands_2025": 216.5
+  },
+  {
+    "source_row": 526,
+    "title": "First-line supervisors of correctional officers",
+    "code": "33-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 56.3
+  },
+  {
+    "source_row": 527,
+    "title": "First-line supervisors of police and detectives",
+    "code": "33-1012",
+    "type": "Line item",
+    "employment_thousands_2025": 160.2
+  },
+  {
+    "source_row": 528,
+    "title": "First-line supervisors of firefighting and prevention workers",
+    "code": "33-1021",
+    "type": "Line item",
+    "employment_thousands_2025": 101.6
+  },
+  {
+    "source_row": 529,
+    "title": "Miscellaneous first-line supervisors, protective service workers",
+    "code": "33-1090",
+    "type": "Summary",
+    "employment_thousands_2025": 104.2
+  },
+  {
+    "source_row": 530,
+    "title": "First-line supervisors of security workers",
+    "code": "33-1091",
+    "type": "Line item",
+    "employment_thousands_2025": 82.7
+  },
+  {
+    "source_row": 531,
+    "title": "First-line supervisors of protective service workers, all other",
+    "code": "33-1099",
+    "type": "Line item",
+    "employment_thousands_2025": 21.6
+  },
+  {
+    "source_row": 532,
+    "title": "Firefighting and prevention workers",
+    "code": "33-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 372.9
+  },
+  {
+    "source_row": 533,
+    "title": "Firefighters",
+    "code": "33-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 355.3
+  },
+  {
+    "source_row": 534,
+    "title": "Fire inspectors",
+    "code": "33-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 17.6
+  },
+  {
+    "source_row": 535,
+    "title": "Fire inspectors and investigators",
+    "code": "33-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 14.7
+  },
+  {
+    "source_row": 536,
+    "title": "Forest fire inspectors and prevention specialists",
+    "code": "33-2022",
+    "type": "Line item",
+    "employment_thousands_2025": 3
+  },
+  {
+    "source_row": 537,
+    "title": "Law enforcement workers",
+    "code": "33-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 1249.5
+  },
+  {
+    "source_row": 538,
+    "title": "Bailiffs, correctional officers, and jailers",
+    "code": "33-3010",
+    "type": "Summary",
+    "employment_thousands_2025": 415.8
+  },
+  {
+    "source_row": 539,
+    "title": "Bailiffs",
+    "code": "33-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 18
+  },
+  {
+    "source_row": 540,
+    "title": "Correctional officers and jailers",
+    "code": "33-3012",
+    "type": "Line item",
+    "employment_thousands_2025": 397.8
+  },
+  {
+    "source_row": 541,
+    "title": "Detectives and criminal investigators",
+    "code": "33-3021",
+    "type": "Line item",
+    "employment_thousands_2025": 120.5
+  },
+  {
+    "source_row": 542,
+    "title": "Fish and game wardens",
+    "code": "33-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 6.2
+  },
+  {
+    "source_row": 543,
+    "title": "Parking enforcement workers",
+    "code": "33-3041",
+    "type": "Line item",
+    "employment_thousands_2025": 9.4
+  },
+  {
+    "source_row": 544,
+    "title": "Police officers",
+    "code": "33-3050",
+    "type": "Summary",
+    "employment_thousands_2025": 697.6
+  },
+  {
+    "source_row": 545,
+    "title": "Police and sheriff's patrol officers",
+    "code": "33-3051",
+    "type": "Line item",
+    "employment_thousands_2025": 693.2
+  },
+  {
+    "source_row": 546,
+    "title": "Transit and railroad police",
+    "code": "33-3052",
+    "type": "Line item",
+    "employment_thousands_2025": 4.4
+  },
+  {
+    "source_row": 547,
+    "title": "Other protective service workers",
+    "code": "33-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 1826.4
+  },
+  {
+    "source_row": 548,
+    "title": "Animal control workers",
+    "code": "33-9011",
+    "type": "Line item",
+    "employment_thousands_2025": 13.8
+  },
+  {
+    "source_row": 549,
+    "title": "Private detectives and investigators",
+    "code": "33-9021",
+    "type": "Line item",
+    "employment_thousands_2025": 39.5
+  },
+  {
+    "source_row": 550,
+    "title": "Security guards and gambling surveillance officers",
+    "code": "33-9030",
+    "type": "Summary",
+    "employment_thousands_2025": 1304
+  },
+  {
+    "source_row": 551,
+    "title": "Gambling surveillance officers and gambling investigators",
+    "code": "33-9031",
+    "type": "Line item",
+    "employment_thousands_2025": 9.8
+  },
+  {
+    "source_row": 552,
+    "title": "Security guards",
+    "code": "33-9032",
+    "type": "Line item",
+    "employment_thousands_2025": 1294.3
+  },
+  {
+    "source_row": 553,
+    "title": "Miscellaneous protective service workers",
+    "code": "33-9090",
+    "type": "Summary",
+    "employment_thousands_2025": 469.1
+  },
+  {
+    "source_row": 554,
+    "title": "Crossing guards and flaggers",
+    "code": "33-9091",
+    "type": "Line item",
+    "employment_thousands_2025": 94.8
+  },
+  {
+    "source_row": 555,
+    "title": "Lifeguards, ski patrol, and other recreational protective service workers",
+    "code": "33-9092",
+    "type": "Line item",
+    "employment_thousands_2025": 162
+  },
+  {
+    "source_row": 556,
+    "title": "Transportation security screeners",
+    "code": "33-9093",
+    "type": "Line item",
+    "employment_thousands_2025": 53.5
+  },
+  {
+    "source_row": 557,
+    "title": "School bus monitors",
+    "code": "33-9094",
+    "type": "Line item",
+    "employment_thousands_2025": 76.7
+  },
+  {
+    "source_row": 558,
+    "title": "Protective service workers, all other",
+    "code": "33-9099",
+    "type": "Line item",
+    "employment_thousands_2025": 82.1
+  },
+  {
+    "source_row": 559,
+    "title": "Food preparation and serving related occupations",
+    "code": "35-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 13826.5
+  },
+  {
+    "source_row": 560,
+    "title": "Supervisors of food preparation and serving workers",
+    "code": "35-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 1456.7
+  },
+  {
+    "source_row": 561,
+    "title": "Chefs and head cooks",
+    "code": "35-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 220.3
+  },
+  {
+    "source_row": 562,
+    "title": "First-line supervisors of food preparation and serving workers",
+    "code": "35-1012",
+    "type": "Line item",
+    "employment_thousands_2025": 1236.4
+  },
+  {
+    "source_row": 563,
+    "title": "Cooks and food preparation workers",
+    "code": "35-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 3614.4
+  },
+  {
+    "source_row": 564,
+    "title": "Cooks",
+    "code": "35-2010",
+    "type": "Summary",
+    "employment_thousands_2025": 2705.8
+  },
+  {
+    "source_row": 565,
+    "title": "Cooks, fast food",
+    "code": "35-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 640.5
+  },
+  {
+    "source_row": 566,
+    "title": "Cooks, institution and cafeteria",
+    "code": "35-2012",
+    "type": "Line item",
+    "employment_thousands_2025": 454
+  },
+  {
+    "source_row": 567,
+    "title": "Cooks, private household",
+    "code": "35-2013",
+    "type": "Line item",
+    "employment_thousands_2025": 35.4
+  },
+  {
+    "source_row": 568,
+    "title": "Cooks, restaurant",
+    "code": "35-2014",
+    "type": "Line item",
+    "employment_thousands_2025": 1417.5
+  },
+  {
+    "source_row": 569,
+    "title": "Cooks, short order",
+    "code": "35-2015",
+    "type": "Line item",
+    "employment_thousands_2025": 138.7
+  },
+  {
+    "source_row": 570,
+    "title": "Cooks, all other",
+    "code": "35-2019",
+    "type": "Line item",
+    "employment_thousands_2025": 19.7
+  },
+  {
+    "source_row": 571,
+    "title": "Food preparation workers",
+    "code": "35-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 908.5
+  },
+  {
+    "source_row": 572,
+    "title": "Food and beverage serving workers",
+    "code": "35-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 7199.2
+  },
+  {
+    "source_row": 573,
+    "title": "Bartenders",
+    "code": "35-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 762.6
+  },
+  {
+    "source_row": 574,
+    "title": "Fast food and counter workers",
+    "code": "35-3023",
+    "type": "Line item",
+    "employment_thousands_2025": 3855.9
+  },
+  {
+    "source_row": 575,
+    "title": "Waiters and waitresses",
+    "code": "35-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 2284.4
+  },
+  {
+    "source_row": 576,
+    "title": "Food servers, nonrestaurant",
+    "code": "35-3041",
+    "type": "Line item",
+    "employment_thousands_2025": 296.3
+  },
+  {
+    "source_row": 577,
+    "title": "Other food preparation and serving related workers",
+    "code": "35-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 1556.3
+  },
+  {
+    "source_row": 578,
+    "title": "Dining room and cafeteria attendants and bartender helpers",
+    "code": "35-9011",
+    "type": "Line item",
+    "employment_thousands_2025": 546.6
+  },
+  {
+    "source_row": 579,
+    "title": "Dishwashers",
+    "code": "35-9021",
+    "type": "Line item",
+    "employment_thousands_2025": 480.4
+  },
+  {
+    "source_row": 580,
+    "title": "Hosts and hostesses, restaurant, lounge, and coffee shop",
+    "code": "35-9031",
+    "type": "Line item",
+    "employment_thousands_2025": 444.2
+  },
+  {
+    "source_row": 581,
+    "title": "Food preparation and serving related workers, all other",
+    "code": "35-9099",
+    "type": "Line item",
+    "employment_thousands_2025": 85.1
+  },
+  {
+    "source_row": 582,
+    "title": "Building and grounds cleaning and maintenance occupations",
+    "code": "37-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 5699.6
+  },
+  {
+    "source_row": 583,
+    "title": "Supervisors of building and grounds cleaning and maintenance workers",
+    "code": "37-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 508.4
+  },
+  {
+    "source_row": 584,
+    "title": "First-line supervisors of housekeeping and janitorial workers",
+    "code": "37-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 265.2
+  },
+  {
+    "source_row": 585,
+    "title": "First-line supervisors of landscaping, lawn service, and groundskeeping workers",
+    "code": "37-1012",
+    "type": "Line item",
+    "employment_thousands_2025": 243.3
+  },
+  {
+    "source_row": 586,
+    "title": "Building cleaning and pest control workers",
+    "code": "37-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 3891.9
+  },
+  {
+    "source_row": 587,
+    "title": "Building cleaning workers",
+    "code": "37-2010",
+    "type": "Summary",
+    "employment_thousands_2025": 3783.2
+  },
+  {
+    "source_row": 588,
+    "title": "Janitors and cleaners, except maids and housekeeping cleaners",
+    "code": "37-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 2432.6
+  },
+  {
+    "source_row": 589,
+    "title": "Maids and housekeeping cleaners",
+    "code": "37-2012",
+    "type": "Line item",
+    "employment_thousands_2025": 1332.1
+  },
+  {
+    "source_row": 590,
+    "title": "Building cleaning workers, all other",
+    "code": "37-2019",
+    "type": "Line item",
+    "employment_thousands_2025": 18.6
+  },
+  {
+    "source_row": 591,
+    "title": "Pest control workers",
+    "code": "37-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 108.7
+  },
+  {
+    "source_row": 592,
+    "title": "Grounds maintenance workers",
+    "code": "37-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 1299.2
+  },
+  {
+    "source_row": 593,
+    "title": "Landscaping and groundskeeping workers",
+    "code": "37-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 1188.6
+  },
+  {
+    "source_row": 594,
+    "title": "Pesticide handlers, sprayers, and applicators, vegetation",
+    "code": "37-3012",
+    "type": "Line item",
+    "employment_thousands_2025": 25.7
+  },
+  {
+    "source_row": 595,
+    "title": "Tree trimmers and pruners",
+    "code": "37-3013",
+    "type": "Line item",
+    "employment_thousands_2025": 70.6
+  },
+  {
+    "source_row": 596,
+    "title": "Grounds maintenance workers, all other",
+    "code": "37-3019",
+    "type": "Line item",
+    "employment_thousands_2025": 14.2
+  },
+  {
+    "source_row": 597,
+    "title": "Personal care and service occupations",
+    "code": "39-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 4487.3
+  },
+  {
+    "source_row": 598,
+    "title": "Supervisors of personal care and service workers",
+    "code": "39-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 259
+  },
+  {
+    "source_row": 599,
+    "title": "First-line supervisors of entertainment and recreation workers",
+    "code": "39-1010",
+    "type": "Summary",
+    "employment_thousands_2025": 136.5
+  },
+  {
+    "source_row": 600,
+    "title": "First-line supervisors of gambling services workers",
+    "code": "39-1013",
+    "type": "Line item",
+    "employment_thousands_2025": 27.2
+  },
+  {
+    "source_row": 601,
+    "title": "First-line supervisors of entertainment and recreation workers, except gambling services",
+    "code": "39-1014",
+    "type": "Line item",
+    "employment_thousands_2025": 109.3
+  },
+  {
+    "source_row": 602,
+    "title": "First-line supervisors of personal service workers",
+    "code": "39-1022",
+    "type": "Line item",
+    "employment_thousands_2025": 122.5
+  },
+  {
+    "source_row": 603,
+    "title": "Animal care and service workers",
+    "code": "39-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 413
+  },
+  {
+    "source_row": 604,
+    "title": "Animal trainers",
+    "code": "39-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 47.8
+  },
+  {
+    "source_row": 605,
+    "title": "Animal caretakers",
+    "code": "39-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 365.3
+  },
+  {
+    "source_row": 606,
+    "title": "Entertainment attendants and related workers",
+    "code": "39-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 678
+  },
+  {
+    "source_row": 607,
+    "title": "Gambling services workers",
+    "code": "39-3010",
+    "type": "Summary",
+    "employment_thousands_2025": 113.8
+  },
+  {
+    "source_row": 608,
+    "title": "Gambling dealers",
+    "code": "39-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 88.9
+  },
+  {
+    "source_row": 609,
+    "title": "Gambling and sports book writers and runners",
+    "code": "39-3012",
+    "type": "Line item",
+    "employment_thousands_2025": 9.6
+  },
+  {
+    "source_row": 610,
+    "title": "Gambling service workers, all other",
+    "code": "39-3019",
+    "type": "Line item",
+    "employment_thousands_2025": 15.3
+  },
+  {
+    "source_row": 611,
+    "title": "Motion picture projectionists",
+    "code": "39-3021",
+    "type": "Line item",
+    "employment_thousands_2025": 1.5
+  },
+  {
+    "source_row": 612,
+    "title": "Ushers, lobby attendants, and ticket takers",
+    "code": "39-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 124.5
+  },
+  {
+    "source_row": 613,
+    "title": "Miscellaneous entertainment attendants and related workers",
+    "code": "39-3090",
+    "type": "Summary",
+    "employment_thousands_2025": 438.3
+  },
+  {
+    "source_row": 614,
+    "title": "Amusement and recreation attendants",
+    "code": "39-3091",
+    "type": "Line item",
+    "employment_thousands_2025": 408.4
+  },
+  {
+    "source_row": 615,
+    "title": "Costume attendants",
+    "code": "39-3092",
+    "type": "Line item",
+    "employment_thousands_2025": 6.6
+  },
+  {
+    "source_row": 616,
+    "title": "Locker room, coatroom, and dressing room attendants",
+    "code": "39-3093",
+    "type": "Line item",
+    "employment_thousands_2025": 16
+  },
+  {
+    "source_row": 617,
+    "title": "Entertainment attendants and related workers, all other",
+    "code": "39-3099",
+    "type": "Line item",
+    "employment_thousands_2025": 7.2
+  },
+  {
+    "source_row": 618,
+    "title": "Funeral service workers",
+    "code": "39-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 64.9
+  },
+  {
+    "source_row": 619,
+    "title": "Embalmers and crematory operators",
+    "code": "39-4010",
+    "type": "Summary",
+    "employment_thousands_2025": 6.9
+  },
+  {
+    "source_row": 620,
+    "title": "Embalmers",
+    "code": "39-4011",
+    "type": "Line item",
+    "employment_thousands_2025": 3.9
+  },
+  {
+    "source_row": 621,
+    "title": "Crematory operators",
+    "code": "39-4012",
+    "type": "Line item",
+    "employment_thousands_2025": 3
+  },
+  {
+    "source_row": 622,
+    "title": "Funeral attendants",
+    "code": "39-4021",
+    "type": "Line item",
+    "employment_thousands_2025": 31.3
+  },
+  {
+    "source_row": 623,
+    "title": "Morticians, undertakers, and funeral arrangers",
+    "code": "39-4031",
+    "type": "Line item",
+    "employment_thousands_2025": 26.7
+  },
+  {
+    "source_row": 624,
+    "title": "Personal appearance workers",
+    "code": "39-5000",
+    "type": "Summary",
+    "employment_thousands_2025": 996.4
+  },
+  {
+    "source_row": 625,
+    "title": "Barbers, hairdressers, hairstylists and cosmetologists",
+    "code": "39-5010",
+    "type": "Summary",
+    "employment_thousands_2025": 670.8
+  },
+  {
+    "source_row": 626,
+    "title": "Barbers",
+    "code": "39-5011",
+    "type": "Line item",
+    "employment_thousands_2025": 75.8
+  },
+  {
+    "source_row": 627,
+    "title": "Hairdressers, hairstylists, and cosmetologists",
+    "code": "39-5012",
+    "type": "Line item",
+    "employment_thousands_2025": 595
+  },
+  {
+    "source_row": 628,
+    "title": "Miscellaneous personal appearance workers",
+    "code": "39-5090",
+    "type": "Summary",
+    "employment_thousands_2025": 325.6
+  },
+  {
+    "source_row": 629,
+    "title": "Makeup artists, theatrical and performance",
+    "code": "39-5091",
+    "type": "Line item",
+    "employment_thousands_2025": 4.3
+  },
+  {
+    "source_row": 630,
+    "title": "Manicurists and pedicurists",
+    "code": "39-5092",
+    "type": "Line item",
+    "employment_thousands_2025": 201.8
+  },
+  {
+    "source_row": 631,
+    "title": "Shampooers",
+    "code": "39-5093",
+    "type": "Line item",
+    "employment_thousands_2025": 15.4
+  },
+  {
+    "source_row": 632,
+    "title": "Skincare specialists",
+    "code": "39-5094",
+    "type": "Line item",
+    "employment_thousands_2025": 104.2
+  },
+  {
+    "source_row": 633,
+    "title": "Baggage porters, bellhops, and concierges",
+    "code": "39-6000",
+    "type": "Summary",
+    "employment_thousands_2025": 79.4
+  },
+  {
+    "source_row": 634,
+    "title": "Baggage porters and bellhops",
+    "code": "39-6011",
+    "type": "Line item",
+    "employment_thousands_2025": 29.2
+  },
+  {
+    "source_row": 635,
+    "title": "Concierges",
+    "code": "39-6012",
+    "type": "Line item",
+    "employment_thousands_2025": 50.2
+  },
+  {
+    "source_row": 636,
+    "title": "Tour and travel guides",
+    "code": "39-7000",
+    "type": "Summary",
+    "employment_thousands_2025": 62.2
+  },
+  {
+    "source_row": 637,
+    "title": "Tour and travel guides",
+    "code": "39-7010",
+    "type": "Line item",
+    "employment_thousands_2025": 62.2
+  },
+  {
+    "source_row": 638,
+    "title": "Other personal care and service workers",
+    "code": "39-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 1934.3
+  },
+  {
+    "source_row": 639,
+    "title": "Childcare workers",
+    "code": "39-9011",
+    "type": "Line item",
+    "employment_thousands_2025": 1010.3
+  },
+  {
+    "source_row": 640,
+    "title": "Recreation and fitness workers",
+    "code": "39-9030",
+    "type": "Summary",
+    "employment_thousands_2025": 735.3
+  },
+  {
+    "source_row": 641,
+    "title": "Exercise trainers and group fitness instructors",
+    "code": "39-9031",
+    "type": "Line item",
+    "employment_thousands_2025": 388.4
+  },
+  {
+    "source_row": 642,
+    "title": "Recreation workers",
+    "code": "39-9032",
+    "type": "Line item",
+    "employment_thousands_2025": 346.9
+  },
+  {
+    "source_row": 643,
+    "title": "Residential advisors",
+    "code": "39-9041",
+    "type": "Line item",
+    "employment_thousands_2025": 94.1
+  },
+  {
+    "source_row": 644,
+    "title": "Personal care and service workers, all other",
+    "code": "39-9099",
+    "type": "Line item",
+    "employment_thousands_2025": 94.6
+  },
+  {
+    "source_row": 645,
+    "title": "Sales and related occupations",
+    "code": "41-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 14533.2
+  },
+  {
+    "source_row": 646,
+    "title": "Supervisors of sales workers",
+    "code": "41-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 1731.8
+  },
+  {
+    "source_row": 647,
+    "title": "First-line supervisors of retail sales workers",
+    "code": "41-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 1419.8
+  },
+  {
+    "source_row": 648,
+    "title": "First-line supervisors of non-retail sales workers",
+    "code": "41-1012",
+    "type": "Line item",
+    "employment_thousands_2025": 311.9
+  },
+  {
+    "source_row": 649,
+    "title": "Retail sales workers",
+    "code": "41-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 7809.1
+  },
+  {
+    "source_row": 650,
+    "title": "Cashiers",
+    "code": "41-2010",
+    "type": "Summary",
+    "employment_thousands_2025": 3128.3
+  },
+  {
+    "source_row": 651,
+    "title": "Cashiers",
+    "code": "41-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 3106.3
+  },
+  {
+    "source_row": 652,
+    "title": "Gambling change persons and booth cashiers",
+    "code": "41-2012",
+    "type": "Line item",
+    "employment_thousands_2025": 22
+  },
+  {
+    "source_row": 653,
+    "title": "Counter and rental clerks and parts salespersons",
+    "code": "41-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 682.7
+  },
+  {
+    "source_row": 654,
+    "title": "Counter and rental clerks",
+    "code": "41-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 409.4
+  },
+  {
+    "source_row": 655,
+    "title": "Parts salespersons",
+    "code": "41-2022",
+    "type": "Line item",
+    "employment_thousands_2025": 273.3
+  },
+  {
+    "source_row": 656,
+    "title": "Retail salespersons",
+    "code": "41-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 3998.1
+  },
+  {
+    "source_row": 657,
+    "title": "Sales representatives, services",
+    "code": "41-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 2537.3
+  },
+  {
+    "source_row": 658,
+    "title": "Advertising sales agents",
+    "code": "41-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 99.3
+  },
+  {
+    "source_row": 659,
+    "title": "Insurance sales agents",
+    "code": "41-3021",
+    "type": "Line item",
+    "employment_thousands_2025": 572.6
+  },
+  {
+    "source_row": 660,
+    "title": "Securities, commodities, and financial services sales agents",
+    "code": "41-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 531
+  },
+  {
+    "source_row": 661,
+    "title": "Travel agents",
+    "code": "41-3041",
+    "type": "Line item",
+    "employment_thousands_2025": 61.5
+  },
+  {
+    "source_row": 662,
+    "title": "Sales representatives of services, except advertising, insurance, financial services, and travel",
+    "code": "41-3091",
+    "type": "Line item",
+    "employment_thousands_2025": 1272.7
+  },
+  {
+    "source_row": 663,
+    "title": "Sales representatives, wholesale and manufacturing",
+    "code": "41-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 1571.4
+  },
+  {
+    "source_row": 664,
+    "title": "Sales representatives, wholesale and manufacturing, technical and scientific products",
+    "code": "41-4011",
+    "type": "Line item",
+    "employment_thousands_2025": 292
+  },
+  {
+    "source_row": 665,
+    "title": "Sales representatives, wholesale and manufacturing, except technical and scientific products",
+    "code": "41-4012",
+    "type": "Line item",
+    "employment_thousands_2025": 1279.4
+  },
+  {
+    "source_row": 666,
+    "title": "Other sales and related workers",
+    "code": "41-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 883.7
+  },
+  {
+    "source_row": 667,
+    "title": "Models, demonstrators, and product promoters",
+    "code": "41-9010",
+    "type": "Summary",
+    "employment_thousands_2025": 74.5
+  },
+  {
+    "source_row": 668,
+    "title": "Demonstrators and product promoters",
+    "code": "41-9011",
+    "type": "Line item",
+    "employment_thousands_2025": 70.4
+  },
+  {
+    "source_row": 669,
+    "title": "Models",
+    "code": "41-9012",
+    "type": "Line item",
+    "employment_thousands_2025": 4.2
+  },
+  {
+    "source_row": 670,
+    "title": "Real estate brokers and sales agents",
+    "code": "41-9020",
+    "type": "Summary",
+    "employment_thousands_2025": 530.6
+  },
+  {
+    "source_row": 671,
+    "title": "Real estate brokers",
+    "code": "41-9021",
+    "type": "Line item",
+    "employment_thousands_2025": 103.5
+  },
+  {
+    "source_row": 672,
+    "title": "Real estate sales agents",
+    "code": "41-9022",
+    "type": "Line item",
+    "employment_thousands_2025": 427
+  },
+  {
+    "source_row": 673,
+    "title": "Sales engineers",
+    "code": "41-9031",
+    "type": "Line item",
+    "employment_thousands_2025": 51.6
+  },
+  {
+    "source_row": 674,
+    "title": "Telemarketers",
+    "code": "41-9041",
+    "type": "Line item",
+    "employment_thousands_2025": 60.9
+  },
+  {
+    "source_row": 675,
+    "title": "Miscellaneous sales and related workers",
+    "code": "41-9090",
+    "type": "Summary",
+    "employment_thousands_2025": 166.2
+  },
+  {
+    "source_row": 676,
+    "title": "Door-to-door sales workers, news and street vendors, and related workers",
+    "code": "41-9091",
+    "type": "Line item",
+    "employment_thousands_2025": 50.9
+  },
+  {
+    "source_row": 677,
+    "title": "Sales and related workers, all other",
+    "code": "41-9099",
+    "type": "Line item",
+    "employment_thousands_2025": 115.3
+  },
+  {
+    "source_row": 678,
+    "title": "Office and administrative support occupations",
+    "code": "43-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 18792.7
+  },
+  {
+    "source_row": 679,
+    "title": "Supervisors of office and administrative support workers",
+    "code": "43-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 1506.1
+  },
+  {
+    "source_row": 680,
+    "title": "First-line supervisors of office and administrative support workers",
+    "code": "43-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 1506.1
+  },
+  {
+    "source_row": 681,
+    "title": "Communications equipment operators",
+    "code": "43-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 40.1
+  },
+  {
+    "source_row": 682,
+    "title": "Switchboard operators, including answering service",
+    "code": "43-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 35.4
+  },
+  {
+    "source_row": 683,
+    "title": "Telephone operators",
+    "code": "43-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 3.5
+  },
+  {
+    "source_row": 684,
+    "title": "Communications equipment operators, all other",
+    "code": "43-2099",
+    "type": "Line item",
+    "employment_thousands_2025": 1.2
+  },
+  {
+    "source_row": 685,
+    "title": "Financial clerks",
+    "code": "43-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 2719.8
+  },
+  {
+    "source_row": 686,
+    "title": "Bill and account collectors",
+    "code": "43-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 160.2
+  },
+  {
+    "source_row": 687,
+    "title": "Billing and posting clerks",
+    "code": "43-3021",
+    "type": "Line item",
+    "employment_thousands_2025": 418
+  },
+  {
+    "source_row": 688,
+    "title": "Bookkeeping, accounting, and auditing clerks",
+    "code": "43-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 1532.4
+  },
+  {
+    "source_row": 689,
+    "title": "Gambling cage workers",
+    "code": "43-3041",
+    "type": "Line item",
+    "employment_thousands_2025": 15
+  },
+  {
+    "source_row": 690,
+    "title": "Payroll and timekeeping clerks",
+    "code": "43-3051",
+    "type": "Line item",
+    "employment_thousands_2025": 159.6
+  },
+  {
+    "source_row": 691,
+    "title": "Procurement clerks",
+    "code": "43-3061",
+    "type": "Line item",
+    "employment_thousands_2025": 56.9
+  },
+  {
+    "source_row": 692,
+    "title": "Tellers",
+    "code": "43-3071",
+    "type": "Line item",
+    "employment_thousands_2025": 339.2
+  },
+  {
+    "source_row": 693,
+    "title": "Financial clerks, all other",
+    "code": "43-3099",
+    "type": "Line item",
+    "employment_thousands_2025": 38.5
+  },
+  {
+    "source_row": 694,
+    "title": "Information and record clerks",
+    "code": "43-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 5246.8
+  },
+  {
+    "source_row": 695,
+    "title": "Brokerage clerks",
+    "code": "43-4011",
+    "type": "Line item",
+    "employment_thousands_2025": 36.9
+  },
+  {
+    "source_row": 696,
+    "title": "Correspondence clerks",
+    "code": "43-4021",
+    "type": "Line item",
+    "employment_thousands_2025": 4.8
+  },
+  {
+    "source_row": 697,
+    "title": "Court, municipal, and license clerks",
+    "code": "43-4031",
+    "type": "Line item",
+    "employment_thousands_2025": 187
+  },
+  {
+    "source_row": 698,
+    "title": "Credit authorizers, checkers, and clerks",
+    "code": "43-4041",
+    "type": "Line item",
+    "employment_thousands_2025": 12.2
+  },
+  {
+    "source_row": 699,
+    "title": "Customer service representatives",
+    "code": "43-4051",
+    "type": "Line item",
+    "employment_thousands_2025": 2666
+  },
+  {
+    "source_row": 700,
+    "title": "Eligibility interviewers, government programs",
+    "code": "43-4061",
+    "type": "Line item",
+    "employment_thousands_2025": 162.8
+  },
+  {
+    "source_row": 701,
+    "title": "File clerks",
+    "code": "43-4071",
+    "type": "Line item",
+    "employment_thousands_2025": 76.2
+  },
+  {
+    "source_row": 702,
+    "title": "Hotel, motel, and resort desk clerks",
+    "code": "43-4081",
+    "type": "Line item",
+    "employment_thousands_2025": 264.6
+  },
+  {
+    "source_row": 703,
+    "title": "Interviewers, except eligibility and loan",
+    "code": "43-4111",
+    "type": "Line item",
+    "employment_thousands_2025": 153.6
+  },
+  {
+    "source_row": 704,
+    "title": "Library assistants, clerical",
+    "code": "43-4121",
+    "type": "Line item",
+    "employment_thousands_2025": 89.5
+  },
+  {
+    "source_row": 705,
+    "title": "Loan interviewers and clerks",
+    "code": "43-4131",
+    "type": "Line item",
+    "employment_thousands_2025": 169.1
+  },
+  {
+    "source_row": 706,
+    "title": "New accounts clerks",
+    "code": "43-4141",
+    "type": "Line item",
+    "employment_thousands_2025": 37.9
+  },
+  {
+    "source_row": 707,
+    "title": "Order clerks",
+    "code": "43-4151",
+    "type": "Line item",
+    "employment_thousands_2025": 78.9
+  },
+  {
+    "source_row": 708,
+    "title": "Human resources assistants, except payroll and timekeeping",
+    "code": "43-4161",
+    "type": "Line item",
+    "employment_thousands_2025": 96.5
+  },
+  {
+    "source_row": 709,
+    "title": "Receptionists and information clerks",
+    "code": "43-4171",
+    "type": "Line item",
+    "employment_thousands_2025": 947.5
+  },
+  {
+    "source_row": 710,
+    "title": "Reservation and transportation ticket agents and travel clerks",
+    "code": "43-4181",
+    "type": "Line item",
+    "employment_thousands_2025": 120.1
+  },
+  {
+    "source_row": 711,
+    "title": "Information and record clerks, all other",
+    "code": "43-4199",
+    "type": "Line item",
+    "employment_thousands_2025": 143.1
+  },
+  {
+    "source_row": 712,
+    "title": "Material recording, scheduling, dispatching, and distributing workers",
+    "code": "43-5000",
+    "type": "Summary",
+    "employment_thousands_2025": 2420
+  },
+  {
+    "source_row": 713,
+    "title": "Cargo and freight agents",
+    "code": "43-5011",
+    "type": "Line item",
+    "employment_thousands_2025": 100.3
+  },
+  {
+    "source_row": 714,
+    "title": "Couriers and messengers",
+    "code": "43-5021",
+    "type": "Line item",
+    "employment_thousands_2025": 228.9
+  },
+  {
+    "source_row": 715,
+    "title": "Dispatchers",
+    "code": "43-5030",
+    "type": "Summary",
+    "employment_thousands_2025": 309.2
+  },
+  {
+    "source_row": 716,
+    "title": "Public safety telecommunicators",
+    "code": "43-5031",
+    "type": "Line item",
+    "employment_thousands_2025": 105.6
+  },
+  {
+    "source_row": 717,
+    "title": "Dispatchers, except police, fire, and ambulance",
+    "code": "43-5032",
+    "type": "Line item",
+    "employment_thousands_2025": 203.5
+  },
+  {
+    "source_row": 718,
+    "title": "Meter readers, utilities",
+    "code": "43-5041",
+    "type": "Line item",
+    "employment_thousands_2025": 19.7
+  },
+  {
+    "source_row": 719,
+    "title": "Postal service workers",
+    "code": "43-5050",
+    "type": "Summary",
+    "employment_thousands_2025": 488.5
+  },
+  {
+    "source_row": 720,
+    "title": "Postal service clerks",
+    "code": "43-5051",
+    "type": "Line item",
+    "employment_thousands_2025": 70.9
+  },
+  {
+    "source_row": 721,
+    "title": "Postal service mail carriers",
+    "code": "43-5052",
+    "type": "Line item",
+    "employment_thousands_2025": 316.4
+  },
+  {
+    "source_row": 722,
+    "title": "Postal service mail sorters, processors, and processing machine operators",
+    "code": "43-5053",
+    "type": "Line item",
+    "employment_thousands_2025": 101.2
+  },
+  {
+    "source_row": 723,
+    "title": "Production, planning, and expediting clerks",
+    "code": "43-5061",
+    "type": "Line item",
+    "employment_thousands_2025": 392.1
+  },
+  {
+    "source_row": 724,
+    "title": "Shipping, receiving, and inventory clerks",
+    "code": "43-5071",
+    "type": "Line item",
+    "employment_thousands_2025": 827.7
+  },
+  {
+    "source_row": 725,
+    "title": "Weighers, measurers, checkers, and samplers, recordkeeping",
+    "code": "43-5111",
+    "type": "Line item",
+    "employment_thousands_2025": 53.6
+  },
+  {
+    "source_row": 726,
+    "title": "Secretaries and administrative assistants",
+    "code": "43-6000",
+    "type": "Summary",
+    "employment_thousands_2025": 3515.6
+  },
+  {
+    "source_row": 727,
+    "title": "Executive secretaries and executive administrative assistants",
+    "code": "43-6011",
+    "type": "Line item",
+    "employment_thousands_2025": 489.3
+  },
+  {
+    "source_row": 728,
+    "title": "Legal secretaries and administrative assistants",
+    "code": "43-6012",
+    "type": "Line item",
+    "employment_thousands_2025": 157.6
+  },
+  {
+    "source_row": 729,
+    "title": "Medical secretaries and administrative assistants",
+    "code": "43-6013",
+    "type": "Line item",
+    "employment_thousands_2025": 979
+  },
+  {
+    "source_row": 730,
+    "title": "Secretaries and administrative assistants, except legal, medical, and executive",
+    "code": "43-6014",
+    "type": "Line item",
+    "employment_thousands_2025": 1889.8
+  },
+  {
+    "source_row": 731,
+    "title": "Other office and administrative support workers",
+    "code": "43-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 3344.2
+  },
+  {
+    "source_row": 732,
+    "title": "Data entry and information processing workers",
+    "code": "43-9020",
+    "type": "Summary",
+    "employment_thousands_2025": 172.2
+  },
+  {
+    "source_row": 733,
+    "title": "Data entry keyers",
+    "code": "43-9021",
+    "type": "Line item",
+    "employment_thousands_2025": 131.8
+  },
+  {
+    "source_row": 734,
+    "title": "Word processors and typists",
+    "code": "43-9022",
+    "type": "Line item",
+    "employment_thousands_2025": 40.4
+  },
+  {
+    "source_row": 735,
+    "title": "Desktop publishers",
+    "code": "43-9031",
+    "type": "Line item",
+    "employment_thousands_2025": 4.6
+  },
+  {
+    "source_row": 736,
+    "title": "Insurance claims and policy processing clerks",
+    "code": "43-9041",
+    "type": "Line item",
+    "employment_thousands_2025": 239.1
+  },
+  {
+    "source_row": 737,
+    "title": "Mail clerks and mail machine operators, except postal service",
+    "code": "43-9051",
+    "type": "Line item",
+    "employment_thousands_2025": 57.8
+  },
+  {
+    "source_row": 738,
+    "title": "Office clerks, general",
+    "code": "43-9061",
+    "type": "Line item",
+    "employment_thousands_2025": 2600
+  },
+  {
+    "source_row": 739,
+    "title": "Office machine operators, except computer",
+    "code": "43-9071",
+    "type": "Line item",
+    "employment_thousands_2025": 25.8
+  },
+  {
+    "source_row": 740,
+    "title": "Proofreaders and copy markers",
+    "code": "43-9081",
+    "type": "Line item",
+    "employment_thousands_2025": 8.5
+  },
+  {
+    "source_row": 741,
+    "title": "Statistical assistants",
+    "code": "43-9111",
+    "type": "Line item",
+    "employment_thousands_2025": 5.1
+  },
+  {
+    "source_row": 742,
+    "title": "Office and administrative support workers, all other",
+    "code": "43-9199",
+    "type": "Line item",
+    "employment_thousands_2025": 231.1
+  },
+  {
+    "source_row": 743,
+    "title": "Farming, fishing, and forestry occupations",
+    "code": "45-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 1036
+  },
+  {
+    "source_row": 744,
+    "title": "Supervisors of farming, fishing, and forestry workers",
+    "code": "45-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 57.6
+  },
+  {
+    "source_row": 745,
+    "title": "First-line supervisors of farming, fishing, and forestry workers",
+    "code": "45-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 57.6
+  },
+  {
+    "source_row": 746,
+    "title": "Agricultural workers",
+    "code": "45-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 895.1
+  },
+  {
+    "source_row": 747,
+    "title": "Agricultural inspectors",
+    "code": "45-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 17.8
+  },
+  {
+    "source_row": 748,
+    "title": "Animal breeders",
+    "code": "45-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 6.9
+  },
+  {
+    "source_row": 749,
+    "title": "Graders and sorters, agricultural products",
+    "code": "45-2041",
+    "type": "Line item",
+    "employment_thousands_2025": 45.4
+  },
+  {
+    "source_row": 750,
+    "title": "Miscellaneous agricultural workers",
+    "code": "45-2090",
+    "type": "Summary",
+    "employment_thousands_2025": 825
+  },
+  {
+    "source_row": 751,
+    "title": "Agricultural equipment operators",
+    "code": "45-2091",
+    "type": "Line item",
+    "employment_thousands_2025": 66.9
+  },
+  {
+    "source_row": 752,
+    "title": "Farmworkers and laborers, crop, nursery, and greenhouse",
+    "code": "45-2092",
+    "type": "Line item",
+    "employment_thousands_2025": 546.8
+  },
+  {
+    "source_row": 753,
+    "title": "Farmworkers, farm, ranch, and aquacultural animals",
+    "code": "45-2093",
+    "type": "Line item",
+    "employment_thousands_2025": 202.1
+  },
+  {
+    "source_row": 754,
+    "title": "Agricultural workers, all other",
+    "code": "45-2099",
+    "type": "Line item",
+    "employment_thousands_2025": 9.3
+  },
+  {
+    "source_row": 755,
+    "title": "Fishing and hunting workers",
+    "code": "45-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 28.2
+  },
+  {
+    "source_row": 756,
+    "title": "Fishing and hunting workers",
+    "code": "45-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 28.2
+  },
+  {
+    "source_row": 757,
+    "title": "Forest, conservation, and logging workers",
+    "code": "45-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 55.1
+  },
+  {
+    "source_row": 758,
+    "title": "Forest and conservation workers",
+    "code": "45-4011",
+    "type": "Line item",
+    "employment_thousands_2025": 14.7
+  },
+  {
+    "source_row": 759,
+    "title": "Logging workers",
+    "code": "45-4020",
+    "type": "Summary",
+    "employment_thousands_2025": 40.4
+  },
+  {
+    "source_row": 760,
+    "title": "Fallers",
+    "code": "45-4021",
+    "type": "Line item",
+    "employment_thousands_2025": 4.3
+  },
+  {
+    "source_row": 761,
+    "title": "Logging equipment operators",
+    "code": "45-4022",
+    "type": "Line item",
+    "employment_thousands_2025": 29.3
+  },
+  {
+    "source_row": 762,
+    "title": "Log graders and scalers",
+    "code": "45-4023",
+    "type": "Line item",
+    "employment_thousands_2025": 4.4
+  },
+  {
+    "source_row": 763,
+    "title": "Logging workers, all other",
+    "code": "45-4029",
+    "type": "Line item",
+    "employment_thousands_2025": 2.4
+  },
+  {
+    "source_row": 764,
+    "title": "Construction and extraction occupations",
+    "code": "47-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 7492.9
+  },
+  {
+    "source_row": 765,
+    "title": "Supervisors of construction and extraction workers",
+    "code": "47-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 913.3
+  },
+  {
+    "source_row": 766,
+    "title": "First-line supervisors of construction trades and extraction workers",
+    "code": "47-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 913.3
+  },
+  {
+    "source_row": 767,
+    "title": "Construction trades workers",
+    "code": "47-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 5678.1
+  },
+  {
+    "source_row": 768,
+    "title": "Boilermakers",
+    "code": "47-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 10.2
+  },
+  {
+    "source_row": 769,
+    "title": "Brickmasons, blockmasons, and stonemasons",
+    "code": "47-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 71.8
+  },
+  {
+    "source_row": 770,
+    "title": "Brickmasons and blockmasons",
+    "code": "47-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 62.4
+  },
+  {
+    "source_row": 771,
+    "title": "Stonemasons",
+    "code": "47-2022",
+    "type": "Line item",
+    "employment_thousands_2025": 9.3
+  },
+  {
+    "source_row": 772,
+    "title": "Carpenters",
+    "code": "47-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 889.7
+  },
+  {
+    "source_row": 773,
+    "title": "Carpet, floor, and tile installers and finishers",
+    "code": "47-2040",
+    "type": "Summary",
+    "employment_thousands_2025": 97
+  },
+  {
+    "source_row": 774,
+    "title": "Carpet installers",
+    "code": "47-2041",
+    "type": "Line item",
+    "employment_thousands_2025": 17.4
+  },
+  {
+    "source_row": 775,
+    "title": "Floor layers, except carpet, wood, and hard tiles",
+    "code": "47-2042",
+    "type": "Line item",
+    "employment_thousands_2025": 29.8
+  },
+  {
+    "source_row": 776,
+    "title": "Floor sanders and finishers",
+    "code": "47-2043",
+    "type": "Line item",
+    "employment_thousands_2025": 4.7
+  },
+  {
+    "source_row": 777,
+    "title": "Tile and stone setters",
+    "code": "47-2044",
+    "type": "Line item",
+    "employment_thousands_2025": 45.2
+  },
+  {
+    "source_row": 778,
+    "title": "Cement masons, concrete finishers, and terrazzo workers",
+    "code": "47-2050",
+    "type": "Summary",
+    "employment_thousands_2025": 206
+  },
+  {
+    "source_row": 779,
+    "title": "Cement masons and concrete finishers",
+    "code": "47-2051",
+    "type": "Line item",
+    "employment_thousands_2025": 204.8
+  },
+  {
+    "source_row": 780,
+    "title": "Terrazzo workers and finishers",
+    "code": "47-2053",
+    "type": "Line item",
+    "employment_thousands_2025": 1.2
+  },
+  {
+    "source_row": 781,
+    "title": "Construction laborers",
+    "code": "47-2061",
+    "type": "Line item",
+    "employment_thousands_2025": 1489.3
+  },
+  {
+    "source_row": 782,
+    "title": "Construction equipment operators",
+    "code": "47-2070",
+    "type": "Summary",
+    "employment_thousands_2025": 534.1
+  },
+  {
+    "source_row": 783,
+    "title": "Paving, surfacing, and tamping equipment operators",
+    "code": "47-2071",
+    "type": "Line item",
+    "employment_thousands_2025": 42.3
+  },
+  {
+    "source_row": 784,
+    "title": "Pile driver operators",
+    "code": "47-2072",
+    "type": "Line item",
+    "employment_thousands_2025": 2.3
+  },
+  {
+    "source_row": 785,
+    "title": "Operating engineers and other construction equipment operators",
+    "code": "47-2073",
+    "type": "Line item",
+    "employment_thousands_2025": 489.5
+  },
+  {
+    "source_row": 786,
+    "title": "Drywall installers, ceiling tile installers, and tapers",
+    "code": "47-2080",
+    "type": "Summary",
+    "employment_thousands_2025": 118
+  },
+  {
+    "source_row": 787,
+    "title": "Drywall and ceiling tile installers",
+    "code": "47-2081",
+    "type": "Line item",
+    "employment_thousands_2025": 102.2
+  },
+  {
+    "source_row": 788,
+    "title": "Tapers",
+    "code": "47-2082",
+    "type": "Line item",
+    "employment_thousands_2025": 15.8
+  },
+  {
+    "source_row": 789,
+    "title": "Electricians",
+    "code": "47-2111",
+    "type": "Line item",
+    "employment_thousands_2025": 821
+  },
+  {
+    "source_row": 790,
+    "title": "Glaziers",
+    "code": "47-2121",
+    "type": "Line item",
+    "employment_thousands_2025": 59.2
+  },
+  {
+    "source_row": 791,
+    "title": "Insulation workers",
+    "code": "47-2130",
+    "type": "Summary",
+    "employment_thousands_2025": 71.9
+  },
+  {
+    "source_row": 792,
+    "title": "Insulation workers, floor, ceiling, and wall",
+    "code": "47-2131",
+    "type": "Line item",
+    "employment_thousands_2025": 45.1
+  },
+  {
+    "source_row": 793,
+    "title": "Insulation workers, mechanical",
+    "code": "47-2132",
+    "type": "Line item",
+    "employment_thousands_2025": 26.7
+  },
+  {
+    "source_row": 794,
+    "title": "Painters and paperhangers",
+    "code": "47-2140",
+    "type": "Summary",
+    "employment_thousands_2025": 329.2
+  },
+  {
+    "source_row": 795,
+    "title": "Painters, construction and maintenance",
+    "code": "47-2141",
+    "type": "Line item",
+    "employment_thousands_2025": 326.9
+  },
+  {
+    "source_row": 796,
+    "title": "Paperhangers",
+    "code": "47-2142",
+    "type": "Line item",
+    "employment_thousands_2025": 2.3
+  },
+  {
+    "source_row": 797,
+    "title": "Pipelayers, plumbers, pipefitters, and steamfitters",
+    "code": "47-2150",
+    "type": "Summary",
+    "employment_thousands_2025": 543.9
+  },
+  {
+    "source_row": 798,
+    "title": "Pipelayers",
+    "code": "47-2151",
+    "type": "Line item",
+    "employment_thousands_2025": 33.2
+  },
+  {
+    "source_row": 799,
+    "title": "Plumbers, pipefitters, and steamfitters",
+    "code": "47-2152",
+    "type": "Line item",
+    "employment_thousands_2025": 510.6
+  },
+  {
+    "source_row": 800,
+    "title": "Plasterers and stucco masons",
+    "code": "47-2161",
+    "type": "Line item",
+    "employment_thousands_2025": 22.9
+  },
+  {
+    "source_row": 801,
+    "title": "Reinforcing iron and rebar workers",
+    "code": "47-2171",
+    "type": "Line item",
+    "employment_thousands_2025": 16.6
+  },
+  {
+    "source_row": 802,
+    "title": "Roofers",
+    "code": "47-2181",
+    "type": "Line item",
+    "employment_thousands_2025": 166.9
+  },
+  {
+    "source_row": 803,
+    "title": "Sheet metal workers",
+    "code": "47-2211",
+    "type": "Line item",
+    "employment_thousands_2025": 131.1
+  },
+  {
+    "source_row": 804,
+    "title": "Structural iron and steel workers",
+    "code": "47-2221",
+    "type": "Line item",
+    "employment_thousands_2025": 68.3
+  },
+  {
+    "source_row": 805,
+    "title": "Solar photovoltaic installers",
+    "code": "47-2231",
+    "type": "Line item",
+    "employment_thousands_2025": 31.1
+  },
+  {
+    "source_row": 806,
+    "title": "Helpers, construction trades",
+    "code": "47-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 185.1
+  },
+  {
+    "source_row": 807,
+    "title": "Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",
+    "code": "47-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 14.1
+  },
+  {
+    "source_row": 808,
+    "title": "Helpers--carpenters",
+    "code": "47-3012",
+    "type": "Line item",
+    "employment_thousands_2025": 21.9
+  },
+  {
+    "source_row": 809,
+    "title": "Helpers--electricians",
+    "code": "47-3013",
+    "type": "Line item",
+    "employment_thousands_2025": 65
+  },
+  {
+    "source_row": 810,
+    "title": "Helpers--painters, paperhangers, plasterers, and stucco masons",
+    "code": "47-3014",
+    "type": "Line item",
+    "employment_thousands_2025": 7.6
+  },
+  {
+    "source_row": 811,
+    "title": "Helpers--pipelayers, plumbers, pipefitters, and steamfitters",
+    "code": "47-3015",
+    "type": "Line item",
+    "employment_thousands_2025": 45.3
+  },
+  {
+    "source_row": 812,
+    "title": "Helpers--roofers",
+    "code": "47-3016",
+    "type": "Line item",
+    "employment_thousands_2025": 6.1
+  },
+  {
+    "source_row": 813,
+    "title": "Helpers, construction trades, all other",
+    "code": "47-3019",
+    "type": "Line item",
+    "employment_thousands_2025": 25.2
+  },
+  {
+    "source_row": 814,
+    "title": "Other construction and related workers",
+    "code": "47-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 502.6
+  },
+  {
+    "source_row": 815,
+    "title": "Construction and building inspectors",
+    "code": "47-4011",
+    "type": "Line item",
+    "employment_thousands_2025": 153.9
+  },
+  {
+    "source_row": 816,
+    "title": "Elevator and escalator installers and repairers",
+    "code": "47-4021",
+    "type": "Line item",
+    "employment_thousands_2025": 24.7
+  },
+  {
+    "source_row": 817,
+    "title": "Fence erectors",
+    "code": "47-4031",
+    "type": "Line item",
+    "employment_thousands_2025": 30.6
+  },
+  {
+    "source_row": 818,
+    "title": "Hazardous materials removal workers",
+    "code": "47-4041",
+    "type": "Line item",
+    "employment_thousands_2025": 52.7
+  },
+  {
+    "source_row": 819,
+    "title": "Highway maintenance workers",
+    "code": "47-4051",
+    "type": "Line item",
+    "employment_thousands_2025": 161.8
+  },
+  {
+    "source_row": 820,
+    "title": "Rail-track laying and maintenance equipment operators",
+    "code": "47-4061",
+    "type": "Line item",
+    "employment_thousands_2025": 17.4
+  },
+  {
+    "source_row": 821,
+    "title": "Septic tank servicers and sewer pipe cleaners",
+    "code": "47-4071",
+    "type": "Line item",
+    "employment_thousands_2025": 31.9
+  },
+  {
+    "source_row": 822,
+    "title": "Miscellaneous construction and related workers",
+    "code": "47-4090",
+    "type": "Line item",
+    "employment_thousands_2025": 29.5
+  },
+  {
+    "source_row": 823,
+    "title": "Extraction workers",
+    "code": "47-5000",
+    "type": "Summary",
+    "employment_thousands_2025": 213.8
+  },
+  {
+    "source_row": 824,
+    "title": "Derrick, rotary drill, and service unit operators, oil and gas",
+    "code": "47-5010",
+    "type": "Summary",
+    "employment_thousands_2025": 67.3
+  },
+  {
+    "source_row": 825,
+    "title": "Derrick operators, oil and gas",
+    "code": "47-5011",
+    "type": "Line item",
+    "employment_thousands_2025": 10.7
+  },
+  {
+    "source_row": 826,
+    "title": "Rotary drill operators, oil and gas",
+    "code": "47-5012",
+    "type": "Line item",
+    "employment_thousands_2025": 12.7
+  },
+  {
+    "source_row": 827,
+    "title": "Service unit operators, oil and gas",
+    "code": "47-5013",
+    "type": "Line item",
+    "employment_thousands_2025": 43.8
+  },
+  {
+    "source_row": 828,
+    "title": "Surface mining machine operators and earth drillers",
+    "code": "47-5020",
+    "type": "Summary",
+    "employment_thousands_2025": 54.1
+  },
+  {
+    "source_row": 829,
+    "title": "Excavating and loading machine and dragline operators, surface mining",
+    "code": "47-5022",
+    "type": "Line item",
+    "employment_thousands_2025": 34.7
+  },
+  {
+    "source_row": 830,
+    "title": "Earth drillers, except oil and gas",
+    "code": "47-5023",
+    "type": "Line item",
+    "employment_thousands_2025": 19.5
+  },
+  {
+    "source_row": 831,
+    "title": "Explosives workers, ordnance handling experts, and blasters",
+    "code": "47-5032",
+    "type": "Line item",
+    "employment_thousands_2025": 5.2
+  },
+  {
+    "source_row": 832,
+    "title": "Underground mining machine operators",
+    "code": "47-5040",
+    "type": "Summary",
+    "employment_thousands_2025": 25.3
+  },
+  {
+    "source_row": 833,
+    "title": "Continuous mining machine operators",
+    "code": "47-5041",
+    "type": "Line item",
+    "employment_thousands_2025": 14
+  },
+  {
+    "source_row": 834,
+    "title": "Roof bolters, mining",
+    "code": "47-5043",
+    "type": "Line item",
+    "employment_thousands_2025": 2.2
+  },
+  {
+    "source_row": 835,
+    "title": "Loading and moving machine operators, underground mining",
+    "code": "47-5044",
+    "type": "Line item",
+    "employment_thousands_2025": 5.9
+  },
+  {
+    "source_row": 836,
+    "title": "Underground mining machine operators, all other",
+    "code": "47-5049",
+    "type": "Line item",
+    "employment_thousands_2025": 3.2
+  },
+  {
+    "source_row": 837,
+    "title": "Rock splitters, quarry",
+    "code": "47-5051",
+    "type": "Line item",
+    "employment_thousands_2025": 3.5
+  },
+  {
+    "source_row": 838,
+    "title": "Roustabouts, oil and gas",
+    "code": "47-5071",
+    "type": "Line item",
+    "employment_thousands_2025": 45.5
+  },
+  {
+    "source_row": 839,
+    "title": "Helpers--extraction workers",
+    "code": "47-5081",
+    "type": "Line item",
+    "employment_thousands_2025": 7.1
+  },
+  {
+    "source_row": 840,
+    "title": "Extraction workers, all other",
+    "code": "47-5099",
+    "type": "Line item",
+    "employment_thousands_2025": 5.9
+  },
+  {
+    "source_row": 841,
+    "title": "Installation, maintenance, and repair occupations",
+    "code": "49-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 6494.4
+  },
+  {
+    "source_row": 842,
+    "title": "Supervisors of installation, maintenance, and repair workers",
+    "code": "49-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 629
+  },
+  {
+    "source_row": 843,
+    "title": "First-line supervisors of mechanics, installers, and repairers",
+    "code": "49-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 629
+  },
+  {
+    "source_row": 844,
+    "title": "Electrical and electronic equipment mechanics, installers, and repairers",
+    "code": "49-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 472.6
+  },
+  {
+    "source_row": 845,
+    "title": "Computer, automated teller, and office machine repairers",
+    "code": "49-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 72.1
+  },
+  {
+    "source_row": 846,
+    "title": "Radio and telecommunications equipment installers and repairers",
+    "code": "49-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 154.4
+  },
+  {
+    "source_row": 847,
+    "title": "Radio, cellular, and tower equipment installers and repairers",
+    "code": "49-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 11.3
+  },
+  {
+    "source_row": 848,
+    "title": "Telecommunications equipment installers and repairers, except line installers",
+    "code": "49-2022",
+    "type": "Line item",
+    "employment_thousands_2025": 143.1
+  },
+  {
+    "source_row": 849,
+    "title": "Miscellaneous electrical and electronic equipment mechanics, installers, and repairers",
+    "code": "49-2090",
+    "type": "Summary",
+    "employment_thousands_2025": 246.1
+  },
+  {
+    "source_row": 850,
+    "title": "Avionics technicians",
+    "code": "49-2091",
+    "type": "Line item",
+    "employment_thousands_2025": 19.8
+  },
+  {
+    "source_row": 851,
+    "title": "Electric motor, power tool, and related repairers",
+    "code": "49-2092",
+    "type": "Line item",
+    "employment_thousands_2025": 16.1
+  },
+  {
+    "source_row": 852,
+    "title": "Electrical and electronics installers and repairers, transportation equipment",
+    "code": "49-2093",
+    "type": "Line item",
+    "employment_thousands_2025": 6.6
+  },
+  {
+    "source_row": 853,
+    "title": "Electrical and electronics repairers, commercial and industrial equipment",
+    "code": "49-2094",
+    "type": "Line item",
+    "employment_thousands_2025": 65.5
+  },
+  {
+    "source_row": 854,
+    "title": "Electrical and electronics repairers, powerhouse, substation, and relay",
+    "code": "49-2095",
+    "type": "Line item",
+    "employment_thousands_2025": 20.9
+  },
+  {
+    "source_row": 855,
+    "title": "Electronic equipment installers and repairers, motor vehicles",
+    "code": "49-2096",
+    "type": "Line item",
+    "employment_thousands_2025": 8.6
+  },
+  {
+    "source_row": 856,
+    "title": "Audiovisual equipment installers and repairers",
+    "code": "49-2097",
+    "type": "Line item",
+    "employment_thousands_2025": 22.4
+  },
+  {
+    "source_row": 857,
+    "title": "Security and fire alarm systems installers",
+    "code": "49-2098",
+    "type": "Line item",
+    "employment_thousands_2025": 86.3
+  },
+  {
+    "source_row": 858,
+    "title": "Vehicle and mobile equipment mechanics, installers, and repairers",
+    "code": "49-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 1929.4
+  },
+  {
+    "source_row": 859,
+    "title": "Aircraft mechanics and service technicians",
+    "code": "49-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 140
+  },
+  {
+    "source_row": 860,
+    "title": "Automotive technicians and repairers",
+    "code": "49-3020",
+    "type": "Summary",
+    "employment_thousands_2025": 1011.6
+  },
+  {
+    "source_row": 861,
+    "title": "Automotive body and related repairers",
+    "code": "49-3021",
+    "type": "Line item",
+    "employment_thousands_2025": 163.2
+  },
+  {
+    "source_row": 862,
+    "title": "Automotive glass installers and repairers",
+    "code": "49-3022",
+    "type": "Line item",
+    "employment_thousands_2025": 22.6
+  },
+  {
+    "source_row": 863,
+    "title": "Automotive service technicians and mechanics",
+    "code": "49-3023",
+    "type": "Line item",
+    "employment_thousands_2025": 825.8
+  },
+  {
+    "source_row": 864,
+    "title": "Bus and truck mechanics and diesel engine specialists",
+    "code": "49-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 316
+  },
+  {
+    "source_row": 865,
+    "title": "Heavy vehicle and mobile equipment service technicians and mechanics",
+    "code": "49-3040",
+    "type": "Summary",
+    "employment_thousands_2025": 242.4
+  },
+  {
+    "source_row": 866,
+    "title": "Farm equipment mechanics and service technicians",
+    "code": "49-3041",
+    "type": "Line item",
+    "employment_thousands_2025": 41.9
+  },
+  {
+    "source_row": 867,
+    "title": "Mobile heavy equipment mechanics, except engines",
+    "code": "49-3042",
+    "type": "Line item",
+    "employment_thousands_2025": 180.3
+  },
+  {
+    "source_row": 868,
+    "title": "Rail car repairers",
+    "code": "49-3043",
+    "type": "Line item",
+    "employment_thousands_2025": 20.1
+  },
+  {
+    "source_row": 869,
+    "title": "Small engine mechanics",
+    "code": "49-3050",
+    "type": "Summary",
+    "employment_thousands_2025": 77.5
+  },
+  {
+    "source_row": 870,
+    "title": "Motorboat mechanics and service technicians",
+    "code": "49-3051",
+    "type": "Line item",
+    "employment_thousands_2025": 25
+  },
+  {
+    "source_row": 871,
+    "title": "Motorcycle mechanics",
+    "code": "49-3052",
+    "type": "Line item",
+    "employment_thousands_2025": 14.2
+  },
+  {
+    "source_row": 872,
+    "title": "Outdoor power equipment and other small engine mechanics",
+    "code": "49-3053",
+    "type": "Line item",
+    "employment_thousands_2025": 38.3
+  },
+  {
+    "source_row": 873,
+    "title": "Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",
+    "code": "49-3090",
+    "type": "Summary",
+    "employment_thousands_2025": 141.9
+  },
+  {
+    "source_row": 874,
+    "title": "Bicycle repairers",
+    "code": "49-3091",
+    "type": "Line item",
+    "employment_thousands_2025": 12.2
+  },
+  {
+    "source_row": 875,
+    "title": "Recreational vehicle service technicians",
+    "code": "49-3092",
+    "type": "Line item",
+    "employment_thousands_2025": 17.5
+  },
+  {
+    "source_row": 876,
+    "title": "Tire repairers and changers",
+    "code": "49-3093",
+    "type": "Line item",
+    "employment_thousands_2025": 112.2
+  },
+  {
+    "source_row": 877,
+    "title": "Other installation, maintenance, and repair occupations",
+    "code": "49-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 3463.3
+  },
+  {
+    "source_row": 878,
+    "title": "Control and valve installers and repairers",
+    "code": "49-9010",
+    "type": "Summary",
+    "employment_thousands_2025": 78.9
+  },
+  {
+    "source_row": 879,
+    "title": "Mechanical door repairers",
+    "code": "49-9011",
+    "type": "Line item",
+    "employment_thousands_2025": 28.4
+  },
+  {
+    "source_row": 880,
+    "title": "Control and valve installers and repairers, except mechanical door",
+    "code": "49-9012",
+    "type": "Line item",
+    "employment_thousands_2025": 50.4
+  },
+  {
+    "source_row": 881,
+    "title": "Heating, air conditioning, and refrigeration mechanics and installers",
+    "code": "49-9021",
+    "type": "Line item",
+    "employment_thousands_2025": 440.9
+  },
+  {
+    "source_row": 882,
+    "title": "Home appliance repairers",
+    "code": "49-9031",
+    "type": "Line item",
+    "employment_thousands_2025": 40.5
+  },
+  {
+    "source_row": 883,
+    "title": "Industrial machinery installation, repair, and maintenance workers",
+    "code": "49-9040",
+    "type": "Summary",
+    "employment_thousands_2025": 548.4
+  },
+  {
+    "source_row": 884,
+    "title": "Industrial machinery mechanics",
+    "code": "49-9041",
+    "type": "Line item",
+    "employment_thousands_2025": 446.9
+  },
+  {
+    "source_row": 885,
+    "title": "Maintenance workers, machinery",
+    "code": "49-9043",
+    "type": "Line item",
+    "employment_thousands_2025": 59.7
+  },
+  {
+    "source_row": 886,
+    "title": "Millwrights",
+    "code": "49-9044",
+    "type": "Line item",
+    "employment_thousands_2025": 40.7
+  },
+  {
+    "source_row": 887,
+    "title": "Refractory materials repairers, except brickmasons",
+    "code": "49-9045",
+    "type": "Line item",
+    "employment_thousands_2025": 1.1
+  },
+  {
+    "source_row": 888,
+    "title": "Line installers and repairers",
+    "code": "49-9050",
+    "type": "Summary",
+    "employment_thousands_2025": 235.3
+  },
+  {
+    "source_row": 889,
+    "title": "Electrical power-line installers and repairers",
+    "code": "49-9051",
+    "type": "Line item",
+    "employment_thousands_2025": 131.9
+  },
+  {
+    "source_row": 890,
+    "title": "Telecommunications line installers and repairers",
+    "code": "49-9052",
+    "type": "Line item",
+    "employment_thousands_2025": 103.4
+  },
+  {
+    "source_row": 891,
+    "title": "Precision instrument and equipment repairers",
+    "code": "49-9060",
+    "type": "Summary",
+    "employment_thousands_2025": 91.2
+  },
+  {
+    "source_row": 892,
+    "title": "Camera and photographic equipment repairers",
+    "code": "49-9061",
+    "type": "Line item",
+    "employment_thousands_2025": 1.8
+  },
+  {
+    "source_row": 893,
+    "title": "Medical equipment repairers",
+    "code": "49-9062",
+    "type": "Line item",
+    "employment_thousands_2025": 71.8
+  },
+  {
+    "source_row": 894,
+    "title": "Musical instrument repairers and tuners",
+    "code": "49-9063",
+    "type": "Line item",
+    "employment_thousands_2025": 6
+  },
+  {
+    "source_row": 895,
+    "title": "Watch and clock repairers",
+    "code": "49-9064",
+    "type": "Line item",
+    "employment_thousands_2025": 1.4
+  },
+  {
+    "source_row": 896,
+    "title": "Precision instrument and equipment repairers, all other",
+    "code": "49-9069",
+    "type": "Line item",
+    "employment_thousands_2025": 10.2
+  },
+  {
+    "source_row": 897,
+    "title": "Maintenance and repair workers, general",
+    "code": "49-9071",
+    "type": "Line item",
+    "employment_thousands_2025": 1621.8
+  },
+  {
+    "source_row": 898,
+    "title": "Wind turbine service technicians",
+    "code": "49-9081",
+    "type": "Line item",
+    "employment_thousands_2025": 11.8
+  },
+  {
+    "source_row": 899,
+    "title": "Miscellaneous installation, maintenance, and repair workers",
+    "code": "49-9090",
+    "type": "Summary",
+    "employment_thousands_2025": 394.5
+  },
+  {
+    "source_row": 900,
+    "title": "Coin, vending, and amusement machine servicers and repairers",
+    "code": "49-9091",
+    "type": "Line item",
+    "employment_thousands_2025": 34.7
+  },
+  {
+    "source_row": 901,
+    "title": "Commercial divers",
+    "code": "49-9092",
+    "type": "Line item",
+    "employment_thousands_2025": 4
+  },
+  {
+    "source_row": 902,
+    "title": "Locksmiths and safe repairers",
+    "code": "49-9094",
+    "type": "Line item",
+    "employment_thousands_2025": 18.7
+  },
+  {
+    "source_row": 903,
+    "title": "Manufactured building and mobile home installers",
+    "code": "49-9095",
+    "type": "Line item",
+    "employment_thousands_2025": 3.5
+  },
+  {
+    "source_row": 904,
+    "title": "Riggers",
+    "code": "49-9096",
+    "type": "Line item",
+    "employment_thousands_2025": 22.5
+  },
+  {
+    "source_row": 905,
+    "title": "Signal and track switch repairers",
+    "code": "49-9097",
+    "type": "Line item",
+    "employment_thousands_2025": 8.7
+  },
+  {
+    "source_row": 906,
+    "title": "Helpers--installation, maintenance, and repair workers",
+    "code": "49-9098",
+    "type": "Line item",
+    "employment_thousands_2025": 97.1
+  },
+  {
+    "source_row": 907,
+    "title": "Installation, maintenance, and repair workers, all other",
+    "code": "49-9099",
+    "type": "Line item",
+    "employment_thousands_2025": 205.2
+  },
+  {
+    "source_row": 908,
+    "title": "Production occupations",
+    "code": "51-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 8780.5
+  },
+  {
+    "source_row": 909,
+    "title": "Supervisors of production workers",
+    "code": "51-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 679.9
+  },
+  {
+    "source_row": 910,
+    "title": "First-line supervisors of production and operating workers",
+    "code": "51-1011",
+    "type": "Line item",
+    "employment_thousands_2025": 679.9
+  },
+  {
+    "source_row": 911,
+    "title": "Assemblers and fabricators",
+    "code": "51-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 1799.5
+  },
+  {
+    "source_row": 912,
+    "title": "Aircraft structure, surfaces, rigging, and systems assemblers",
+    "code": "51-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 34.4
+  },
+  {
+    "source_row": 913,
+    "title": "Electrical, electronics, and electromechanical assemblers",
+    "code": "51-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 259.2
+  },
+  {
+    "source_row": 914,
+    "title": "Coil winders, tapers, and finishers",
+    "code": "51-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 12.9
+  },
+  {
+    "source_row": 915,
+    "title": "Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",
+    "code": "51-2028",
+    "type": "Line item",
+    "employment_thousands_2025": 246.3
+  },
+  {
+    "source_row": 916,
+    "title": "Engine and other machine assemblers",
+    "code": "51-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 33.5
+  },
+  {
+    "source_row": 917,
+    "title": "Structural metal fabricators and fitters",
+    "code": "51-2041",
+    "type": "Line item",
+    "employment_thousands_2025": 52.3
+  },
+  {
+    "source_row": 918,
+    "title": "Fiberglass laminators and fabricators",
+    "code": "51-2051",
+    "type": "Line item",
+    "employment_thousands_2025": 16.3
+  },
+  {
+    "source_row": 919,
+    "title": "Timing device assemblers and adjusters",
+    "code": "51-2061",
+    "type": "Line item",
+    "employment_thousands_2025": 0.2
+  },
+  {
+    "source_row": 920,
+    "title": "Miscellaneous assemblers and fabricators",
+    "code": "51-2090",
+    "type": "Line item",
+    "employment_thousands_2025": 1403.5
+  },
+  {
+    "source_row": 921,
+    "title": "Food processing workers",
+    "code": "51-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 918.8
+  },
+  {
+    "source_row": 922,
+    "title": "Bakers",
+    "code": "51-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 262.4
+  },
+  {
+    "source_row": 923,
+    "title": "Butchers and other meat, poultry, and fish processing workers",
+    "code": "51-3020",
+    "type": "Summary",
+    "employment_thousands_2025": 359.3
+  },
+  {
+    "source_row": 924,
+    "title": "Butchers and meat cutters",
+    "code": "51-3021",
+    "type": "Line item",
+    "employment_thousands_2025": 138.4
+  },
+  {
+    "source_row": 925,
+    "title": "Meat, poultry, and fish cutters and trimmers",
+    "code": "51-3022",
+    "type": "Line item",
+    "employment_thousands_2025": 149.8
+  },
+  {
+    "source_row": 926,
+    "title": "Slaughterers and meat packers",
+    "code": "51-3023",
+    "type": "Line item",
+    "employment_thousands_2025": 71.2
+  },
+  {
+    "source_row": 927,
+    "title": "Miscellaneous food processing workers",
+    "code": "51-3090",
+    "type": "Summary",
+    "employment_thousands_2025": 297
+  },
+  {
+    "source_row": 928,
+    "title": "Food and tobacco roasting, baking, and drying machine operators and tenders",
+    "code": "51-3091",
+    "type": "Line item",
+    "employment_thousands_2025": 21.6
+  },
+  {
+    "source_row": 929,
+    "title": "Food batchmakers",
+    "code": "51-3092",
+    "type": "Line item",
+    "employment_thousands_2025": 176.8
+  },
+  {
+    "source_row": 930,
+    "title": "Food cooking machine operators and tenders",
+    "code": "51-3093",
+    "type": "Line item",
+    "employment_thousands_2025": 31.2
+  },
+  {
+    "source_row": 931,
+    "title": "Food processing workers, all other",
+    "code": "51-3099",
+    "type": "Line item",
+    "employment_thousands_2025": 67.4
+  },
+  {
+    "source_row": 932,
+    "title": "Metal workers and plastic workers",
+    "code": "51-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 1575.2
+  },
+  {
+    "source_row": 933,
+    "title": "Forming machine setters, operators, and tenders, metal and plastic",
+    "code": "51-4020",
+    "type": "Summary",
+    "employment_thousands_2025": 95.1
+  },
+  {
+    "source_row": 934,
+    "title": "Extruding and drawing machine setters, operators, and tenders, metal and plastic",
+    "code": "51-4021",
+    "type": "Line item",
+    "employment_thousands_2025": 60.9
+  },
+  {
+    "source_row": 935,
+    "title": "Forging machine setters, operators, and tenders, metal and plastic",
+    "code": "51-4022",
+    "type": "Line item",
+    "employment_thousands_2025": 8.9
+  },
+  {
+    "source_row": 936,
+    "title": "Rolling machine setters, operators, and tenders, metal and plastic",
+    "code": "51-4023",
+    "type": "Line item",
+    "employment_thousands_2025": 25.3
+  },
+  {
+    "source_row": 937,
+    "title": "Machine tool cutting setters, operators, and tenders, metal and plastic",
+    "code": "51-4030",
+    "type": "Summary",
+    "employment_thousands_2025": 273.3
+  },
+  {
+    "source_row": 938,
+    "title": "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",
+    "code": "51-4031",
+    "type": "Line item",
+    "employment_thousands_2025": 171
+  },
+  {
+    "source_row": 939,
+    "title": "Drilling and boring machine tool setters, operators, and tenders, metal and plastic",
+    "code": "51-4032",
+    "type": "Line item",
+    "employment_thousands_2025": 4.7
+  },
+  {
+    "source_row": 940,
+    "title": "Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",
+    "code": "51-4033",
+    "type": "Line item",
+    "employment_thousands_2025": 68.5
+  },
+  {
+    "source_row": 941,
+    "title": "Lathe and turning machine tool setters, operators, and tenders, metal and plastic",
+    "code": "51-4034",
+    "type": "Line item",
+    "employment_thousands_2025": 16.7
+  },
+  {
+    "source_row": 942,
+    "title": "Milling and planing machine setters, operators, and tenders, metal and plastic",
+    "code": "51-4035",
+    "type": "Line item",
+    "employment_thousands_2025": 12.4
+  },
+  {
+    "source_row": 943,
+    "title": "Machinists",
+    "code": "51-4041",
+    "type": "Line item",
+    "employment_thousands_2025": 288.3
+  },
+  {
+    "source_row": 944,
+    "title": "Metal furnace operators, tenders, pourers, and casters",
+    "code": "51-4050",
+    "type": "Summary",
+    "employment_thousands_2025": 21.3
+  },
+  {
+    "source_row": 945,
+    "title": "Metal-refining furnace operators and tenders",
+    "code": "51-4051",
+    "type": "Line item",
+    "employment_thousands_2025": 16.8
+  },
+  {
+    "source_row": 946,
+    "title": "Pourers and casters, metal",
+    "code": "51-4052",
+    "type": "Line item",
+    "employment_thousands_2025": 4.6
+  },
+  {
+    "source_row": 947,
+    "title": "Model makers and patternmakers, metal and plastic",
+    "code": "51-4060",
+    "type": "Summary",
+    "employment_thousands_2025": 4.1
+  },
+  {
+    "source_row": 948,
+    "title": "Model makers, metal and plastic",
+    "code": "51-4061",
+    "type": "Line item",
+    "employment_thousands_2025": 2.6
+  },
+  {
+    "source_row": 949,
+    "title": "Patternmakers, metal and plastic",
+    "code": "51-4062",
+    "type": "Line item",
+    "employment_thousands_2025": 1.5
+  },
+  {
+    "source_row": 950,
+    "title": "Molders and molding machine setters, operators, and tenders, metal and plastic",
+    "code": "51-4070",
+    "type": "Summary",
+    "employment_thousands_2025": 162.8
+  },
+  {
+    "source_row": 951,
+    "title": "Foundry mold and coremakers",
+    "code": "51-4071",
+    "type": "Line item",
+    "employment_thousands_2025": 12.7
+  },
+  {
+    "source_row": 952,
+    "title": "Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",
+    "code": "51-4072",
+    "type": "Line item",
+    "employment_thousands_2025": 150
+  },
+  {
+    "source_row": 953,
+    "title": "Multiple machine tool setters, operators, and tenders, metal and plastic",
+    "code": "51-4081",
+    "type": "Line item",
+    "employment_thousands_2025": 127.1
+  },
+  {
+    "source_row": 954,
+    "title": "Tool and die makers",
+    "code": "51-4111",
+    "type": "Line item",
+    "employment_thousands_2025": 56.7
+  },
+  {
+    "source_row": 955,
+    "title": "Welding, soldering, and brazing workers",
+    "code": "51-4120",
+    "type": "Summary",
+    "employment_thousands_2025": 470.7
+  },
+  {
+    "source_row": 956,
+    "title": "Welders, cutters, solderers, and brazers",
+    "code": "51-4121",
+    "type": "Line item",
+    "employment_thousands_2025": 437.7
+  },
+  {
+    "source_row": 957,
+    "title": "Welding, soldering, and brazing machine setters, operators, and tenders",
+    "code": "51-4122",
+    "type": "Line item",
+    "employment_thousands_2025": 32.9
+  },
+  {
+    "source_row": 958,
+    "title": "Miscellaneous metal workers and plastic workers",
+    "code": "51-4190",
+    "type": "Summary",
+    "employment_thousands_2025": 75.9
+  },
+  {
+    "source_row": 959,
+    "title": "Heat treating equipment setters, operators, and tenders, metal and plastic",
+    "code": "51-4191",
+    "type": "Line item",
+    "employment_thousands_2025": 14.4
+  },
+  {
+    "source_row": 960,
+    "title": "Layout workers, metal and plastic",
+    "code": "51-4192",
+    "type": "Line item",
+    "employment_thousands_2025": 6.2
+  },
+  {
+    "source_row": 961,
+    "title": "Plating machine setters, operators, and tenders, metal and plastic",
+    "code": "51-4193",
+    "type": "Line item",
+    "employment_thousands_2025": 33.3
+  },
+  {
+    "source_row": 962,
+    "title": "Tool grinders, filers, and sharpeners",
+    "code": "51-4194",
+    "type": "Line item",
+    "employment_thousands_2025": 5.8
+  },
+  {
+    "source_row": 963,
+    "title": "Metal workers and plastic workers, all other",
+    "code": "51-4199",
+    "type": "Line item",
+    "employment_thousands_2025": 16.3
+  },
+  {
+    "source_row": 964,
+    "title": "Printing workers",
+    "code": "51-5100",
+    "type": "Summary",
+    "employment_thousands_2025": 200.9
+  },
+  {
+    "source_row": 965,
+    "title": "Prepress technicians and workers",
+    "code": "51-5111",
+    "type": "Line item",
+    "employment_thousands_2025": 24.7
+  },
+  {
+    "source_row": 966,
+    "title": "Printing press operators",
+    "code": "51-5112",
+    "type": "Line item",
+    "employment_thousands_2025": 144
+  },
+  {
+    "source_row": 967,
+    "title": "Print binding and finishing workers",
+    "code": "51-5113",
+    "type": "Line item",
+    "employment_thousands_2025": 32.3
+  },
+  {
+    "source_row": 968,
+    "title": "Textile, apparel, and furnishings workers",
+    "code": "51-6000",
+    "type": "Summary",
+    "employment_thousands_2025": 507.5
+  },
+  {
+    "source_row": 969,
+    "title": "Laundry and dry-cleaning workers",
+    "code": "51-6011",
+    "type": "Line item",
+    "employment_thousands_2025": 204.9
+  },
+  {
+    "source_row": 970,
+    "title": "Pressers, textile, garment, and related materials",
+    "code": "51-6021",
+    "type": "Line item",
+    "employment_thousands_2025": 26.3
+  },
+  {
+    "source_row": 971,
+    "title": "Sewing machine operators",
+    "code": "51-6031",
+    "type": "Line item",
+    "employment_thousands_2025": 117.2
+  },
+  {
+    "source_row": 972,
+    "title": "Shoe and leather workers",
+    "code": "51-6040",
+    "type": "Summary",
+    "employment_thousands_2025": 14.9
+  },
+  {
+    "source_row": 973,
+    "title": "Shoe and leather workers and repairers",
+    "code": "51-6041",
+    "type": "Line item",
+    "employment_thousands_2025": 10.3
+  },
+  {
+    "source_row": 974,
+    "title": "Shoe machine operators and tenders",
+    "code": "51-6042",
+    "type": "Line item",
+    "employment_thousands_2025": 4.6
+  },
+  {
+    "source_row": 975,
+    "title": "Tailors, dressmakers, and sewers",
+    "code": "51-6050",
+    "type": "Summary",
+    "employment_thousands_2025": 38.5
+  },
+  {
+    "source_row": 976,
+    "title": "Sewers, hand",
+    "code": "51-6051",
+    "type": "Line item",
+    "employment_thousands_2025": 5.3
+  },
+  {
+    "source_row": 977,
+    "title": "Tailors, dressmakers, and custom sewers",
+    "code": "51-6052",
+    "type": "Line item",
+    "employment_thousands_2025": 33.2
+  },
+  {
+    "source_row": 978,
+    "title": "Textile machine setters, operators, and tenders",
+    "code": "51-6060",
+    "type": "Summary",
+    "employment_thousands_2025": 52.5
+  },
+  {
+    "source_row": 979,
+    "title": "Textile bleaching and dyeing machine operators and tenders",
+    "code": "51-6061",
+    "type": "Line item",
+    "employment_thousands_2025": 5.7
+  },
+  {
+    "source_row": 980,
+    "title": "Textile cutting machine setters, operators, and tenders",
+    "code": "51-6062",
+    "type": "Line item",
+    "employment_thousands_2025": 9.4
+  },
+  {
+    "source_row": 981,
+    "title": "Textile knitting and weaving machine setters, operators, and tenders",
+    "code": "51-6063",
+    "type": "Line item",
+    "employment_thousands_2025": 13.9
+  },
+  {
+    "source_row": 982,
+    "title": "Textile winding, twisting, and drawing out machine setters, operators, and tenders",
+    "code": "51-6064",
+    "type": "Line item",
+    "employment_thousands_2025": 23.5
+  },
+  {
+    "source_row": 983,
+    "title": "Miscellaneous textile, apparel, and furnishings workers",
+    "code": "51-6090",
+    "type": "Summary",
+    "employment_thousands_2025": 53.2
+  },
+  {
+    "source_row": 984,
+    "title": "Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",
+    "code": "51-6091",
+    "type": "Line item",
+    "employment_thousands_2025": 13.5
+  },
+  {
+    "source_row": 985,
+    "title": "Fabric and apparel patternmakers",
+    "code": "51-6092",
+    "type": "Line item",
+    "employment_thousands_2025": 3
+  },
+  {
+    "source_row": 986,
+    "title": "Upholsterers",
+    "code": "51-6093",
+    "type": "Line item",
+    "employment_thousands_2025": 22.7
+  },
+  {
+    "source_row": 987,
+    "title": "Textile, apparel, and furnishings workers, all other",
+    "code": "51-6099",
+    "type": "Line item",
+    "employment_thousands_2025": 14.1
+  },
+  {
+    "source_row": 988,
+    "title": "Woodworkers",
+    "code": "51-7000",
+    "type": "Summary",
+    "employment_thousands_2025": 216.7
+  },
+  {
+    "source_row": 989,
+    "title": "Cabinetmakers and bench carpenters",
+    "code": "51-7011",
+    "type": "Line item",
+    "employment_thousands_2025": 81.8
+  },
+  {
+    "source_row": 990,
+    "title": "Furniture finishers",
+    "code": "51-7021",
+    "type": "Line item",
+    "employment_thousands_2025": 15.9
+  },
+  {
+    "source_row": 991,
+    "title": "Model makers and patternmakers, wood",
+    "code": "51-7030",
+    "type": "Summary",
+    "employment_thousands_2025": 1.4
+  },
+  {
+    "source_row": 992,
+    "title": "Model makers, wood",
+    "code": "51-7031",
+    "type": "Line item",
+    "employment_thousands_2025": 0.7
+  },
+  {
+    "source_row": 993,
+    "title": "Patternmakers, wood",
+    "code": "51-7032",
+    "type": "Line item",
+    "employment_thousands_2025": 0.6
+  },
+  {
+    "source_row": 994,
+    "title": "Woodworking machine setters, operators, and tenders",
+    "code": "51-7040",
+    "type": "Summary",
+    "employment_thousands_2025": 102.2
+  },
+  {
+    "source_row": 995,
+    "title": "Sawing machine setters, operators, and tenders, wood",
+    "code": "51-7041",
+    "type": "Line item",
+    "employment_thousands_2025": 41.2
+  },
+  {
+    "source_row": 996,
+    "title": "Woodworking machine setters, operators, and tenders, except sawing",
+    "code": "51-7042",
+    "type": "Line item",
+    "employment_thousands_2025": 60.9
+  },
+  {
+    "source_row": 997,
+    "title": "Woodworkers, all other",
+    "code": "51-7099",
+    "type": "Line item",
+    "employment_thousands_2025": 15.4
+  },
+  {
+    "source_row": 998,
+    "title": "Plant and system operators",
+    "code": "51-8000",
+    "type": "Summary",
+    "employment_thousands_2025": 288
+  },
+  {
+    "source_row": 999,
+    "title": "Power plant operators, distributors, and dispatchers",
+    "code": "51-8010",
+    "type": "Summary",
+    "employment_thousands_2025": 43.7
+  },
+  {
+    "source_row": 1000,
+    "title": "Nuclear power reactor operators",
+    "code": "51-8011",
+    "type": "Line item",
+    "employment_thousands_2025": 5.2
+  },
+  {
+    "source_row": 1001,
+    "title": "Power distributors and dispatchers",
+    "code": "51-8012",
+    "type": "Line item",
+    "employment_thousands_2025": 8.6
+  },
+  {
+    "source_row": 1002,
+    "title": "Power plant operators",
+    "code": "51-8013",
+    "type": "Line item",
+    "employment_thousands_2025": 29.8
+  },
+  {
+    "source_row": 1003,
+    "title": "Stationary engineers and boiler operators",
+    "code": "51-8021",
+    "type": "Line item",
+    "employment_thousands_2025": 31.2
+  },
+  {
+    "source_row": 1004,
+    "title": "Water and wastewater treatment plant and system operators",
+    "code": "51-8031",
+    "type": "Line item",
+    "employment_thousands_2025": 131
+  },
+  {
+    "source_row": 1005,
+    "title": "Miscellaneous plant and system operators",
+    "code": "51-8090",
+    "type": "Summary",
+    "employment_thousands_2025": 82.1
+  },
+  {
+    "source_row": 1006,
+    "title": "Chemical plant and system operators",
+    "code": "51-8091",
+    "type": "Line item",
+    "employment_thousands_2025": 16.7
+  },
+  {
+    "source_row": 1007,
+    "title": "Gas plant operators",
+    "code": "51-8092",
+    "type": "Line item",
+    "employment_thousands_2025": 18.2
+  },
+  {
+    "source_row": 1008,
+    "title": "Petroleum pump system operators, refinery operators, and gaugers",
+    "code": "51-8093",
+    "type": "Line item",
+    "employment_thousands_2025": 32.9
+  },
+  {
+    "source_row": 1009,
+    "title": "Plant and system operators, all other",
+    "code": "51-8099",
+    "type": "Line item",
+    "employment_thousands_2025": 14.3
+  },
+  {
+    "source_row": 1010,
+    "title": "Other production occupations",
+    "code": "51-9000",
+    "type": "Summary",
+    "employment_thousands_2025": 2594
+  },
+  {
+    "source_row": 1011,
+    "title": "Chemical processing machine setters, operators, and tenders",
+    "code": "51-9010",
+    "type": "Summary",
+    "employment_thousands_2025": 202.2
+  },
+  {
+    "source_row": 1012,
+    "title": "Chemical equipment operators and tenders",
+    "code": "51-9011",
+    "type": "Line item",
+    "employment_thousands_2025": 140.8
+  },
+  {
+    "source_row": 1013,
+    "title": "Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",
+    "code": "51-9012",
+    "type": "Line item",
+    "employment_thousands_2025": 61.4
+  },
+  {
+    "source_row": 1014,
+    "title": "Crushing, grinding, polishing, mixing, and blending workers",
+    "code": "51-9020",
+    "type": "Summary",
+    "employment_thousands_2025": 134.6
+  },
+  {
+    "source_row": 1015,
+    "title": "Crushing, grinding, and polishing machine setters, operators, and tenders",
+    "code": "51-9021",
+    "type": "Line item",
+    "employment_thousands_2025": 26.6
+  },
+  {
+    "source_row": 1016,
+    "title": "Grinding and polishing workers, hand",
+    "code": "51-9022",
+    "type": "Line item",
+    "employment_thousands_2025": 10.8
+  },
+  {
+    "source_row": 1017,
+    "title": "Mixing and blending machine setters, operators, and tenders",
+    "code": "51-9023",
+    "type": "Line item",
+    "employment_thousands_2025": 97.3
+  },
+  {
+    "source_row": 1018,
+    "title": "Cutting workers",
+    "code": "51-9030",
+    "type": "Summary",
+    "employment_thousands_2025": 51.9
+  },
+  {
+    "source_row": 1019,
+    "title": "Cutters and trimmers, hand",
+    "code": "51-9031",
+    "type": "Line item",
+    "employment_thousands_2025": 5.9
+  },
+  {
+    "source_row": 1020,
+    "title": "Cutting and slicing machine setters, operators, and tenders",
+    "code": "51-9032",
+    "type": "Line item",
+    "employment_thousands_2025": 45.9
+  },
+  {
+    "source_row": 1021,
+    "title": "Extruding, forming, pressing, and compacting machine setters, operators, and tenders",
+    "code": "51-9041",
+    "type": "Line item",
+    "employment_thousands_2025": 58.3
+  },
+  {
+    "source_row": 1022,
+    "title": "Furnace, kiln, oven, drier, and kettle operators and tenders",
+    "code": "51-9051",
+    "type": "Line item",
+    "employment_thousands_2025": 14.5
+  },
+  {
+    "source_row": 1023,
+    "title": "Inspectors, testers, sorters, samplers, and weighers",
+    "code": "51-9061",
+    "type": "Line item",
+    "employment_thousands_2025": 602
+  },
+  {
+    "source_row": 1024,
+    "title": "Jewelers and precious stone and metal workers",
+    "code": "51-9071",
+    "type": "Line item",
+    "employment_thousands_2025": 32.8
+  },
+  {
+    "source_row": 1025,
+    "title": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
+    "code": "51-9080",
+    "type": "Summary",
+    "employment_thousands_2025": 64.3
+  },
+  {
+    "source_row": 1026,
+    "title": "Dental laboratory technicians",
+    "code": "51-9081",
+    "type": "Line item",
+    "employment_thousands_2025": 34.4
+  },
+  {
+    "source_row": 1027,
+    "title": "Medical appliance technicians",
+    "code": "51-9082",
+    "type": "Line item",
+    "employment_thousands_2025": 11.3
+  },
+  {
+    "source_row": 1028,
+    "title": "Ophthalmic laboratory technicians",
+    "code": "51-9083",
+    "type": "Line item",
+    "employment_thousands_2025": 18.6
+  },
+  {
+    "source_row": 1029,
+    "title": "Packaging and filling machine operators and tenders",
+    "code": "51-9111",
+    "type": "Line item",
+    "employment_thousands_2025": 377.7
+  },
+  {
+    "source_row": 1030,
+    "title": "Painting workers",
+    "code": "51-9120",
+    "type": "Summary",
+    "employment_thousands_2025": 173
+  },
+  {
+    "source_row": 1031,
+    "title": "Painting, coating, and decorating workers",
+    "code": "51-9123",
+    "type": "Line item",
+    "employment_thousands_2025": 8.2
+  },
+  {
+    "source_row": 1032,
+    "title": "Coating, painting, and spraying machine setters, operators, and tenders",
+    "code": "51-9124",
+    "type": "Line item",
+    "employment_thousands_2025": 164.8
+  },
+  {
+    "source_row": 1033,
+    "title": "Semiconductor processing technicians",
+    "code": "51-9141",
+    "type": "Line item",
+    "employment_thousands_2025": 31.2
+  },
+  {
+    "source_row": 1034,
+    "title": "Photographic process workers and processing machine operators",
+    "code": "51-9151",
+    "type": "Line item",
+    "employment_thousands_2025": 5.3
+  },
+  {
+    "source_row": 1035,
+    "title": "Computer numerically controlled tool operators and programmers",
+    "code": "51-9160",
+    "type": "Summary",
+    "employment_thousands_2025": 198.6
+  },
+  {
+    "source_row": 1036,
+    "title": "Computer numerically controlled tool operators",
+    "code": "51-9161",
+    "type": "Line item",
+    "employment_thousands_2025": 170
+  },
+  {
+    "source_row": 1037,
+    "title": "Computer numerically controlled tool programmers",
+    "code": "51-9162",
+    "type": "Line item",
+    "employment_thousands_2025": 28.6
+  },
+  {
+    "source_row": 1038,
+    "title": "Miscellaneous production workers",
+    "code": "51-9190",
+    "type": "Summary",
+    "employment_thousands_2025": 647.4
+  },
+  {
+    "source_row": 1039,
+    "title": "Adhesive bonding machine operators and tenders",
+    "code": "51-9191",
+    "type": "Line item",
+    "employment_thousands_2025": 12.1
+  },
+  {
+    "source_row": 1040,
+    "title": "Cleaning, washing, and metal pickling equipment operators and tenders",
+    "code": "51-9192",
+    "type": "Line item",
+    "employment_thousands_2025": 16.2
+  },
+  {
+    "source_row": 1041,
+    "title": "Cooling and freezing equipment operators and tenders",
+    "code": "51-9193",
+    "type": "Line item",
+    "employment_thousands_2025": 7.7
+  },
+  {
+    "source_row": 1042,
+    "title": "Etchers and engravers",
+    "code": "51-9194",
+    "type": "Line item",
+    "employment_thousands_2025": 8.9
+  },
+  {
+    "source_row": 1043,
+    "title": "Molders, shapers, and casters, except metal and plastic",
+    "code": "51-9195",
+    "type": "Line item",
+    "employment_thousands_2025": 43
+  },
+  {
+    "source_row": 1044,
+    "title": "Paper goods machine setters, operators, and tenders",
+    "code": "51-9196",
+    "type": "Line item",
+    "employment_thousands_2025": 96.1
+  },
+  {
+    "source_row": 1045,
+    "title": "Tire builders",
+    "code": "51-9197",
+    "type": "Line item",
+    "employment_thousands_2025": 20.3
+  },
+  {
+    "source_row": 1046,
+    "title": "Helpers--production workers",
+    "code": "51-9198",
+    "type": "Line item",
+    "employment_thousands_2025": 167.4
+  },
+  {
+    "source_row": 1047,
+    "title": "Production workers, all other",
+    "code": "51-9199",
+    "type": "Line item",
+    "employment_thousands_2025": 275.7
+  },
+  {
+    "source_row": 1048,
+    "title": "Transportation and material moving occupations",
+    "code": "53-0000",
+    "type": "Summary",
+    "employment_thousands_2025": 14139
+  },
+  {
+    "source_row": 1049,
+    "title": "Supervisors of transportation and material moving workers",
+    "code": "53-1000",
+    "type": "Summary",
+    "employment_thousands_2025": 631.2
+  },
+  {
+    "source_row": 1050,
+    "title": "Aircraft cargo handling supervisors",
+    "code": "53-1041",
+    "type": "Line item",
+    "employment_thousands_2025": 9.7
+  },
+  {
+    "source_row": 1051,
+    "title": "First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",
+    "code": "53-1047",
+    "type": "Line item",
+    "employment_thousands_2025": 621.5
+  },
+  {
+    "source_row": 1052,
+    "title": "Air transportation workers",
+    "code": "53-2000",
+    "type": "Summary",
+    "employment_thousands_2025": 327.8
+  },
+  {
+    "source_row": 1053,
+    "title": "Aircraft pilots and flight engineers",
+    "code": "53-2010",
+    "type": "Summary",
+    "employment_thousands_2025": 154.9
+  },
+  {
+    "source_row": 1054,
+    "title": "Airline pilots, copilots, and flight engineers",
+    "code": "53-2011",
+    "type": "Line item",
+    "employment_thousands_2025": 104.6
+  },
+  {
+    "source_row": 1055,
+    "title": "Commercial pilots",
+    "code": "53-2012",
+    "type": "Line item",
+    "employment_thousands_2025": 50.4
+  },
+  {
+    "source_row": 1056,
+    "title": "Air traffic controllers and airfield operations specialists",
+    "code": "53-2020",
+    "type": "Summary",
+    "employment_thousands_2025": 39.2
+  },
+  {
+    "source_row": 1057,
+    "title": "Air traffic controllers",
+    "code": "53-2021",
+    "type": "Line item",
+    "employment_thousands_2025": 24
+  },
+  {
+    "source_row": 1058,
+    "title": "Airfield operations specialists",
+    "code": "53-2022",
+    "type": "Line item",
+    "employment_thousands_2025": 15.3
+  },
+  {
+    "source_row": 1059,
+    "title": "Flight attendants",
+    "code": "53-2031",
+    "type": "Line item",
+    "employment_thousands_2025": 133.7
+  },
+  {
+    "source_row": 1060,
+    "title": "Motor vehicle operators",
+    "code": "53-3000",
+    "type": "Summary",
+    "employment_thousands_2025": 4820.3
+  },
+  {
+    "source_row": 1061,
+    "title": "Ambulance drivers and attendants, except emergency medical technicians",
+    "code": "53-3011",
+    "type": "Line item",
+    "employment_thousands_2025": 14.3
+  },
+  {
+    "source_row": 1062,
+    "title": "Driver/sales workers and truck drivers",
+    "code": "53-3030",
+    "type": "Summary",
+    "employment_thousands_2025": 3732.6
+  },
+  {
+    "source_row": 1063,
+    "title": "Driver/sales workers",
+    "code": "53-3031",
+    "type": "Line item",
+    "employment_thousands_2025": 442.9
+  },
+  {
+    "source_row": 1064,
+    "title": "Heavy and tractor-trailer truck drivers",
+    "code": "53-3032",
+    "type": "Line item",
+    "employment_thousands_2025": 2221.2
+  },
+  {
+    "source_row": 1065,
+    "title": "Light truck drivers",
+    "code": "53-3033",
+    "type": "Line item",
+    "employment_thousands_2025": 1068.5
+  },
+  {
+    "source_row": 1066,
+    "title": "Passenger vehicle drivers",
+    "code": "53-3050",
+    "type": "Summary",
+    "employment_thousands_2025": 1018.9
+  },
+  {
+    "source_row": 1067,
+    "title": "Bus drivers, school",
+    "code": "53-3051",
+    "type": "Line item",
+    "employment_thousands_2025": 396.8
+  },
+  {
+    "source_row": 1068,
+    "title": "Bus drivers, transit and intercity",
+    "code": "53-3052",
+    "type": "Line item",
+    "employment_thousands_2025": 166.4
+  },
+  {
+    "source_row": 1069,
+    "title": "Shuttle drivers and chauffeurs",
+    "code": "53-3053",
+    "type": "Line item",
+    "employment_thousands_2025": 251.5
+  },
+  {
+    "source_row": 1070,
+    "title": "Taxi drivers",
+    "code": "53-3054",
+    "type": "Line item",
+    "employment_thousands_2025": 204.2
+  },
+  {
+    "source_row": 1071,
+    "title": "Motor vehicle operators, all other",
+    "code": "53-3099",
+    "type": "Line item",
+    "employment_thousands_2025": 54.5
+  },
+  {
+    "source_row": 1072,
+    "title": "Rail transportation workers",
+    "code": "53-4000",
+    "type": "Summary",
+    "employment_thousands_2025": 92.2
+  },
+  {
+    "source_row": 1073,
+    "title": "Locomotive engineers and operators",
+    "code": "53-4010",
+    "type": "Summary",
+    "employment_thousands_2025": 31
+  },
+  {
+    "source_row": 1074,
+    "title": "Locomotive engineers",
+    "code": "53-4011",
+    "type": "Line item",
+    "employment_thousands_2025": 27.4
+  },
+  {
+    "source_row": 1075,
+    "title": "Rail yard engineers, dinkey operators, and hostlers",
+    "code": "53-4013",
+    "type": "Line item",
+    "employment_thousands_2025": 3.5
+  },
+  {
+    "source_row": 1076,
+    "title": "Railroad brake, signal, and switch operators and locomotive firers",
+    "code": "53-4022",
+    "type": "Line item",
+    "employment_thousands_2025": 10.7
+  },
+  {
+    "source_row": 1077,
+    "title": "Railroad conductors and yardmasters",
+    "code": "53-4031",
+    "type": "Line item",
+    "employment_thousands_2025": 38.9
+  },
+  {
+    "source_row": 1078,
+    "title": "Subway and streetcar operators",
+    "code": "53-4041",
+    "type": "Line item",
+    "employment_thousands_2025": 10.5
+  },
+  {
+    "source_row": 1079,
+    "title": "Rail transportation workers, all other",
+    "code": "53-4099",
+    "type": "Line item",
+    "employment_thousands_2025": 1.1
+  },
+  {
+    "source_row": 1080,
+    "title": "Water transportation workers",
+    "code": "53-5000",
+    "type": "Summary",
+    "employment_thousands_2025": 85.9
+  },
+  {
+    "source_row": 1081,
+    "title": "Sailors and marine oilers",
+    "code": "53-5011",
+    "type": "Line item",
+    "employment_thousands_2025": 33
+  },
+  {
+    "source_row": 1082,
+    "title": "Ship and boat captains and operators",
+    "code": "53-5020",
+    "type": "Summary",
+    "employment_thousands_2025": 44
+  },
+  {
+    "source_row": 1083,
+    "title": "Captains, mates, and pilots of water vessels",
+    "code": "53-5021",
+    "type": "Line item",
+    "employment_thousands_2025": 41.3
+  },
+  {
+    "source_row": 1084,
+    "title": "Motorboat operators",
+    "code": "53-5022",
+    "type": "Line item",
+    "employment_thousands_2025": 2.8
+  },
+  {
+    "source_row": 1085,
+    "title": "Ship engineers",
+    "code": "53-5031",
+    "type": "Line item",
+    "employment_thousands_2025": 8.8
+  },
+  {
+    "source_row": 1086,
+    "title": "Other transportation workers",
+    "code": "53-6000",
+    "type": "Summary",
+    "employment_thousands_2025": 350
+  },
+  {
+    "source_row": 1087,
+    "title": "Bridge and lock tenders",
+    "code": "53-6011",
+    "type": "Line item",
+    "employment_thousands_2025": 3.1
+  },
+  {
+    "source_row": 1088,
+    "title": "Parking attendants",
+    "code": "53-6021",
+    "type": "Line item",
+    "employment_thousands_2025": 139.2
+  },
+  {
+    "source_row": 1089,
+    "title": "Transportation service attendants",
+    "code": "53-6030",
+    "type": "Summary",
+    "employment_thousands_2025": 133.6
+  },
+  {
+    "source_row": 1090,
+    "title": "Automotive and watercraft service attendants",
+    "code": "53-6031",
+    "type": "Line item",
+    "employment_thousands_2025": 102.4
+  },
+  {
+    "source_row": 1091,
+    "title": "Aircraft service attendants",
+    "code": "53-6032",
+    "type": "Line item",
+    "employment_thousands_2025": 31.2
+  },
+  {
+    "source_row": 1092,
+    "title": "Traffic technicians",
+    "code": "53-6041",
+    "type": "Line item",
+    "employment_thousands_2025": 8.1
+  },
+  {
+    "source_row": 1093,
+    "title": "Transportation inspectors",
+    "code": "53-6051",
+    "type": "Line item",
+    "employment_thousands_2025": 25.1
+  },
+  {
+    "source_row": 1094,
+    "title": "Passenger attendants",
+    "code": "53-6061",
+    "type": "Line item",
+    "employment_thousands_2025": 27.2
+  },
+  {
+    "source_row": 1095,
+    "title": "Transportation workers, all other",
+    "code": "53-6099",
+    "type": "Line item",
+    "employment_thousands_2025": 13.7
+  },
+  {
+    "source_row": 1096,
+    "title": "Material moving workers",
+    "code": "53-7000",
+    "type": "Summary",
+    "employment_thousands_2025": 7831.6
+  },
+  {
+    "source_row": 1097,
+    "title": "Conveyor operators and tenders",
+    "code": "53-7011",
+    "type": "Line item",
+    "employment_thousands_2025": 29
+  },
+  {
+    "source_row": 1098,
+    "title": "Crane and tower operators",
+    "code": "53-7021",
+    "type": "Line item",
+    "employment_thousands_2025": 42.9
+  },
+  {
+    "source_row": 1099,
+    "title": "Dredge operators",
+    "code": "53-7031",
+    "type": "Line item",
+    "employment_thousands_2025": 1.3
+  },
+  {
+    "source_row": 1100,
+    "title": "Hoist and winch operators",
+    "code": "53-7041",
+    "type": "Line item",
+    "employment_thousands_2025": 3.2
+  },
+  {
+    "source_row": 1101,
+    "title": "Industrial truck and tractor operators",
+    "code": "53-7051",
+    "type": "Line item",
+    "employment_thousands_2025": 765.2
+  },
+  {
+    "source_row": 1102,
+    "title": "Laborers and material movers",
+    "code": "53-7060",
+    "type": "Summary",
+    "employment_thousands_2025": 6761.4
+  },
+  {
+    "source_row": 1103,
+    "title": "Cleaners of vehicles and equipment",
+    "code": "53-7061",
+    "type": "Line item",
+    "employment_thousands_2025": 419.5
+  },
+  {
+    "source_row": 1104,
+    "title": "Laborers and freight, stock, and material movers, hand",
+    "code": "53-7062",
+    "type": "Line item",
+    "employment_thousands_2025": 2940.3
+  },
+  {
+    "source_row": 1105,
+    "title": "Machine feeders and offbearers",
+    "code": "53-7063",
+    "type": "Line item",
+    "employment_thousands_2025": 41.8
+  },
+  {
+    "source_row": 1106,
+    "title": "Packers and packagers, hand",
+    "code": "53-7064",
+    "type": "Line item",
+    "employment_thousands_2025": 555.5
+  },
+  {
+    "source_row": 1107,
+    "title": "Stockers and order fillers",
+    "code": "53-7065",
+    "type": "Line item",
+    "employment_thousands_2025": 2804.3
+  },
+  {
+    "source_row": 1108,
+    "title": "Pumping station operators",
+    "code": "53-7070",
+    "type": "Summary",
+    "employment_thousands_2025": 31.6
+  },
+  {
+    "source_row": 1109,
+    "title": "Gas compressor and gas pumping station operators",
+    "code": "53-7071",
+    "type": "Line item",
+    "employment_thousands_2025": 3.5
+  },
+  {
+    "source_row": 1110,
+    "title": "Pump operators, except wellhead pumpers",
+    "code": "53-7072",
+    "type": "Line item",
+    "employment_thousands_2025": 9.8
+  },
+  {
+    "source_row": 1111,
+    "title": "Wellhead pumpers",
+    "code": "53-7073",
+    "type": "Line item",
+    "employment_thousands_2025": 18.4
+  },
+  {
+    "source_row": 1112,
+    "title": "Refuse and recyclable material collectors",
+    "code": "53-7081",
+    "type": "Line item",
+    "employment_thousands_2025": 156.4
+  },
+  {
+    "source_row": 1113,
+    "title": "Tank car, truck, and ship loaders",
+    "code": "53-7121",
+    "type": "Line item",
+    "employment_thousands_2025": 12.8
+  },
+  {
+    "source_row": 1114,
+    "title": "Material moving workers, all other",
+    "code": "53-7199",
+    "type": "Line item",
+    "employment_thousands_2025": 27.8
+  }
+]

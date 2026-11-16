@@ -1,0 +1,42 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+27-1011|4|10|22|Provenance; Affinity|Most art direction serves campaigns, publications and games whose buyers want the visual result (derived). Some clients hire a particular creative's taste, and authored visual direction carries provenance.
+27-1012|45|65|82|Provenance; Affinity|The market for handmade pottery, glass, textiles and woodwork is the premium for human making; an identical machine-made piece sells for much less. Production work for commercial buyers and admin are derived.
+27-1013|45|62|80|Provenance; Affinity|Original paintings and sculpture are bought for human authorship, and that is most of a fine artist's work. Commercial illustration within this group is bought for the image and is derived.
+27-1014|2|6|15|Provenance|Effects and animation for film, games and ads are production work bought for the result. A sliver of auteur animation has provenance value.
+27-1019|30|50|70|Provenance; Presence; Affinity|Includes tattoo artists and other artists who work on or with a client in person, where the artist's hand and the encounter are the product. Some commercial work in the group is derived.
+27-1021|1|3|8|Provenance|Product design is bought for how the product works and looks. A sliver of signature design.
+27-1022|5|12|25|Provenance; Affinity|Most fashion designers work anonymously for apparel firms (derived). Named labels, couture and bespoke work sell the designer's authorship.
+27-1023|6|15|30|Provenance; Affinity|Everyday arrangements are derived. For weddings and funerals people want a florist who listens and makes something personal by hand.
+27-1024|1|4|10|Provenance; Affinity|Logos, layouts and marketing materials are bought for the result. A thin segment pays for a particular designer's style.
+27-1025|5|12|25|Affinity; Provenance|Commercial space planning is derived. Residential clients often hire a designer for taste and a working relationship.
+27-1026|0|0|3|None|Displays exist to sell merchandise. Derived.
+27-1027|5|14|28|Provenance|Trade-show exhibits are derived. Theatre and museum design is authored work that is part of a live art form.
+27-1029|5|14|28|Provenance; Affinity|Mixed specialties (jewelry, costume and other designers, 67% self-employed); authored and custom work carries provenance, commercial work does not.
+27-2011|40|62|82|Presence; Affinity; Provenance|Live theatre is human presence, and screen audiences follow particular actors. Commercials, corporate video and background work, which buyers would happily synthesize, are the derived share.
+27-2012|8|18|35|Provenance; Affinity|Producing is mostly coordination and finance (derived). Directors' authorship ('a film by') carries provenance; news and commercial producing is derived.
+27-2021|85|93|98|Provenance; Presence; Affinity|Spectators pay to watch humans compete; human achievement is the product, and training is part of producing it. A robot league would be a different product.
+27-2022|25|42|62|Affinity; Presence; Accountability|Strategy and scouting analysis are derived. Young athletes and their families want a human coach who mentors and leads them, and teams want an accountable leader.
+27-2023|20|40|60|Presence; Accountability|Accurate calls are a function machines already do. Leagues and fans keep human officials for game management, tradition and someone to argue with; youth sports need an adult in charge.
+27-2031|65|80|92|Presence; Provenance|The human body moving is the art. Rehearsal is part of producing it; a small share of commercial work is substitutable.
+27-2032|40|60|78|Provenance; Presence|Choreography is authored work taught person to person in the studio. Administration is derived.
+27-2041|30|50|70|Presence; Provenance; Affinity|Choir and church music directors and conductors lead live human music-making; concert composition is authored work. Library, jingle and production music are derived.
+27-2042|45|65|82|Presence; Provenance; Affinity|Live performance (churches, venues, weddings) and recording artists' own work are human-specific. Session work that buyers want only for the sound is derived.
+27-2091|25|45|65|Presence; Affinity|Playlists can be automated. People hire a DJ who reads the room and MCs the night, and club DJs are performers.
+27-2099|60|78|90|Presence; Provenance; Affinity|Comedians, magicians, circus and rodeo performers: the live human performance is the product.
+27-3011|30|50|70|Affinity; Presence|Much radio is already automated. Listeners tune in to a host they feel they know, and sports and on-air personalities are affinity.
+27-3023|8|20|38|Accountability; Affinity; Provenance|News gathering and writing are means to information (derived). Human witnesses on the ground, bylined accountability, trusted anchors and columnists are human-specific.
+27-3031|1|4|10|Accountability; Affinity|Content, pitching and monitoring are derived. A sliver for spokespeople and media relationships.
+27-3041|1|4|10|Affinity|Editing is quality control (derived). Some authors want a particular editor's relationship and judgment.
+27-3042|0|0|2|None|Documentation is instrumental. Derived.
+27-3043|10|25|45|Provenance; Affinity|Readers of fiction, poetry and memoir care about human authorship and follow particular authors. Copywriting, content and ghostwriting, a large share of the group, are derived.
+27-3091|3|8|18|Presence; Accountability|Document translation is derived. Some patients, courts and families want a human interpreter in the room, and literary translation carries provenance.
+27-3092|1|4|10|Accountability|Transcription is derived. Some courts want a certified human who attests to the record.
+27-3099|1|3|8|Provenance|Miscellaneous media work; mostly derived.
+27-4011|0|0|2|None|AV support is instrumental. Derived.
+27-4012|0|0|1|None|Broadcast engineering is instrumental. Derived.
+27-4014|1|3|8|Affinity|Recording and mixing are bought for the sound. Some artists want to work with a particular engineer or producer.
+27-4015|0|0|3|None|Rigging and running lights are instrumental. Derived.
+27-4021|8|20|38|Provenance; Presence; Affinity|Product, stock and commercial photography are derived. Couples and families want a photographer with them at weddings and portraits, whose eye and presence are part of the occasion.
+27-4031|0|0|3|None|Camera operation is instrumental. Derived.
+27-4032|0|2|6|Provenance|Editing is instrumental; a sliver of auteur editing.
+27-4099|0|0|2|None|Equipment work is instrumental. Derived.

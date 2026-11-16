@@ -1,0 +1,91 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+41-1011|0.5|2|6|Affinity; Accountability|Store management is a means to selling goods. Independent shop owners (21% self-employed) whom customers know personally are a small human-specific share.
+41-1012|1|3|8|Affinity|Sales management is derived. Some long-standing client relationships run through this person.
+41-2011|0.3|1|3|Presence|Self-checkout already shows most buyers want speed. A thin segment (older customers, small towns) values a human at the till for the contact itself.
+41-2012|0|0|2|None|Cash handling is instrumental. Derived.
+41-2021|0|0|3|None|Rental transactions are instrumental. Derived.
+41-2022|0|1|3|Affinity|Finding the right part is instrumental. A sliver for the counter person regulars trust.
+41-2031|1.5|5|12|Presence; Affinity|Most sales-floor help is a means to finding and buying a product. Luxury clienteling, bridal and specialty shops, where a knowledgeable person is part of the experience, are a minority share.
+41-3011|0.5|2|6|Affinity|Ad sales is a means to placing ads. A sliver of relationships with local businesses.
+41-3021|2|7|16|Affinity; Accountability|Much insurance is already bought online. Many households still want a local agent they know and can call after a loss; that relationship is the essential share.
+41-3031|2|6|14|Affinity; Accountability|Transactions and products are derived. Some clients and dealmakers want a known, accountable human counterpart on high-stakes decisions.
+41-3041|4|10|22|Affinity; Accountability|Booking is derived and largely online. Clients of travel advisers pay for someone who knows their tastes and answers for the trip when things go wrong.
+41-3091|1|3|8|Affinity|Service sales is a means to contracts. A thin share of long-standing enterprise relationships with a human counterpart.
+41-4011|1|3|8|Affinity|Technical sales is mostly consultative information (derived). A thin share of relationship value with long-term accounts.
+41-4012|1|3|8|Affinity|Wholesale sales is a means to orders. Some retailers and restaurants keep buying from a rep they know.
+41-9011|1|4|10|Presence|Sampling and demos are marketing (derived). A small share is the draw of a live person.
+41-9012|25|45|65|Provenance; Presence|Runway shows and brands that sell real human bodies and faces value provenance and presence; synthetic models substitute for much print and e-commerce work, and fit modeling is functional.
+41-9021|5|14|28|Affinity; Accountability; Presence|Listing, marketing and paperwork are derived. For the biggest purchase of their lives many people want a trusted local person who negotiates and answers for the deal.
+41-9022|5|14|28|Affinity; Accountability; Presence|Same as brokers: listings and paperwork are derived; the trusted person guiding buyers and sellers is human-specific.
+41-9031|0.5|2|6|Affinity|Technical selling is mostly instrumental; a sliver of client relationship.
+41-9041|0|0|0.5|None|Cold calling is instrumental, and recipients do not want it from anyone.
+41-9091|1|4|10|Presence; Affinity; Provenance|Door-to-door selling is derived. Street and market vendors (95% self-employed) are sometimes part of the appeal: the person behind the cart.
+41-9099|1|4|10|Presence|Mixed sales roles (including auctioneers, whose live performance draws bidders); mostly instrumental.
+43-1011|0|0|2|None|Supervising office work is instrumental. Derived.
+43-2011|0|0|2|None|Routing calls is instrumental. Derived.
+43-2021|0|0|2|None|Operator assistance is instrumental. Derived.
+43-2099|0|0|1|None|Equipment operation is instrumental. Derived.
+43-3011|0|0|2|None|Collecting debts is instrumental; most debtors would rather not talk to anyone.
+43-3021|0|0|0.5|None|Billing is instrumental. Derived.
+43-3031|0|0.5|2|Affinity|Bookkeeping is instrumental. A sliver of small-business owners want their own trusted bookkeeper.
+43-3041|0|0|1|None|Cash handling is instrumental. Derived.
+43-3051|0|0|0.5|None|Payroll is instrumental. Derived.
+43-3061|0|0|0.5|None|Procurement processing is instrumental. Derived.
+43-3071|0.5|2|6|Presence; Affinity|Most banking is already done by machine and app. A thin segment of older and small-business customers values a teller they know.
+43-3099|0|0|1|None|Financial processing is instrumental. Derived.
+43-4011|0|0|0.5|None|Trade processing is instrumental. Derived.
+43-4021|0|0|0.5|None|Correspondence handling is instrumental. Derived.
+43-4031|0|1.5|5|Accountability; Presence|Records and licensing are instrumental. A sliver of official acts (some clerks officiate civil marriages) and in-person public service.
+43-4041|0|0|0.5|None|Credit checks are instrumental. Derived.
+43-4051|1|3|8|Presence; Accountability|Most customers want the problem solved fast. A minority (distressed, bereaved, fraud victims, older customers) want a human who listens and can make an exception, even if a machine resolved it equally well.
+43-4061|1|3|8|Accountability; Presence|Eligibility determination is instrumental. Applicants are owed a human who hears their case and explains a denial; small share.
+43-4071|0|0|0.5|None|Filing is instrumental. Derived.
+43-4081|1|4|10|Presence|Check-in is instrumental and kiosks work for budget hotels. At upscale and resort properties the human welcome is part of hospitality.
+43-4111|0|0|2|None|Survey and intake interviewing is instrumental. Derived.
+43-4121|0|1.5|5|Presence|Circulation work is instrumental. A sliver of community presence at the library desk.
+43-4131|0|0|2|None|Loan processing is instrumental. Derived.
+43-4141|0|1|3|Presence|Account opening is instrumental. A sliver of in-branch human service.
+43-4151|0|0|0.5|None|Order processing is instrumental. Derived.
+43-4161|0|0|2|None|HR processing is instrumental. Derived.
+43-4171|0.5|3|8|Presence|Check-in, phones and scheduling are instrumental. In medical offices, small practices and places that serve distressed people a human welcome is valued.
+43-4181|0|1|3|Presence|Ticketing is instrumental. A sliver of in-person help for stranded travelers.
+43-4199|0|0|2|None|Records work is instrumental. Derived.
+43-5011|0|0|0.5|None|Freight booking is instrumental. Derived.
+43-5021|0|0|0.5|None|Delivery is instrumental. Derived.
+43-5031|2|6|14|Presence; Accountability|Taking information and dispatching units are instrumental. Callers in crisis want a calm human voice, and dispatch decisions carry accountability.
+43-5032|0|0|1|None|Dispatching freight and service calls is instrumental. Derived.
+43-5041|0|0|0|None|Meter reading is already automated. Pure derived demand.
+43-5051|0|1|3|Presence; Affinity|Postal counter service is instrumental. A sliver for the small-town post office as a staffed community place.
+43-5052|0|1|3|Presence; Affinity|Delivery is instrumental. A sliver for carriers who know and check on residents along the route.
+43-5053|0|0|0|None|Sorting mail is instrumental. Pure derived demand.
+43-5061|0|0|0.5|None|Production scheduling is instrumental. Derived.
+43-5071|0|0|0.5|None|Shipping and inventory work is instrumental. Derived.
+43-5111|0|0|0.5|None|Weighing and checking are instrumental. Derived.
+43-6011|1|4|10|Affinity; Presence|Scheduling, correspondence and logistics are derived. Some executives want a trusted human right hand who manages relationships with people.
+43-6012|0|0|2|None|Legal document work is instrumental. Derived.
+43-6013|0|1.5|5|Presence|Scheduling, billing and records are instrumental. A sliver of patient-facing presence at the front desk.
+43-6014|0|1|4|Presence|Administrative support is instrumental. A sliver for school and church offices where the person at the desk is part of the community.
+43-9021|0|0|0|None|Data entry is instrumental. Pure derived demand.
+43-9022|0|0|0|None|Typing is instrumental. Pure derived demand.
+43-9031|0|0|0.5|None|Layout is instrumental. Derived.
+43-9041|0|0|0.5|None|Claims processing is instrumental. Derived.
+43-9051|0|0|0|None|Mail handling is instrumental. Pure derived demand.
+43-9061|0|0.5|2|Presence|General clerical work is instrumental. A sliver of front-counter presence in small offices.
+43-9071|0|0|0|None|Machine operation is instrumental. Pure derived demand.
+43-9081|0|0|0.5|None|Proofreading is instrumental. Derived.
+43-9111|0|0|0|None|Statistical clerical work is instrumental. Pure derived demand.
+43-9199|0|0|2|None|Miscellaneous office work; instrumental.
+45-1011|0|0|1|None|Supervising farm and forest crews is instrumental. Derived.
+45-2011|0|1|3|Accountability|Inspection is instrumental; small accountable-inspector share.
+45-2021|0|1|4|Provenance|Breeding is instrumental. A sliver of breeder reputation in show animals and horses.
+45-2041|0|0|0|None|Grading produce is instrumental. Pure derived demand.
+45-2091|0|0|0|None|Equipment operation is instrumental. Pure derived demand.
+45-2092|0|0.3|1|Provenance|Harvest labor is instrumental. A sliver of hand-harvested provenance in specialty crops.
+45-2093|0|0.3|1|Provenance|Animal husbandry is instrumental. A sliver of buyers who value animals raised by people.
+45-2099|0|0|1|None|Farm work is instrumental. Derived.
+45-3031|0|0.5|2|Provenance|Commercial fishing is instrumental. A sliver of small-boat, line-caught provenance.
+45-4011|0|0|1|None|Forestry work is instrumental. Derived.
+45-4021|0|0|0|None|Felling trees is instrumental. Pure derived demand.
+45-4022|0|0|0|None|Equipment operation is instrumental. Pure derived demand.
+45-4023|0|0|0|None|Grading logs is instrumental. Pure derived demand.
+45-4029|0|0|0|None|Logging work is instrumental. Pure derived demand.

@@ -1,0 +1,16 @@
+{
+  "rows": 831,
+  "jobs": 170267200,
+  "essential_equivalents": {
+    "low": 4273247.0,
+    "median": 12633969.0,
+    "high": 27569286.0
+  },
+  "essential_shares": {
+    "low": 0.025097300008457297,
+    "median": 0.07420083844686469,
+    "high": 0.1619177739458921
+  },
+  "zero_median": 333,
+  "zero_all": 158
+}

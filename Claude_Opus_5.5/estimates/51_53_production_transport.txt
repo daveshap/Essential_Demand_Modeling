@@ -1,0 +1,156 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+51-1011|0|0|0.5|None|Factory output is the product. Supervising production is derived.
+51-2011|0|0|0|None|Assembled aircraft are the product. Pure derived demand.
+51-2021|0|0|0|None|Assembled components are the product. Pure derived demand.
+51-2028|0|0|0|None|Assembled electronics are the product. Pure derived demand.
+51-2031|0|0|0|None|Assembled engines are the product. Pure derived demand.
+51-2041|0|0|0|None|Fabricated steel is the product. Pure derived demand.
+51-2051|0|0|0|None|Fiberglass parts are the product. Pure derived demand.
+51-2061|0|0|0|None|Timing devices are the product. Pure derived demand.
+51-2090|0|0|0|None|Assembled goods are the product; no buyer pays extra for a human assembler. Pure derived demand.
+51-3011|0.5|3|8|Provenance; Affinity|Most bakers work in grocery and industrial bakeries (derived). Artisan bakeries sell bread and pastry made by hand by a known baker, and some customers pay for that.
+51-3021|0|1.5|5|Affinity; Provenance|Most meat cutting is in supermarkets (derived). A sliver for the neighborhood butcher whose advice and craft regulars value.
+51-3022|0|0|0|None|Processed meat is the product. Pure derived demand.
+51-3023|0|0|0|None|Processed meat is the product. Pure derived demand.
+51-3091|0|0|0.5|None|Roasted and baked goods are the product. Derived.
+51-3092|0|0|0.5|None|Batch food products are the product. Derived.
+51-3093|0|0|0|None|Cooked food products are the product. Pure derived demand.
+51-3099|0|0|0.5|None|Food processing is instrumental. Derived.
+51-4021|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4022|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4023|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4031|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4032|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4033|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4034|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4035|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4041|0|0|0.5|None|Machined parts are the product. Derived.
+51-4051|0|0|0|None|Refined metal is the product. Pure derived demand.
+51-4052|0|0|0|None|Castings are the product. Pure derived demand.
+51-4061|0|0|0.5|None|Models are inputs to production. Derived.
+51-4062|0|0|0|None|Patterns are inputs to production. Pure derived demand.
+51-4071|0|0|0|None|Molds are inputs to production. Pure derived demand.
+51-4072|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4081|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4111|0|0|0.5|None|Tools and dies are inputs to production. Derived.
+51-4121|0|0|0.5|Provenance|Welded joints are the product. A sliver of metal art and custom fabrication.
+51-4122|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-4191|0|0|0|None|Heat treating is instrumental. Pure derived demand.
+51-4192|0|0|0|None|Layout is instrumental. Pure derived demand.
+51-4193|0|0|0|None|Plating is instrumental. Pure derived demand.
+51-4194|0|0|0|None|Sharpening is instrumental. Pure derived demand.
+51-4199|0|0|0|None|Metal and plastic work is instrumental. Pure derived demand.
+51-5111|0|0|0|None|Prepress work is instrumental. Pure derived demand.
+51-5112|0|0|0.5|None|Printed matter is the product. Derived (a sliver of letterpress craft).
+51-5113|0|0|0.5|None|Binding is instrumental. Derived (a sliver of hand bookbinding).
+51-6011|0|0|0.5|None|Clean clothes are the point. Derived.
+51-6021|0|0|0|None|Pressed garments are the point. Pure derived demand.
+51-6031|0|0|0.5|None|Sewn goods are the product. Derived.
+51-6041|3|10|22|Provenance; Affinity|Shoe repair is functional. Handmade boots, saddles and leather goods (26% self-employed) are bought for the maker's hand.
+51-6042|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-6051|5|15|30|Provenance|Hand sewing (quilts, couture finishing, restoration) is mostly done where human handwork is part of what is bought (59% self-employed).
+51-6052|8|20|38|Provenance; Presence; Affinity|Alterations are functional. Bespoke tailoring and dressmaking are bought for a person's fitting and handwork, as with a wedding dress (58% self-employed).
+51-6061|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-6062|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-6063|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-6064|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-6091|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-6092|0|0.5|2|Provenance|Patterns are inputs to garments. A sliver for couture patternmaking.
+51-6093|1|4|10|Provenance|Reupholstery is mostly functional. Custom and restoration upholstery is partly valued as craft.
+51-6099|0|0|1|None|Textile work is instrumental. Derived.
+51-7011|0.5|3|8|Provenance|Most cabinetry is production work. Custom pieces made by a named cabinetmaker carry some provenance.
+51-7021|1|4|10|Provenance|Finishing is mostly production. Antique restoration by hand is valued as craft.
+51-7031|1|5|12|Provenance|Models are mostly functional inputs. Some are crafted pieces valued for the maker (62% self-employed).
+51-7032|0|0|3|None|Patterns are inputs to production. Derived.
+51-7041|0|0|0|None|Sawmill work is instrumental. Pure derived demand.
+51-7042|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-7099|8|20|38|Provenance|Largely independent woodworkers (64% self-employed): custom furniture makers and wood turners whose buyers pay for handmade work.
+51-8011|1|3|8|Accountability|Reactor control is instrumental, but regulators and the public want licensed humans at the controls who can shut it down and answer for it.
+51-8012|0|0|0.5|None|Grid dispatch is instrumental. Derived.
+51-8013|0|0|0.5|None|Power plant operation is instrumental. Derived.
+51-8021|0|0|0|None|Boiler operation is instrumental. Pure derived demand.
+51-8031|0|0|0.5|Accountability|Clean water is the point. A sliver for the certified operator who answers for public health.
+51-8091|0|0|0|None|Plant operation is instrumental. Pure derived demand.
+51-8092|0|0|0|None|Plant operation is instrumental. Pure derived demand.
+51-8093|0|0|0|None|Refinery operation is instrumental. Pure derived demand.
+51-8099|0|0|0|None|Plant operation is instrumental. Pure derived demand.
+51-9011|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9012|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9021|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9022|0|0|0.5|None|Hand finishing is instrumental. Derived.
+51-9023|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9031|0|0|0|None|Hand cutting is instrumental. Pure derived demand.
+51-9032|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9041|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9051|0|0|0|None|Kiln and oven tending is instrumental. Pure derived demand.
+51-9061|0|0|0|None|Quality inspection is instrumental. Pure derived demand.
+51-9071|5|14|28|Provenance; Affinity|Production and repair work is derived. Custom and handmade jewelry, and engagement rings made with a jeweler, are bought partly for the maker and the relationship (32% self-employed).
+51-9081|0|0|0.5|None|Dental appliances are bought for fit. Derived.
+51-9082|0|0|0.5|None|Medical appliances are bought for function. Derived.
+51-9083|0|0|0|None|Lenses are bought for function. Pure derived demand.
+51-9111|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9123|1|4|10|Provenance|Hand decoration (ceramics, glass, signs) is partly bought for the human hand; production decorating is derived.
+51-9124|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9141|0|0|0|None|Chip fabrication is instrumental. Pure derived demand.
+51-9151|0|1|3|Provenance|Photo processing is instrumental. A sliver of fine-art darkroom printing.
+51-9161|0|0|0|None|Machine operation is instrumental. Pure derived demand.
+51-9162|0|0|0|None|Machine programming is instrumental. Pure derived demand.
+51-9191|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9192|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9193|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9194|1|4|10|Provenance|Most engraving is machine work. Hand engraving (firearms, jewelry, gifts) is partly bought for the human hand.
+51-9195|0|1|3|Provenance|Molding and casting are mostly production. A sliver of artisan casting.
+51-9196|0|0|0|None|Machine tending is instrumental. Pure derived demand.
+51-9197|0|0|0|None|Tire building is instrumental. Pure derived demand.
+51-9198|0|0|0|None|Helping production workers is instrumental. Pure derived demand.
+51-9199|0|0|0.5|None|Miscellaneous production work is instrumental. Derived.
+53-1041|0|0|0|None|Supervising cargo handling is instrumental. Pure derived demand.
+53-1047|0|0|0.5|None|Supervising freight and warehouse work is instrumental. Derived.
+53-2011|5|18|40|Accountability; Presence|Flying is the function, and automation already does much of it. Even at equal disclosed safety many passengers and regulators would want an accountable human aboard who shares the risk and answers for the flight; if so, the pilot's whole flight time is that presence.
+53-2012|2|8|20|Accountability; Presence|Charter, cargo and agricultural flying is instrumental. Tour, charter-passenger and instructional flying carry some human-aboard and teaching value.
+53-2021|1|4|10|Accountability|Separating aircraft is instrumental. A small share for an accountable human with authority over traffic decisions.
+53-2022|0|0|2|None|Airfield operations are instrumental. Derived.
+53-2031|3|10|22|Presence|Safety duties are functional. Hospitality is part of the product in premium cabins, and a calm human in an emergency is valued.
+53-3011|0|1|3|Presence|Patient transport is instrumental. A sliver of comfort.
+53-3031|0|0.5|2|Affinity|Route delivery is instrumental. A sliver of relationships with store owners on the route.
+53-3032|0|0|0|None|Freight doesn't care who drives it. Pure derived demand.
+53-3033|0|0|0|None|Packages don't care who drives them. Pure derived demand.
+53-3051|8|20|40|Presence; Accountability|Driving is instrumental. Many parents and districts would still want a trusted adult on the bus with their children if it drove itself, and the driver now fills that role for the whole route.
+53-3052|1|4|10|Presence|Driving is instrumental. A small share of riders (older, disabled, late-night) want a human aboard for help and security.
+53-3053|1|4|10|Presence; Affinity|Shuttle driving is instrumental. Chauffeured luxury service includes a person's attention and discretion.
+53-3054|0|1|3|Presence|Most riders want the ride; many prefer no driver. A sliver value conversation or help with bags.
+53-3099|0|0|2|None|Vehicle operation is instrumental. Derived.
+53-4011|0|0.5|2|Accountability|Train operation is instrumental. A sliver for an accountable crew on hazardous cargo.
+53-4013|0|0|0|None|Yard switching is instrumental. Pure derived demand.
+53-4022|0|0|0|None|Brake and switch work is instrumental. Pure derived demand.
+53-4031|0|1|3|Presence|Train operations are instrumental. A sliver of passenger-facing presence.
+53-4041|0|1|3|Presence|Train operation is instrumental. A sliver of rider reassurance.
+53-4099|0|0|0|None|Rail work is instrumental. Pure derived demand.
+53-5011|0|0|0|None|Deck and engine work is instrumental. Pure derived demand.
+53-5021|2|6|15|Accountability; Presence|Navigation is instrumental. The master of a vessel answers for it under maritime law, and charter-fishing and tour captains are part of the trip.
+53-5022|1|4|10|Presence|Boat operation is instrumental. Some tour and water-taxi operators are part of the experience.
+53-5031|0|0|0|None|Ship engineering is instrumental. Pure derived demand.
+53-6011|0|0|0|None|Bridge and lock operation is instrumental. Pure derived demand.
+53-6021|0|1|3|Presence|Parking is instrumental. A sliver of valet service as hospitality.
+53-6031|0|0.5|2|Presence|Fueling and washing are instrumental (full-service rules exist only by law). A sliver of personal service.
+53-6032|0|0|0|None|Aircraft servicing is instrumental. Pure derived demand.
+53-6041|0|0|0|None|Traffic studies are instrumental. Pure derived demand.
+53-6051|0|1|3|Accountability|Inspection is instrumental; small accountable-inspector share.
+53-6061|1|4|10|Presence|Includes people who assist elderly and disabled travelers, where a human helper is valued; the rest is instrumental.
+53-6099|0|0|1|None|Miscellaneous transport work is instrumental. Derived.
+53-7011|0|0|0|None|Conveyor tending is instrumental. Pure derived demand.
+53-7021|0|0|0|None|Crane operation is instrumental. Pure derived demand.
+53-7031|0|0|0|None|Dredging is instrumental. Pure derived demand.
+53-7041|0|0|0|None|Hoisting is instrumental. Pure derived demand.
+53-7051|0|0|0|None|Forklift work is instrumental. Pure derived demand.
+53-7061|0|0|0|None|Cleaning vehicles is instrumental. Pure derived demand.
+53-7062|0|0|0|None|Moving freight is instrumental. Pure derived demand.
+53-7063|0|0|0|None|Feeding machines is instrumental. Pure derived demand.
+53-7064|0|0|0|None|Packing is instrumental. Pure derived demand.
+53-7065|0|0|0|None|Stocking shelves and picking orders is instrumental. Pure derived demand.
+53-7071|0|0|0|None|Pumping station operation is instrumental. Pure derived demand.
+53-7072|0|0|0|None|Pump operation is instrumental. Pure derived demand.
+53-7073|0|0|0|None|Wellhead pumping is instrumental. Pure derived demand.
+53-7081|0|0|0|None|Trash collection is instrumental. Pure derived demand.
+53-7121|0|0|0|None|Loading is instrumental. Pure derived demand.
+53-7199|0|0|0|None|Material moving is instrumental. Pure derived demand.

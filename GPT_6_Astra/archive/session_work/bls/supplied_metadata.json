@@ -1,0 +1,13 @@
+{
+  "source_path": "C:\\Users\\daves\\Downloads\\occupation.xlsx",
+  "source_sheet": "Table 1.2",
+  "sha256": "08ee182f992d972593e64559ce467bad75967d2228f11ad5e2f86d4ec0ee6c00",
+  "processed_at": "2026-11-16T08:29:02.334879-05:00",
+  "source_url": "https://www.bls.gov/emp/ind-occ-matrix/occupation.xlsx",
+  "official_html": "https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm",
+  "base_year": 2025,
+  "detailed_count": 831,
+  "detailed_employment": 170267200,
+  "published_total": 170280800,
+  "comparison": "All detailed codes, titles and 2025 employment match the freshly retrieved official BLS HTML table exactly."
+}

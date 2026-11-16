@@ -1,0 +1,26 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+21-1012|15|28|48|Presence; Affinity|Scheduling, testing, college applications and career information are derived. Students in crisis or making hard decisions, and their parents, want a human who knows them; that counseling time is a large minority of the job.
+21-1013|30|52|72|Presence; Affinity|Couples and families come to have a human help them with human relationships, and the session is most of the job. Notes, billing and treatment planning are derived. Low assumes many accept an equally effective AI at lower cost.
+21-1015|15|30|50|Presence; Affinity|Case management, job placement logistics and paperwork are derived. The counseling relationship with people rebuilding lives after injury or disability is human-specific.
+21-1018|25|45|68|Presence; Affinity|Individual and group counseling is the core, and many clients want a human who has been there or who cares; peer-recovery work makes the person the point. Documentation, case management and payer requirements are derived; institutional payers would push cheaper equivalents.
+21-1019|30|50|70|Presence; Affinity|Grief, pastoral and other specialty counselors (39% self-employed). Clients come for a human to sit with them; administrative time is derived.
+21-1021|15|30|50|Accountability; Presence|Decisions to investigate a family or remove a child should be made by an accountable person, and home visits and family relationships need one. Heavy documentation, eligibility and records work is derived.
+21-1022|12|25|42|Presence|Discharge planning and benefits navigation are derived logistics. Sitting with patients and families facing serious illness or death is human-specific.
+21-1023|25|40|60|Presence; Affinity|Clinical counseling with people in addiction and mental-health crisis is largely human-specific; case management and documentation are derived.
+21-1029|15|30|50|Presence; Accountability|Mixed social work specialties (15% self-employed); the counseling and advocacy share is human-specific, the administration is not.
+21-1091|5|12|25|Presence|Program design, materials and data are derived. Running community workshops where a trusted person delivers the message is a minority share.
+21-1092|10|22|40|Accountability; Presence|Monitoring, report writing and compliance checks are derived. Decisions that affect a person's liberty, and the relationship that supports rehabilitation, need an accountable human.
+21-1093|5|12|25|Presence|Intake, eligibility and connecting clients to services are mostly derived. Some time is spent being a supportive human with vulnerable clients.
+21-1094|15|30|50|Affinity; Presence|The point of the role is a trusted member of the community whom people will listen to; that is affinity. Scheduling, enrollment and data entry are derived.
+21-1099|10|22|40|Presence; Affinity|Victim advocates, peer specialists and veterans' service officers: being with people is a large share; paperwork and navigation are derived.
+21-2011|65|82|93|Presence; Affinity; Accountability|Worship, sacraments, weddings, funerals and pastoral care are acts a congregation wants from a human with standing in the community; the human is the point. Administration and building management are derived.
+21-2021|40|60|78|Presence; Affinity|Youth ministry and religious education are relationships and formation within a faith community. Program administration and materials are derived.
+21-2099|40|60|80|Presence; Affinity|Religious sisters and brothers, missionaries and other religious workers whose service is a vocation people want from a human. Charitable support work is partly derived.
+23-1011|7|17|32|Accountability; Affinity; Presence|Research, drafting, document review and due diligence are derived and are most of the hours. Advocacy before human judges and juries, counsel on high-stakes decisions and being professionally on the hook are human-specific.
+23-1012|0|0|3|None|Research and drafting for judges are derived support work.
+23-1021|30|50|70|Accountability|Due process gives people a hearing before an accountable human decision maker, even in routine benefit cases. Case preparation and opinion drafting are derived.
+23-1022|25|45|65|Accountability; Affinity; Presence|Parties choose a neutral they trust; a mediator's presence and judgment are what they are buying. Scheduling, document review and drafting are derived.
+23-1023|50|70|88|Accountability; Presence|Legitimacy requires that people be judged by an accountable human who presides and decides; that is most of the job. Research and drafting are derived (and largely done by clerks).
+23-2011|0|0|2|None|Legal research, drafting and case management are derived.
+23-2093|0|0|1|None|Title searching is instrumental. Derived.
+23-2099|0|0|2|None|Miscellaneous legal support work. Derived.

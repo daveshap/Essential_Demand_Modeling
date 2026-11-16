@@ -1,0 +1,65 @@
+# code|low|median|high|tags|rationale   (shares in percent; one line per BLS detailed occupation)
+25-1011|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring, advising and seminar discussion with a human expert are what some students pay a premium for.
+25-1021|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising students and research apprentices are human-specific.
+25-1022|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising students are human-specific.
+25-1031|7|18|35|Affinity; Presence|Studio critique and mentoring by a practicing architect are a larger share than in lecture fields; lecturing, grading and research are derived.
+25-1032|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising are human-specific.
+25-1041|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising are human-specific.
+25-1042|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising are human-specific.
+25-1043|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising are human-specific.
+25-1051|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising are human-specific.
+25-1052|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising are human-specific.
+25-1053|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising are human-specific.
+25-1054|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising are human-specific.
+25-1061|7|18|35|Affinity; Presence|Seminar discussion and mentoring are a somewhat larger share in social sciences; lecturing, grading and research are derived.
+25-1062|7|18|35|Affinity; Presence|Seminar discussion and mentoring are human-specific; lecturing, grading and research are derived.
+25-1063|7|18|35|Affinity; Presence|Seminar discussion and mentoring are human-specific; lecturing, grading and research are derived.
+25-1064|7|18|35|Affinity; Presence|Seminar discussion and mentoring are human-specific; lecturing, grading and research are derived.
+25-1065|7|18|35|Affinity; Presence|Seminar discussion and mentoring are human-specific; lecturing, grading and research are derived.
+25-1066|7|18|35|Affinity; Presence|Seminar discussion and mentoring are human-specific; lecturing, grading and research are derived.
+25-1067|7|18|35|Affinity; Presence|Seminar discussion and mentoring are human-specific; lecturing, grading and research are derived.
+25-1069|7|18|35|Affinity; Presence|Seminar discussion and mentoring are human-specific; lecturing, grading and research are derived.
+25-1071|8|20|38|Affinity; Presence; Accountability|Clinical teaching at the bedside, apprenticeship and supervising trainees with real patients carry human and accountable components; lectures, exams and research are derived.
+25-1072|8|20|38|Affinity; Presence; Accountability|Supervising nursing students in clinical placements and mentoring them are human-specific; lectures, exams and coursework are derived.
+25-1081|8|20|38|Affinity; Presence|Training teachers involves modeling, mentoring and supervising student teaching; lectures, grading and research are derived.
+25-1082|6|16|32|Affinity; Presence|Lecturing, grading and research are mostly derived. Mentoring and advising are human-specific.
+25-1111|6|16|32|Affinity; Presence|Lecturing and grading are mostly derived. Mentoring by experienced practitioners is human-specific.
+25-1112|8|20|38|Affinity; Presence|Socratic classroom teaching, clinics and mentoring are a sizeable human share; research, writing and grading are derived.
+25-1113|8|20|38|Affinity; Presence|Field supervision and mentoring of future social workers are human-specific; lectures and grading are derived.
+25-1121|15|32|52|Presence; Provenance; Affinity|Students study with working artists: studio critique, ensemble direction, rehearsal and performance are taught person to person. Lectures, grading and administration are derived.
+25-1122|6|16|32|Affinity; Presence|Lecturing and grading are mostly derived. Mentoring and advising are human-specific.
+25-1123|8|20|38|Affinity; Presence|Writing workshops and discussion of literature with a human reader are a sizeable share; lecturing, grading and research are derived.
+25-1124|7|18|35|Presence; Affinity|Conversation practice and cultural connection with a human speaker are partly human-specific; drills, grading and research are derived.
+25-1125|7|18|35|Affinity; Presence|Seminar discussion and mentoring are human-specific; lecturing, grading and research are derived.
+25-1126|10|24|44|Affinity; Presence|Philosophical dialogue and religious formation (including seminaries) are person-to-person by nature; lecturing, grading and research are derived.
+25-1192|6|16|32|Affinity; Presence|Lecturing and grading are mostly derived. Mentoring and advising are human-specific.
+25-1193|10|24|44|Presence; Affinity|Teaching physical activity, coaching and leading groups are partly human-specific; lectures and grading are derived.
+25-1194|5|14|28|Affinity; Presence|Trade and technical skills taught hands-on. Outcomes are functional, but apprentices value learning from an experienced practitioner; lectures and grading are derived.
+25-1199|6|16|32|Affinity; Presence|Mixed fields. Lecturing, grading and research are mostly derived; mentoring and advising are human-specific.
+25-2011|30|50|70|Presence; Affinity|Parents want people caring for and forming their three- and four-year-olds; at that age the relationship is much of the teaching. Cleaning, prep and documentation are derived.
+25-2012|25|42|62|Presence; Affinity|Five-year-olds still need caring adults for much of the day; supervision, comfort and relationship are human-specific. More of the day is instruction, plus planning and assessment, which are derived.
+25-2021|15|32|50|Presence; Accountability; Affinity|Instruction, planning and grading are derived. A responsible adult present with young children, and the relationships that shape them, are human-specific; that is roughly a third of the day.
+25-2022|13|28|45|Presence; Accountability; Affinity|Content instruction, planning and grading are derived. Supervising young adolescents and mentoring them carry a human requirement.
+25-2023|10|22|40|Presence; Affinity|Hands-on skills teaching is mostly instrumental; supervising and mentoring young adolescents are human-specific.
+25-2031|12|25|42|Affinity; Presence|Content instruction and grading are derived. Teenagers' mentors, coaches and role models are human-specific; supervision matters less than for younger children.
+25-2032|10|22|40|Affinity; Presence|Hands-on skills teaching is mostly instrumental; mentoring teenagers into trades is human-specific.
+25-2051|30|48|68|Presence; Affinity|Young children with disabilities need caring human contact much of the day, and parents want people doing it. IEP paperwork and planning are derived.
+25-2052|22|40|60|Presence; Affinity; Accountability|Intensive one-to-one and small-group care with children who have disabilities is largely human-specific. IEP paperwork, assessment and planning are derived.
+25-2057|20|38|58|Presence; Affinity; Accountability|Small-group support and relationships with students who have disabilities are human-specific. Paperwork and planning are derived.
+25-2058|18|35|55|Presence; Affinity; Accountability|Relationships and transition support for teenagers with disabilities are human-specific. Paperwork and planning are derived.
+25-2059|20|38|58|Presence; Affinity; Accountability|Other special education settings; relationship and care time is human-specific, paperwork is derived.
+25-3011|8|18|35|Presence; Affinity|Literacy and language goals are functional, and AI tutors can teach them. Adult immigrants and returning learners value a human teacher and a class community; that is a minority share.
+25-3021|30|50|68|Presence; Affinity; Provenance|Music, art, dance, cooking and craft classes are bought largely for learning from a person, and the lesson is the experience. Driving and test-prep instruction within the group are derived.
+25-3031|12|28|45|Presence; Accountability|Mostly supervising classes from a lesson plan. Schools and parents want a responsible human adult with the children; little instruction or relationship is involved.
+25-3041|15|32|52|Affinity; Presence|AI tutors can deliver the instruction. Families still pay for a person the student answers to, who knows them and keeps them going; that is a large share of a tutor's value.
+25-3099|10|22|40|Presence; Affinity|Mixed instructors; relationship and supervision are human-specific, content delivery is derived.
+25-4011|1|3|8|Provenance; Accountability|Records management is instrumental. A sliver for authenticating and answering for collections.
+25-4012|5|12|25|Provenance; Presence|Collection management is instrumental. Visitors and institutions value a human curator's selection and voice, and public programs.
+25-4013|1|4|10|Accountability; Provenance|Handling and treatment of objects are instrumental. Museums want an accountable human hand on irreplaceable works.
+25-4022|4|10|22|Presence|Reference, cataloging and collection work are derived. Children's programs and the library as a staffed community space are human-specific.
+25-4031|0|2|6|Presence|Circulation and processing are derived; a sliver of patron-facing presence.
+25-9021|5|12|25|Presence; Affinity|Extension educators: research translation is derived, but farmers and families trust a known local educator at workshops and visits.
+25-9031|2|6|14|Affinity; Presence|Curriculum design is derived. Coaching teachers in person is partly human-specific.
+25-9044|5|12|25|Presence; Affinity|Grading is derived. Leading sections and labs and mentoring undergraduates are partly human-specific.
+25-9045|12|25|45|Presence|Many work one to one with children who have disabilities, or supervise children at lunch and recess. Families want human adults doing that; clerical and copying work is derived.
+25-9099|4|10|22|Presence|Mixed education and library support work. Mostly derived, with some human-presence roles.
